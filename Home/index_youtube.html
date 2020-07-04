@@ -59,6 +59,9 @@
     <link rel="stylesheet" type="text/css" media="screen" href="../admin/css/smartadmin-rtl.min.css">
     <!-- Demo purpose only: goes with demo.js, you can delete this css when designing your own WebApp -->
     <link rel="stylesheet" type="text/css" media="screen" href="../admin/css/demo.min.css">
+
+  
+ 
     <style>
         .circle {
             height: 20px;
@@ -183,14 +186,15 @@
         <!--=== End Header ===-->
 
         
+    
 <!-- slide -->
 <div class="tp-banner-container">
     <div class="webportal-slider">
         <ul>
-                    <li class="revolution-ch1" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 1"> 
+                    <li class="revolution-ch1" data-transition="fade" data-slotamount="115" data-masterspeed="1000" data-title="Slide 1"> 
                         <img src="../assets/img/sliders/98c19e08-c7e2-4bf2-b29e-fe7bce5ae48aweb001.png" class="img-responsive" alt="slide" longdesc="../_/assets/img/sliders/98c19e08-c7e2-4bf2-b29e-fe7bce5ae48aweb001.html" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     </li>
-                    <li class="revolution-ch1" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 2">
+                    <li class="revolution-ch1" data-transition="fade" data-slotamount="115" data-masterspeed="1000" data-title="Slide 2">
                         <img src="../assets/img/sliders/f0f65733-93bb-473b-876d-feec77de1f34web2.png" class="img-responsive" alt="slide" longdesc="../_/assets/img/sliders/f0f65733-93bb-473b-876d-feec77de1f34web2.html" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     </li>
         </ul>
@@ -564,14 +568,14 @@
     <script type="text/javascript">
         jQuery(document).ready(function () {
 
-			App.init();
-			App.initParallaxBg();
-			FancyBox.initFancybox();
-			App.initScrollBar();
-			
+            App.init();
+            App.initParallaxBg();
+            FancyBox.initFancybox();
+            App.initScrollBar();
+            
 
-			$(document).ready(function () {
-			    $.ajax(
+            $(document).ready(function () {
+                $.ajax(
                    {
                        type: "GET",
                        url: "/Menu/GetFrontendMenu",
@@ -581,29 +585,29 @@
                        }
                    });
 
-			    $(".shoseStyle").click(function () {
-			        var style = $(this).attr("data-style");
-			        if (style == 1) {
-			            window.location.href = "";
-			        }
-			        else if (style == 2) {
-			            $("div").css('background-color', "#000");
-			            $(".bg-color-light").css('background-color', "#000");
-			            $("a").css('color', '#FFF');
-			            $("li").css('color', '#FFF');
-			        }
-			        else {
-			            $("div").css('background-color', "#000");
-			            $(".bg-color-light").css('background-color', "#000");
-			            $("a").css('color', '#fec50c');
-			            $("li").css('color', '#fec50c');
-			        }
-			    })
-			});
+                $(".shoseStyle").click(function () {
+                    var style = $(this).attr("data-style");
+                    if (style == 1) {
+                        window.location.href = "";
+                    }
+                    else if (style == 2) {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#FFF');
+                        $("li").css('color', '#FFF');
+                    }
+                    else {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#fec50c');
+                        $("li").css('color', '#fec50c');
+                    }
+                })
+            });
            
-			$("li").click(function () {
-			    $("active").appendTo('li');
-			})
+            $("li").click(function () {
+                $("active").appendTo('li');
+            })
         });
 
         function upFont(size) {
@@ -780,6 +784,36 @@
 
         </script>
     
+   
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-white";
+}
+</script>
+
 </body>
 
 <!-- Mirrored from portal.dep.go.th/Home/Index by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 14:17:03 GMT -->
