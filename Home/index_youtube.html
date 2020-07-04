@@ -5,7 +5,7 @@
 <!-- Mirrored from portal.dep.go.th/Home/Index by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 14:17:03 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-    <title>กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการdi</title>
+    <title>กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -79,32 +79,59 @@
                 <div class="topbar">
                     <ul class="loginbar pull-right">
                         <li class="hoverSelector">
-                            <a href="Login.html" target="_blank"> สำหรับเจ้าหน้าที่                                
+                            <a href="http://web1.dep.go.th" target="_blank">
+                                เว็บไซต์เดิม
                             </a>
                         </li>
                         <li class="topbar-devider"></li>
                         <li class="hoverSelector">
-                            <a>ภาษา</a>
-                            <ul class="languages hoverSelectorBlock">
-                                <li class = "active"><a href="#" onclick="Lang('TH')">ไทย </a></li>
-                                <li ><a href="#" onclick="Lang('EN')">English</a></li>
-                            </ul> 
+                            <a href="/Home/LoginAdmin" target="_blank">
+                                สำหรับเจ้าหน้าที่
+                            </a>
                         </li>
                         <li class="topbar-devider"></li>
-                          <li class="hoverSelector">
-                            <a href="Login.html" target="_blank"> ค้นหา                                
-                            </a>
+                        <li class="hoverSelector">
+                            <a href="http://intranet.dep.go.th" target="_blank">ระบบอินทราเน็ต</a>
+            </li>
+                    <li class="topbar-devider"></li>
+                        <li class="hoverSelector">
+                            <a href="http://smart.dep.go.th" target="_blank">ระบบสารบรรณใหม่</a>
+                        </li>
+                        <li class="topbar-devider"></li>
+                        <li class="hoverSelector">
+                            <a href="#" onclick="Lang('TH')"><img class="fa glyphicon-flag" src="/admin/img/flags/th.png" alt="Thailand"></a> &nbsp;
+                            <a href="#" onclick="Lang('EN')"><img class="fa glyphicon-flag" src="/admin/img/flags/us.png" alt="English"></a>
+                        </li>
+                        <li class="topbar-devider"></li>
+                        <li class="hoverSelector">
+                            <a>ตัวอักษร</a>
+                            <ul class="languages hoverSelectorBlock">
+                                    <li class="active"><a href="javascript:void(0)" style="font-size:14px; text-align:center" onclick="upFont(14)">ก</a></li>
+                                    <li><a href="javascript:void(0)" style="font-size:16px; text-align:center" onclick="upFont(16)">ก</a></li>
+                                    <li><a href="javascript:void(0)" style="font-size:18px; text-align:center" onclick="upFont(18)">ก</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="topbar-devider"></li>
+                        <li class="hoverSelector">
+                            <a class="circle shoseStyle" data-style="1" href="javascript:void(0)" style="background-color:white;color:#000;border-color:#000;border-style:solid;border-width:1px;">C</a>
+                            <a class="circle shoseStyle" data-style="2" href="javascript:void(0)" style="background-color:#000;color:#FFF;border-color:#000;border-style:solid;border-width:1px;">C</a>
+                            <a class="circle shoseStyle" data-style="3" href="javascript:void(0)" style="background-color:#000;color:#ffd800;border-color:#000;border-style:solid;border-width:1px;">C</a>
+                        </li>
+                        <li class="topbar-devider"></li>
+                        <li class="hoverSelector">
+                            
+                            <a href="/Home/PageSearch" id="search">ค้นหา</a>
                         </li>
                     </ul>
                 </div>
                 <!-- End Topbar -->
                 <!-- Logo -->
-                <a class="logo" href="../index.html">
-                    <img src="../assets/img/logo101.png" class="logo1 img-responsive" alt="พก" longdesc="../_/assets/img/logo101.html">
-                    <img src="../assets/img/logo002.png" class="logo2 img-responsive" alt="พก" longdesc="../_/assets/img/logo101.html">
+                <a class="logo" href="/">
+                    <img src="/assets/img/logo101.png" class="logo1 img-responsive" alt="พก" longdesc="~/assets/img/logo101.png">
+                    <img src="/assets/img/logo002.png" class="logo2 img-responsive" alt="พก" longdesc="~/assets/img/logo101.png">
                 </a>
                 <!-- End Logo -->
-
                 <!-- Topbar -->
                 <div class="style-switcher animated fadeInRight" style="display: none;">
                     <div class="style-swticher-header">
@@ -129,11 +156,11 @@
                     <span class="sr-only">Toggle navigation</span>
                     <span class="fa fa-bars"></span>
                 </button>
+                <!-- End Toggle -->
             </div>
-            <!--/end container-->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div id="menu"><div class="navbar-collapse mega-menu navbar-responsive-collapse collapse in" aria-expanded="true" style="">
+            <!-- menus list-->
+            <div id="menu">
+    <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
         <div class="container">
             <ul class="nav navbar-nav">
                 <!-- Home -->
@@ -144,90 +171,773 @@
                                 <a href="/Home/Index">
 หน้าหลัก                                </a>
                             </li>
-                             <li>
-                                <a href="/Home/AnnounceList/68">
-ประวัติความเป็นมา                      </a>
-                            </li>
-                             <li>
-                                <a href="/Home/AnnounceList/68">
-โครงสร้าง                                </a>
-                            </li>
-                           
-                            <li>
-                                <a href="/Home/AnnounceList/68">
-ประชาสัมพันธ์                                </a>
-                            </li>
-                                    <li class="dropdown" style="padding-right:11px;">
-                                        <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-บริการฝึกอาชีพ/สวัสดิการ/สิทธิ    </a>
-                                         
-                                    </li>
-                            <li>
-                                <a href="javascript:ShowQuestionModal()">
-ระเบียบกฏหมาย/วิชาการ                              </a>
-                            </li>
-                             <li>
-                                <a href="javascript:ShowQuestionModal()">
-ผลิตภัณฑ์ฝีมือคนพิการ                              </a>
-                            </li>
-                                <li>
-                                <a href="javascript:ShowQuestionModal()">
-ติดต่อ                              </a>
-                            </li>
-                           
-            </ul>
+                                <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+เกี่ยวกับ พก.                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="mega-menu-content disable-icons">
+                                                <div class="container">
+                                                    <div class="row equal-height">
+                                                        <!-- Col 1 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1349/2">
+- ประวัติความเป็นมา                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1350/2">
+- วิสัยทัศน์ พันธกิจ ยุทธศาสตร์                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 2 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1351/2">
+- ภารกิจ อำนาจหน้าที่                                                                                </a>
+
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1541/2">
+- แผนยุทธศาสตร์ แผนปฏิบัติราชการ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 3 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/4333/3">
+- โครงสร้างหน่วยงาน                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1355/2">
+- ตราสัญลักษณ์                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 4 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>                                <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+ผู้บริหาร                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="mega-menu-content disable-icons">
+                                                <div class="container">
+                                                    <div class="row equal-height">
+                                                        <!-- Col 1 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="https://www.m-society.go.th/news_view.php?nid=26304">
+- ผู้บริหารฝ่ายการเมือง พม                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://www.m-society.go.th/news_view.php?nid=931">
+- ผู้บริหารฝ่ายข้าราชการประจำ พม.                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 2 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Executives/GetManagers">
+- ผู้บริหาร พก.                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1253">
+- ผู้บริหารเทคโนโลยีสารสนเทศระดับสูง ( CIO )                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 3 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Executives/GetExecutive?ExecutiveTypeId=9">
+- ทำเนียบผู้บริหารพก.                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 4 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>                                      <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+ประชาสัมพันธ์                                                                            </a>
+                                          <ul class="dropdown-menu">
+                                             <li>
+                                                <div class="mega-menu-content disable-icons">
+                                                    <div class="container">
+                                                       <div class="row equal-height">
+                                                           <!-- Col 1 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/1">
+- ข่าวประชาสัมพันธ์                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="http://www.dep.go.th/Content/View/1259/3">
+- ปฏิทินกิจกรรม                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/46">
+- จัดซื้อจัดจ้าง                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                           <!-- Col 2 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/48">
+- ประกาศราคากลาง                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="http://dep.go.th/Content/View/6104/3">
+- การจัดซื้อจัดจ้างหรือการจัดหาพัสดุ                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/49">
+
+สรุปผลการจัดซื้อจัดจ้างรายเดือน พก.                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/1177">
+
+สรุปผลการจัดซื้อจัดจ้างรายปี พก.                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/1188">
+
+แผนการจัดชื้อจัดจ้างหรือแผนการจัดหาพัสดุ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/1180/3">
+- รายงานผลการดำเนินงานของกรม                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                            <!-- Col 3 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="/home/AnnounceList/1182">
+- วัฒนธรรมองค์กร                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/50">
+- สมัครงาน                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/1155">
+- ทั่วไป                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                           <!-- Col 4 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/43">
+- เอกสาร                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                             </li>
+                                             </ul>
+                                          </li>
+                                <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+สิทธิ/สวัสดิการ/บริการ                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="mega-menu-content disable-icons">
+                                                <div class="container">
+                                                    <div class="row equal-height">
+                                                        <!-- Col 1 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1337/2">
+- บัตรประจำตัวคนพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1338/2">
+- กองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1339/2">
+- บริการผู้ช่วยคนพิการ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 2 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1340/2">
+- สิ่งอำนวยความสะดวก                                                                                </a>
+
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1341/2">
+- การรับคนพิการเข้าสถานคุ้มครอง                                                                                </a>
+
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1342/2">
+- อาชีวบำบัด                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 3 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1343/2">
+- ล่ามภาษามือ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1344/2">
+- เครื่องช่วยความพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1345/2">
+- เงินสงเคราะห์                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 4 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="http://web1.dep.go.th/?q=th/qa">
+- ถาม-ตอบ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1539/2">
+- ดาวน์โหลด                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/Content/View/1361/3">
+- คำถามที่พบบ่อย                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>                                      <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+กฎหมาย/วิชาการ                                                                            </a>
+                                          <ul class="dropdown-menu">
+                                             <li>
+                                                <div class="mega-menu-content disable-icons">
+                                                    <div class="container">
+                                                       <div class="row equal-height">
+                                                           <!-- Col 1 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="http://dep.go.th/Content/View/6105/3">
+- คณะกรรมการส่งเสริมและพัฒนาคุณภาพชีวิตและคนพิการแห่งชาติ (กพช.)                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/1165" style="padding-left:50px;">
+รายงานการประชุมฯ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/1166" style="padding-left:50px;">
+คำสั่งแต่งตั้งคณะอนุกรรมการฯ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/58">
+- รัฐธรรมนูญ                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                           <!-- Col 2 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="/Home/AnnounceList/59">
+- พระราชบัญญัติ                                                                                                                         </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="http://dep.go.th/Content/View/6106/3">
+- กฏ/ระเบียบ/ข้อบังคับ                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/112/2">
+
+กฏบัตรการตรวจสอบภายใน                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/114">
+
+กฏหมายระหว่างประเทศ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/home/AnnounceList/116">
+
+คำสั่ง                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/117">
+
+มติ ครม                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/115">
+
+ประกาศ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/62">
+
+ระเบียบ                                                                                                                                 </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/113">
+
+กฎกระทรวง                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                            <!-- Col 3 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="http://dep.go.th/Content/View/6108/3">
+- คลังความรู้                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/64" style="padding-left:50px;">
+สถานการณ์ด้านคนพิการ                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="http://ecard.dep.go.th/nep_all/stat.php" target="_blank" style="padding-left:50px;">
+สถิติข้อมูลคนพิการประจำเดือน                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/66" style="padding-left:50px;">
+บทความ/งานวิจัย                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/111" style="padding-left:50px;">
+รายงานประจำปี                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/home/AnnounceList/1189">
+- คลังความรู้ป้องกัน COVID-19                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                            <li>
+                                                                                                                                <a href="/Home/AnnounceList/1192" style="padding-left:50px;">
+สถิติผู้ติดเชื้อ COVID-19                                                                                                                                </a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="https://anyflip.com/bookcase/xakol" target="_blank" style="padding-left:50px;">
+แนวทางการป้องกัน COVID-19                                                                                                                                 </a>
+                                                                                                                            </li>
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                           <!-- Col 4 -->
+                                                              <div class="col-md-3 equal-height-in">
+                                                                                                    <ul class="list-unstyled equal-height-list">
+                                                                                                                    <li>
+                                                                                                                        <a href="http://opdc.dep.go.th/">
+- การเปิดเผยข้อมูลสาธารณะ                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                                    <li>
+                                                                                                                        <a href="/Download/GetDownloads">
+- เอกสารดาวน์โหลด                                                                                                                        </a>
+                                                                                                                    </li>
+                                                                                                                <ul style="list-style-type:none">
+                                                                                                                </ul>
+                                                                                                    </ul>
+                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                             </li>
+                                             </ul>
+                                          </li>
+                                <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+ระบบงานของ พก.                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="mega-menu-content disable-icons">
+                                                <div class="container">
+                                                    <div class="row equal-height">
+                                                        <!-- Col 1 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="http://intranet.dep.go.th/">
+- ระบบอินทราเน็ต                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://accounts.mail.go.th/?username=%40dep.go.th">
+- ระบบจดหมายอิเอ็กทรอนิกส์                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://ecard.dep.go.th/nep_all/index.php">
+- ระบบงานออกบัตรประจำตัวคนพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://job.dep.go.th/">
+- ระบบรายงานผลการจ้างงานคนพิการ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 2 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="http://etracking.dep.go.th/">
+- ระบบติดตามผลการดำเนินงานและการใช้จ่ายเงิน                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://sign.dep.go.th">
+- ระบบฐานข้อมูลล่ามภาษามือ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://fund.dep.go.th/">
+- ระบบงานกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://nep1.dep.go.th/dis/">
+- ระบบฐานข้อมูลคนพิการต้นแบบ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 3 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="http://estandard.dep.go.th/">
+- ระบบฐานข้อมูลองค์กรด้านคนพิการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://budget.dep.go.th/dep_app/isecurity/home/">
+- ระบบงบประมาณการเงินและบัญชี                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://depsrd.dep.go.th/">
+- ระบบข้อมูลผู้รับบริการ                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="http://sdc.dep.go.th/">
+- ระบบสารสนเทศมาตรฐานคุณภาพชีวิตคนพิการ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 4 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="http://203.107.181.48">
+- ระบบบริหารงานคลัง                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://covid.dep.go.th/register/">
+- ระบบสำรวจข้อมูลคนพิการ ในภาวะCOVID-19                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>                                <li class="dropdown mega-menu-fullwidth margin-right-20">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+ติดต่อ พก.                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <div class="mega-menu-content disable-icons">
+                                                <div class="container">
+                                                    <div class="row equal-height">
+                                                        <!-- Col 1 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1252/3">
+- ส่วนกลาง                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 2 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1330/3">
+- ศูนย์พัฒนาศักยภาพและอาชีพ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 3 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/1331/3">
+- สถานคุ้มครองและพัฒนาคนพิการ                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                        <!-- Col 4 -->
+                                                        <div class="col-md-3 equal-height-in">
+                                                            <ul class="list-unstyled equal-height-list">
+                                                                            <li>
+                                                                                <a href="/Content/View/4303/3">
+- ศูนย์พัฒนาศักยภาพบุคคลออทิสติก                                                                                </a>
+                                                                            </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>            </ul>
         </div><!--/end container-->
-    </div> </div>
-            <!--/navbar-collapse-->
+    </div>
+</div>
+
+
+            <!-- end menus list-->
         </div>
         <!--=== End Header ===-->
 
         
-        
+<style>
+   .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+    </style>
 <!-- slide -->
-<div class="tp-banner-container">
-    <div class="webportal-slider">
-        <ul>
-                     <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 1" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
-                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined">
-                            <div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="../assets/img/sliders/98c19e08-c7e2-4bf2-b29e-fe7bce5ae48aweb001.png" data-src="../assets/img/sliders/98c19e08-c7e2-4bf2-b29e-fe7bce5ae48aweb001.png" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;../assets/img/sliders/98c19e08-c7e2-4bf2-b29e-fe7bce5ae48aweb001.png&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+<div class="tp-banner-container " style="overflow: visible;">
+    <div class="webportal-slider revslider-initialised tp-simpleresponsive" id="revslider-20" style="height: 92px;">
+        <ul class="tp-revslider-mainul" style="display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 1" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="../assets/img/sliders/e950c403-c710-4a13-9f28-abeaca9b25eeSlide_4july.jpg" data-src="../assets/img/sliders/e950c403-c710-4a13-9f28-abeaca9b25eeSlide_4july.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;../assets/img/sliders/e950c403-c710-4a13-9f28-abeaca9b25eeSlide_4july.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
                         <a target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
                     </li>
-
-
-
-                      <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 1" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
-                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined">
-                            <div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="../assets/img/sliders/f0f65733-93bb-473b-876d-feec77de1f34web2.png" data-src="../assets/img/sliders/f0f65733-93bb-473b-876d-feec77de1f34web2.png" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;../assets/img/sliders/f0f65733-93bb-473b-876d-feec77de1f34web2.png&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 2" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/74e97d45-57c4-49dd-b14b-a85302b43975covid-pay.jpg" data-src="/assets/img/sliders/74e97d45-57c4-49dd-b14b-a85302b43975covid-pay.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/74e97d45-57c4-49dd-b14b-a85302b43975covid-pay.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://ability.dep.go.th/dep_covid/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 3" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/8f6fdbb7-df41-4752-8162-3dd656ace520covid-19-doc.jpg" data-src="/assets/img/sliders/8f6fdbb7-df41-4752-8162-3dd656ace520covid-19-doc.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/8f6fdbb7-df41-4752-8162-3dd656ace520covid-19-doc.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://www.dep.go.th/Content/View/6245/1" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 4" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/a4a44f1c-872c-48a2-99d9-f5d65fdf5acfdepSOS.jpg" data-src="/assets/img/sliders/a4a44f1c-872c-48a2-99d9-f5d65fdf5acfdepSOS.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/a4a44f1c-872c-48a2-99d9-f5d65fdf5acfdepSOS.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://covid.dep.go.th/register/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide current-sr-slide-visible" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 5" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: inherit; opacity: 1;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/06c5b195-f77f-45d9-a11e-eca00b293ab9พก.express.jpg" data-src="/assets/img/sliders/06c5b195-f77f-45d9-a11e-eca00b293ab9พก.express.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/06c5b195-f77f-45d9-a11e-eca00b293ab9พก.express.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://web1.dep.go.th/depexpresss/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 6" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/8236de3a-11b4-44af-b3dd-d49c626d4d5aSlide_DEPknowlage.jpg" data-src="/assets/img/sliders/8236de3a-11b4-44af-b3dd-d49c626d4d5aSlide_DEPknowlage.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/8236de3a-11b4-44af-b3dd-d49c626d4d5aSlide_DEPknowlage.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 0; visibility: inherit;"></div><div class="slot" style="position:absolute;top:0px;left:0px;overflow:hidden;width:320.6px;height:92px"><div class="slotslide" style="position: absolute; top: 0px; left: 0px; width: 320.6px; height: 92px; overflow: hidden; visibility: inherit; opacity: 0.940898; transform: translate3d(0px, 0px, 0px);"><div style="background-color:rgba(0, 0, 0, 0);position:absolute;top:0px;left:0px;width:320px;height:92px;background-image:url(/assets/img/sliders/8236de3a-11b4-44af-b3dd-d49c626d4d5aSlide_DEPknowlage.jpg);background-repeat:no-repeat;background-size:cover;background-position:left top;"></div></div></div></div>
+                        <a href="http://dep.go.th/home/AnnounceList/1189" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 7" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/9b879405-e15e-4194-8463-eac1f56d74f6SlideWeb_สถานการณ์คนพิการมีค63.jpg" data-src="/assets/img/sliders/9b879405-e15e-4194-8463-eac1f56d74f6SlideWeb_สถานการณ์คนพิการมีค63.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/9b879405-e15e-4194-8463-eac1f56d74f6SlideWeb_สถานการณ์คนพิการมีค63.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://dep.go.th/Content/View/6113" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 8" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/1cc541c4-1005-49e7-b51a-d1ab3aaa4889เพิ่มเบี้ย.jpg" data-src="/assets/img/sliders/1cc541c4-1005-49e7-b51a-d1ab3aaa4889เพิ่มเบี้ย.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/1cc541c4-1005-49e7-b51a-d1ab3aaa4889เพิ่มเบี้ย.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://dep.go.th/Content/View/5879" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 9" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/c477581e-ce5d-4d37-8918-0b4d62d62944WelfareDEP.jpg" data-src="/assets/img/sliders/c477581e-ce5d-4d37-8918-0b4d62d62944WelfareDEP.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/c477581e-ce5d-4d37-8918-0b4d62d62944WelfareDEP.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://dep.go.th/Content/View/5768/3" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 10" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/e6b8a45b-18cb-4e80-933e-9ace932200d6donationDEP2.jpg" data-src="/assets/img/sliders/e6b8a45b-18cb-4e80-933e-9ace932200d6donationDEP2.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/e6b8a45b-18cb-4e80-933e-9ace932200d6donationDEP2.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://dep.go.th/Content/View/5696/3" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 11" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/f8a98cc8-058a-4e5e-88cc-bbbe70e33acastudent.jpg" data-src="/assets/img/sliders/f8a98cc8-058a-4e5e-88cc-bbbe70e33acastudent.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/f8a98cc8-058a-4e5e-88cc-bbbe70e33acastudent.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
                         <a target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
                     </li>
- 
-                   
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 12" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/fe281fc2-0a36-4513-9586-16f8f91d9b3cแบบสำรวจ.jpg" data-src="/assets/img/sliders/fe281fc2-0a36-4513-9586-16f8f91d9b3cแบบสำรวจ.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/fe281fc2-0a36-4513-9586-16f8f91d9b3cแบบสำรวจ.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="https://survey.ocsc.go.th/emp62/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 13" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/9d9787e9-c789-4ede-a9a8-394df8e796cdร่างพรบ..jpg" data-src="/assets/img/sliders/9d9787e9-c789-4ede-a9a8-394df8e796cdร่างพรบ..jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/9d9787e9-c789-4ede-a9a8-394df8e796cdร่างพรบ..jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="http://dep.go.th/Content/View/5905" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 14" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/677282a6-3d07-4a13-8a8b-d7ce61c66c17สอบสัมภาษณ์-copy1.jpg" data-src="/assets/img/sliders/677282a6-3d07-4a13-8a8b-d7ce61c66c17สอบสัมภาษณ์-copy1.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/677282a6-3d07-4a13-8a8b-d7ce61c66c17สอบสัมภาษณ์-copy1.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="https://dep.thaijobjob.com/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
+                    <li class="revolution-ch1 tp-revslider-slidesli active-revslide" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Slide 15" style="width: 100%; height: 100%; overflow: hidden; visibility: hidden; opacity: 0; z-index: 18;">
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="left top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/assets/img/sliders/16ee06f2-6319-4d27-8e9e-34f63bc196b6พนักงานราชการ-1.jpg" data-src="/assets/img/sliders/16ee06f2-6319-4d27-8e9e-34f63bc196b6พนักงานราชการ-1.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/assets/img/sliders/16ee06f2-6319-4d27-8e9e-34f63bc196b6พนักงานราชการ-1.jpg&quot;); background-size: cover; background-position: left top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                        <a href="https://dep.thaijobjob.com/" target="_blank" class="bottom-right btn-u btn-brd-hover rounded-2x btn-u-green btn-u-xs">ดูรายละเอียด</a>
+                    </li>
         </ul>
-        <div class="tp-bannertimer tp-bottom"></div>
-    </div>
-</div>
+        <div class="tp-bannertimer tp-bottom" style="width: 0.9%; visibility: visible; transform: translate3d(0px, 0px, 0px);"></div>
+    <div class="tp-loader spinner0" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+<div class="tp-bullets simplebullets round hidebullets" style="bottom: 5.47009px; left: 50%; margin-left: -161px;"><div class="bullet first"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet selected"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet last"></div><div class="tpclear"></div></div><div style="position: absolute; top: 46px; margin-top: -20px; left: 20px;" class="tp-leftarrow tparrows default round hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.366384; background-image: url(&quot;/assets/img/sliders/06c5b195-f77f-45d9-a11e-eca00b293ab9พก.express.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder">Slide 5</div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="position: absolute; top: 46px; margin-top: -20px; right: 20px;" class="tp-rightarrow tparrows default round hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.366384; background-image: url(&quot;/assets/img/sliders/9b879405-e15e-4194-8463-eac1f56d74f6SlideWeb_สถานการณ์คนพิการมีค63.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder">Slide 7</div><div class="tp-arr-subtitleholder"></div></div></div></div></div>
 <!-- slide -->
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" id="ShowSearce" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
-                <h4 id="myLargeModalLabel2" class="modal-title">Results Searce</h4>
+
+
+<!------- Box Search -------->
+
+<!----Render Frontpage Contents---->
+        <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                        <div class="col-sm-12  col-md-12 col-lg-12">
+                            <div>
+    <div class="headline">
+        <h3>  ข่าว พก. </h3>
+    </div>
+    <div class="row">
+                    <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/a640a264-2fbc-49fa-8c5c-202ab015bc1f1.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน.." href="/Content/View/6336/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6336/2" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="modal-body">
-                <gcse:searchresults-only gname="searchOnlyCSE"></gcse:searchresults-only>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d36de48e-6fa9-4aab-a0d6-af72d9cfcc533.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส.." href="/Content/View/6337/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6337/2" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/9a4eb25e-a17f-4456-8fcd-4deb2a7a3d1b17.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN.." href="/Content/View/6328/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6328/2" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d8ddccd8-6269-4d4d-8c8d-5b48465b21ae1.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู.." href="/Content/View/6329/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6329/2" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="/Home/AnnounceList/1">+ ดูทั้งหมด</a>
+</div>
+
+                        </div>
             </div>
         </div>
-    </div>
-</div>
-
-
-
-
-<!--  START YOUTUBE  -->
-<div style="background-color:#ffffff;">
+        <div style="background-color:#ffffff;">
             <div class="container  margin-top-20">
                         <div class="col-sm-12  col-md-12 col-lg-12">
                             
@@ -383,43 +1093,349 @@
                         </div>
             </div>
         </div>
+        <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                        <div class="col-sm-12  col-md-12 col-lg-12">
+                            
+<div class="tab-v1 margin-bottom-20">
+    <ul class="nav nav-tabs">
+        <li class="active">
+            <a href="#home" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+              จัดซื้อจัดจ้าง
+            </a>
+        </li>
+        <li>
+            <a href="#announce" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                ประกาศราคากลาง
+            </a>
+        </li>
+        <li>
+            <a href="#conclude" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                สรุปผลการจัดซื้อจัดจ้าง พก.
+            </a>
+        </li>
+        <li>    
+            <a href="#job" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                สมัครงาน
+(รายการใหม่ 1 รายการ)            </a>
+        </li>
+        <li>
+            <a href="#general" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                ทั่วไป
+            </a>
+        </li>
+    </ul>
+    <div class="tab-content ">
+        <div class="tab-pane fade in active" id="home">
 
- <!-- END YOUTUBE -->
+                            <a href="/Content/View/6220/1"> ประกาศผู้ชนะการเสนอราคาประกวดซื้อหมึกพิมพ์บัตรประจำตัวคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6160/1"> ประกาศ เรื่อง ประกาศผู้ชนะการเสนอราคา จ้างที่ปรึกษาติดตามผลแผนพัฒนาคุณภาพชีวิตคนพิการจังหวัด ฉบับที่ ๓ พ.ศ. ๒๔๖๐ - ๒๕๖๔  (ระยะครึ่งแผน) </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6088/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างโครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6045/1"> ประกาศและเอกสารประกวดราคาจ้างโครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ﻿</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6044/1"> ประกาศ เรื่อง ประกวดราคาจ้างเหมาเอกชนทำความสะอาดสำนักงาน ประจำปีงบประมาณ 2563 จำนวน 5 เดือน (เดือนพฤษภาคม - กันยายน 2563) </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6003/1"> ประกาศประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์ด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6002/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์กรเพื่อต่ออายุมาตรฐานองค์กรด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5931/1"> ประกาศ เรื่อง ประกาศผู้ชนะการเสนอราคา จ้างโครงการพัฒนาบุคลากรเชิงยุทธสาสตร์ โดยวิธีคัดเลือก</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5917/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างเหมาเอกชนดำเนินงานดูแล บำรุงรักษา พัฒนาและซ่อมแซม แก้ไขคุรภัณฑ์ คอมพิวเตอร์พร้อมอุปกรณ์และระบบงานของ พก. ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5906/1"> ประกาศประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์กรเพื่อต่ออายุมาตรฐานองค์กรด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี ๒๕๖๓</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/46">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="announce">
+
+                            <a href="/Content/View/6175/1"> ราคากลางจัดซื้อหมึกพิมพ์บัตรประจำตัวคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6048/1"> ราคากลางจัดซื้อเครื่องคอมพิวเตอร์และอุปกรณ์เพื่อทดแทนเครื่องเดิมที่มีอายุการใช้งานเกิน ๗ ปี และเพิ่มประสิทธิภาพ (ส่วนกลาง) กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6028/1"> ราคากลาง โครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5850/1"> ราคากลาง จ้างปรับปรุงและบำรุงรักษาระบบงานกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ ประจำปีงบประมาณ 2563 </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5795/1"> ราคากลางจ้างเหมาดำเนินงานดูแล บำรุงรักษา พัฒนาและซ่อมแซมแก้ไข ครุภัณฑ์ คอมพิวเตอร์พร้อมอุปกรณ์และระบบงานของ พก. ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5789/1"> ราคากลาง จ้างเจ้าหน้าที่รักษาความปลอดภัยของกองกองทุนและส่งเสริมความเสมอภาคคนพิการ ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5787/1"> ราคากลาง เช่าอาคารกองกองทุนและส่งเสริมความเสมอภาคคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5698/1"> ราคากลาง เช่าบริการอินเตอร์เน็ตของกองกองทุนและส่งเสริมความเสมอภาคคนพิการ ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5689/1"> ราคากลาง เช่าบริการสื่อสารและโทรคมนาคม ประจำปี ๒๕๖๓</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/4646/1"> ราคากลางการจ้างเหมาพนักงานรักษาความปลอดภัย จำนวน 6 คน</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/48">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="conclude">
+
+                            <a href="/Content/View/6273/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนพฤษภาคม 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6182/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนเมษายน 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6066/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนมีนาคม 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5981/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนกุมภาพันธ์ 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5884/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนมกราคม 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5817/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนธันวาคม 2562 </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5774/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนพฤศจิกายน 2562</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5710/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนตุลาคม 2562</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/2080/1"> สรุปผลการดำเนินการจัดซื้อจัดจ้างประจำเดือนเมษายน - มิถุนายน 2561 ไตรมาส 3</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/1540/1"> ประกาศ เอกสารประกวดราคาจ้าง และข้อกำหนดและขอบเขตงานจ้างจัดงาน Thailand Social Expo ๒๐๑๘</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/49">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="job">
+
+                            <a href="/Content/View/6338/1"> กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ รับสมัครบุคคลเพื่อสรรหาและเลือกสรรเป็นพนักงานราชการทั่วไป (ส่วนกลาง)</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6301/1"> การรับสมัครคนพิการเพื่อเลือกสรรเป็นพนักงานราชการทั่วไปในตำแหน่งเจ้าพนักงานธุรการ และตำแหน่งเจ้าหน้าที่ธุรการ ของสำนักงานนโยบายและแผนการขนส่งและจราจร</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6283/1"> ประกาศกรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ เรื่อง กำหนดวัน เวลา เพื่อวัดความเหมาะสมกับตำแหน่ง ในการสอบแข่งขันเพื่อบรรจุและแต่งตั้งบุคคลเข้ารับราชการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6274/1"> ประกาศ กระทรวงการคลัง มีความประสงค์รับสมัครคัดเลือกข้าราชการพลเรือนสามัญ เพื่อรับโอนมาปฏิบัติราชการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6235/1"> กรมกิจการผู้สูงอายุ มีความประสงค์จะรับโอนข้าราชการหลายอัตรา</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6234/1"> คณะสังคมสงเคราะห์ศาสตร์ มหาวิทยาลัยธรรมศาสตร์ เปิดรับสมัครเข้าศึกษาต่อระดับปริญญาโทภาคพิเศษ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6233/1"> สถาบันการศึกษาทางไกล เปิดรับสมัครนักศึกษาใหม่</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6231/1"> ประกาศ กรมการขนส่งทางราง รับโอนข้าราชการพลเรือนสามัญ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6221/1"> รับสมัครงานตำแหน่ง Chief Finance Officer ของสำนักงานเลขาธิการคณะกรรมาธิการแม่น้ำโขง</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6200/1"> กรมสรรพากรรับสมัครคนพิการเพื่อการสรรหาและการเลือกสรรเป็นพนักงานราชการทั่วไป</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/50">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="general">
+
+                        <a href="/Content/View/6335/1"> ประกาศรับสมัครบุคคลเพื่อสอบคัดเลือกบรรจุและแต่งตั้งเป็นพนักงานตำแหน่งนิติกร งานนิติกร สำนักผู้อำนวยการ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6334/1"> ขอความอนุเคราะห์ประชาสัมพันธ์กองทุนอสังหาริมทรัพย์ของรัฐ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6332/1"> ประกาศ ยกเลิกระเบียบแสดงผลการเรียนหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.1)</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6330/1"> ประกาศ ซ้อมความเข้าใจการตรวจสอบและปรับปรุง แก้ไข หรือเพิ่มเติมข้อมูลในฐานข้อมูลบุคลากรภาครัฐ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6300/1"> ขอความร่วมมือตอบแบบสำรวจเกี่ยวกับการปฏิบัติงานนอกสถานที่ตั้งของส่วนราชการ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6275/1"> ประกาศผลการสอบคัดเลือกพนักงานสำนักงานธนานุเคราะห์และบุคคลภายนอกเพื่อบรรจุเป็นพนักงานตำแหน่งนักบริหารทรัพยากรบุคคล งานบริหารทรัพยากรบุคคล ฝ่ายบริหารทั่วไป สำนักงานธนานุเคราะห์</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6232/1"> สถาบันบัณฑิตพัฒนบริหารศาสตร์ขอประชาสัมพันธ์โครงการฝึกอบรมผู้สูงอายุหลักสูตร "เสริมสร้างทักษะที่หลากหลายของผู้สูงอายุ (Senior Empowerment Program:SEP)"</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6225/1"> การเปลี่ยนชื่อจากสสว. 4 เป็นสสว. 3 และเปลี่ยนแปลงที่ตั้งสำนักงาน</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6202/1"> ประกาศแจ้งรายชื่อและเลขประจำตัวผู้มีสิทธิสอบคัดเลือกบุคคลภายนอกเพื่อยรรจุเป็นพนักงานธนานุเคราะห์ตำแหน่งนักวิเคราะห์และวางแผน งานพัฒนาธุรกิจและผลิตภัณฑ์(งานพัฒนาธุรกิจและนวัตกรรม)</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6178/1"> การรับสมัครคนพิการเพื่อการสรรหาและเลือกสรรเป็นพนักงานราชการทั่วไป</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/1155">+ ดูทั้งหมด</a>
+        </div>
+
+    </div>
+</div>
 
 
 
 
-<!----Banner---->
+                        </div>
+            </div>
+        </div>
+        <div style="background-color:#ffffff;">
+            <div class="value=">
+            </div>
+        </div>
+<!-----------Banner------------->
 <div class="tab-v1 margin-top-20">
     <div class="container margin-bottom-20">
         <ul class="nav nav-tabs">
-                    <li class="active"><a href="#7" data-toggle="tab">หน่วยงาน พม.</a></li>
-                    <li class=""><a href="#8" data-toggle="tab">หน่วยงานภายในกรม</a></li>
-                    <li class=""><a href="#9" data-toggle="tab">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
-                    <li class=""><a href="#10" data-toggle="tab">Quick Links</a></li>
+                   <li class="active"><a href="#1" data-toggle="tab" style="font-weight:bold; font-size:1.1em">หน่วยงาน พม.</a></li>
+                   <li class=""><a href="#2" data-toggle="tab" style="font-weight:bold; font-size:1.1em">หน่วยงานภายในกรม</a></li>
+                   <li class=""><a href="#3" data-toggle="tab" style="font-weight:bold; font-size:1.1em">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
+                   <li class=""><a href="#11" data-toggle="tab" style="font-weight:bold; font-size:1.1em">E-Services</a></li>
+                   <li class=""><a href="#1032" data-toggle="tab" style="font-weight:bold; font-size:1.1em">Quick Links</a></li>
         </ul>
         <div class="tab-content">
-                    <div class="tab-pane fade in active" id="7">
-                        <div class="owl-clients-v1">
-                                    <a href="http://www.m-society.go.th/main.php?filename=index" target="_blank"><img src="../uploads/Links/1824ee06-a71b-42db-922c-a1e219d038c4)fc17fb2e-c71c-4934-aca2-aad2969362e7)InDwf-Edit-01.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/1824ee06-a71b-42db-922c-a1e219d038c4)fc17fb2e-c71c-4934-aca2-aad2969362e7)InDwf-Edit-01.html"></a>
-                                    <a href="http://www.dop.go.th/th" target="_blank"><img src="../uploads/Links/80199565-ec73-4094-971f-e4c95888f6e3e838bd14-3893-49a4-af27-bb165a92c427)InDwf-Edit-04.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/80199565-ec73-4094-971f-e4c95888f6e3e838bd14-3893-49a4-af27-bb165a92c427)InDwf-Edit-04.html"></a>
-                                    <a href="http://www.dsdw2016.dsdw.go.th/" target="_blank"><img src="../uploads/Links/be260e71-c3b5-42cf-85b0-d1406b77a8c7d5ee3140-1b44-4abc-ad69-ddcf4fbf2d50)InDwf-Edit-05.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/be260e71-c3b5-42cf-85b0-d1406b77a8c7d5ee3140-1b44-4abc-ad69-ddcf4fbf2d50)InDwf-Edit-05.html"></a>
-                                    <a href="https://www.nha.co.th/view/1/Home" target="_blank"><img src="../uploads/Links/1e281ba8-e523-404b-8b08-6ebcfc79feda1d87b566-3696-4429-8ba6-d060ac56093e)Other-Edit-04.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/1e281ba8-e523-404b-8b08-6ebcfc79feda1d87b566-3696-4429-8ba6-d060ac56093e)Other-Edit-04.html"></a>
-                                    <a href="http://www.pawn.co.th/" target="_blank"><img src="../uploads/Links/5beb6b5b-8076-4e59-9d0f-8d9beb44d7765010bf75-ac9c-4b39-a5e2-21bed66dd9fc)Other-Edit-01.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/5beb6b5b-8076-4e59-9d0f-8d9beb44d7765010bf75-ac9c-4b39-a5e2-21bed66dd9fc)Other-Edit-01.html"></a>
-                                    <a href="http://www.codi.or.th/" target="_blank"><img src="../uploads/Links/bf8da7b8-11af-4263-a0f0-a4a9aac918e366c958ae-43c3-4044-aea6-ad0c33230ebf)Other-Edit-02.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/bf8da7b8-11af-4263-a0f0-a4a9aac918e366c958ae-43c3-4044-aea6-ad0c33230ebf)Other-Edit-02.html"></a>
-                                    <a href="http://www.coopmsds.com/" target="_blank"><img src="../uploads/Links/97b14261-7b62-4bbd-84cb-51bf1bdf7eeeded6fb39-f19a-44aa-9a7c-14fd7edac2d2)Other-Edit-03.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/97b14261-7b62-4bbd-84cb-51bf1bdf7eeeded6fb39-f19a-44aa-9a7c-14fd7edac2d2)Other-Edit-03.html"></a>
-                        </div>
+                    <div class="tab-pane fade in active" id="1">
+                        <div class="owl-clients-v1 owl-carousel owl-theme" style="opacity: 1; display: block;">
+                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 1358px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-291px, 0px, 0px);"><div class="owl-item" style="width: 97px;"><a href="http://www.dcy.go.th/" target="_blank"><img src="/uploads/Links/afbc61e2-b67c-46a1-b723-8f195c5226c6)ดย.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/afbc61e2-b67c-46a1-b723-8f195c5226c6)ดย.png"></a></div><div class="owl-item" style="width: 97px;"><a href="http://www.dop.go.th/" target="_blank"><img src="/uploads/Links/5def5ce4-c5c4-4245-925f-34d953b1f008)ผส.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/5def5ce4-c5c4-4245-925f-34d953b1f008)ผส.png"></a></div><div class="owl-item" style="width: 97px;"><a href="http://www.dwf.go.th/" target="_blank"><img src="/uploads/Links/e0cd887e-45c5-4729-b104-e9412b70ab16สค.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/e0cd887e-45c5-4729-b104-e9412b70ab16สค.png"></a></div><div class="owl-item" style="width: 97px;"><a href="http://www.dsdw2016.dsdw.go.th/" target="_blank"><img src="/uploads/Links/fc586526-24d3-416e-b9ed-1e56ee367739พส.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/fc586526-24d3-416e-b9ed-1e56ee367739พส.png"></a></div><div class="owl-item" style="width: 97px;"><a href="https://www.nha.co.th/view/1/Home" target="_blank"><img src="/uploads/Links/8766024b-2335-47eb-b88b-7e7fa49682486.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/8766024b-2335-47eb-b88b-7e7fa49682486.png"></a></div><div class="owl-item" style="width: 97px;"><a href="http://www.codi.or.th/" target="_blank"><img src="/uploads/Links/ce5c2b8f-7e39-48d5-a5f6-f9fcc6b18ac37.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/ce5c2b8f-7e39-48d5-a5f6-f9fcc6b18ac37.png"></a></div><div class="owl-item" style="width: 97px;"><a href="http://www.m-society.go.th/main.php?filename=index" target="_blank"><img src="/uploads/Links/033f5746-886e-4669-8fcc-f782fb533d31ae26ed2d-29bb-405e-8b33-e044f2c907fd)สป.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/033f5746-886e-4669-8fcc-f782fb533d31ae26ed2d-29bb-405e-8b33-e044f2c907fd)สป.png"></a></div></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                        <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
                     </div>
-                  
+                    <div class="tab-pane fade in " id="2">
+                        <div class="owl-clients-v1 owl-carousel owl-theme" style="opacity: 0; display: block;">
+                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 462px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-99px, 0px, 0px);"><div class="owl-item" style="width: 33px;"><a href="http://audit.dep.go.th" target="_blank"><img src="/uploads/Links/3e7a635b-2b17-4fcf-94b6-6e3bd73b6bd5)1dw2.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/3e7a635b-2b17-4fcf-94b6-6e3bd73b6bd5)1dw2.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://opdc.dep.go.th" target="_blank"><img src="/uploads/Links/3fc05c28-d9df-4a99-b466-62e5cb6cd2bb1dw3.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/3fc05c28-d9df-4a99-b466-62e5cb6cd2bb1dw3.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://dfund.dep.go.th" target="_blank"><img src="/uploads/Links/5acae2e8-5b6c-46c8-9e48-08f176a836ce1dw4.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/5acae2e8-5b6c-46c8-9e48-08f176a836ce1dw4.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://protection.dep.go.th" target="_blank"><img src="/uploads/Links/966faaa4-9495-4e3a-8593-8a982aebc3c41dw1.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/966faaa4-9495-4e3a-8593-8a982aebc3c41dw1.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://strategy.dep.go.th" target="_blank"><img src="/uploads/Links/a8c39746-af7b-4e13-bb12-0c12397629d21dw7.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/a8c39746-af7b-4e13-bb12-0c12397629d21dw7.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://welfare.dep.go.th" target="_blank"><img src="/uploads/Links/60490577-859a-4512-a043-cb4673afc3941dw6.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/60490577-859a-4512-a043-cb4673afc3941dw6.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://secretary.dep.go.th" target="_blank"><img src="/uploads/Links/d165cde8-6214-4b5d-833d-31d68481de7a1dw5.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/d165cde8-6214-4b5d-833d-31d68481de7a1dw5.png"></a></div></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                        <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+                    </div>
+                    <div class="tab-pane fade in " id="3">
+                        <div class="owl-clients-v1 owl-carousel owl-theme" style="opacity: 0; display: block;">
+                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 396px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-33px, 0px, 0px);"><div class="owl-item" style="width: 33px;"><a href="http://www.most.go.th/main/th/" target="_blank"><img src="/uploads/Links/56f737d3-7852-4616-a0ec-bb40a0665238)Other-Edit-05.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/56f737d3-7852-4616-a0ec-bb40a0665238)Other-Edit-05.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://www.mdes.go.th/" target="_blank"><img src="/uploads/Links/85ebccf9-96c1-4ebe-b76d-a3febc860e0a)Other-Edit-06.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/85ebccf9-96c1-4ebe-b76d-a3febc860e0a)Other-Edit-06.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://www.mnre.go.th/main.php?filename=index" target="_blank"><img src="/uploads/Links/e1c6964a-80f3-48fe-ae66-37e78e95d5ec)Other-Edit-09.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/e1c6964a-80f3-48fe-ae66-37e78e95d5ec)Other-Edit-09.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://www.ieat.go.th/" target="_blank"><img src="/uploads/Links/eed353d3-2706-4ac9-a60f-c5e67ef92cf0)Other-Edit-07.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/eed353d3-2706-4ac9-a60f-c5e67ef92cf0)Other-Edit-07.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://www.sbpac.go.th/index.php?lang=th" target="_blank"><img src="/uploads/Links/e0ebcf27-6fe4-466e-b8ad-25319b9f0fa5)Other-Edit-08.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/e0ebcf27-6fe4-466e-b8ad-25319b9f0fa5)Other-Edit-08.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://yingthai.dwf.go.th/" target="_blank"><img src="/uploads/Links/1fb2e2ce-e79c-4b6a-923c-c02ecca6eafa)yingthai.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/1fb2e2ce-e79c-4b6a-923c-c02ecca6eafa)yingthai.png"></a></div></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                        <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+                    </div>
+                    <div class="tab-pane fade in " id="11">
+                        <div class="owl-clients-v1 owl-carousel owl-theme" style="opacity: 0; display: block;">
+                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 396px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-33px, 0px, 0px);"><div class="owl-item" style="width: 33px;"><a href="http://nep1.dep.go.th/sdo/" target="_blank"><img src="/uploads/Links/e640b15f-1255-4dc8-9b14-5f758ea61995)มาตรฐานองค์กรด้านคนพิการ.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/e640b15f-1255-4dc8-9b14-5f758ea61995)มาตรฐานองค์กรด้านคนพิการ.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://ecard.dep.go.th/person_info/" target="_blank"><img src="/uploads/Links/79f407e9-9bae-4266-99dd-e6a2eb09b3d3)ตรวจสอบข้อมูลคนพิการ.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/79f407e9-9bae-4266-99dd-e6a2eb09b3d3)ตรวจสอบข้อมูลคนพิการ.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://www.oic.go.th/ginfo/" target="_blank"><img src="/uploads/Links/6d853733-85c1-43b0-8c17-36fb2d9968e03.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/6d853733-85c1-43b0-8c17-36fb2d9968e03.png"></a></div><div class="owl-item" style="width: 33px;"><a href="https://www.info.go.th/#!/th/search///" target="_blank"><img src="/uploads/Links/d5f63310-cb20-4fa2-a3c5-7da3c1776d304.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/d5f63310-cb20-4fa2-a3c5-7da3c1776d304.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://eservices.nhso.go.th/eServices/mobile/login.xhtml" target="_blank"><img src="/uploads/Links/f649428f-49f3-4d45-8c1f-cec8e4fac259)nhso.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/f649428f-49f3-4d45-8c1f-cec8e4fac259)nhso.png"></a></div><div class="owl-item" style="width: 33px;"><a href="https://govwelfare.cgd.go.th/welfare/check" target="_blank"><img src="/uploads/Links/b24994c5-d1a3-4dbd-a377-d934624428cb)cgdwelfare.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/b24994c5-d1a3-4dbd-a377-d934624428cb)cgdwelfare.png"></a></div></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                        <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+                    </div>
+                    <div class="tab-pane fade in " id="1032">
+                        <div class="owl-clients-v1 owl-carousel owl-theme" style="opacity: 0; display: block;">
+                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 396px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-33px, 0px, 0px);"><div class="owl-item" style="width: 33px;"><a href="http://202.151.176.107:8080/" target="_blank"><img src="/uploads/Links/fe39262a-abf4-4584-ac9f-082b711a0741)lerning.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/fe39262a-abf4-4584-ac9f-082b711a0741)lerning.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://202.151.176.107/nep/bcms/?login=login" target="_blank"><img src="/uploads/Links/67e19c8e-b8ae-4667-a292-b75fbe67ea01)PWD.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/67e19c8e-b8ae-4667-a292-b75fbe67ea01)PWD.png"></a></div><div class="owl-item" style="width: 33px;"><a href="http://neppr56.dep.go.th/index.php/home-page" target="_blank"><img src="/uploads/Links/3431c565-7376-424f-af12-9f34eaa059c0)PWD2.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/3431c565-7376-424f-af12-9f34eaa059c0)PWD2.png"></a></div><div class="owl-item" style="width: 33px;"><a href="https://www.facebook.com/dep.go.th/" target="_blank"><img src="/uploads/Links/6db8524e-19bc-4b36-90da-2c63dbd9d96c)fb.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/6db8524e-19bc-4b36-90da-2c63dbd9d96c)fb.png"></a></div><div class="owl-item" style="width: 33px;"><a href="https://line.me/R/ti/p/%40yrw3400b" target="_blank"><img src="/uploads/Links/341dcb34-aa87-466d-952f-39e913a60883LINE.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/341dcb34-aa87-466d-952f-39e913a60883LINE.png"></a></div><div class="owl-item" style="width: 33px;"><a href="https://www.facebook.com/110219330337879/" target="_blank"><img src="/uploads/Links/6419e637-b056-41cf-a73f-e34bc18a61a7ท่านจุติ.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="~/uploads/Links/6419e637-b056-41cf-a73f-e34bc18a61a7ท่านจุติ.png"></a></div></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                        <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+                    </div>
+            
         </div>
     </div>
 </div>
-<!----Banner---->
-    
+
+    <!------------------------End Banner------------------------>
+    <!----End Render Frontpage Contents---->
+    <!---- showModel Banner ---->
     <div id="showModel"></div>
 
 
-        <!--AddUser Modal Templates-->
         <div id="QuestionModal" class="modal fade bs-example-modal-lg" tabindex="1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-lg">
                 <!-- Modal content-->
@@ -430,63 +1446,61 @@
             </div>
         </div>
         <!--=== Footer Version 1 ===-->
-        <!-- Footer -->
         <div class="footer-v1">
             <div class="footer">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 md-margin-bottom-40 text-center" style="font-size:12px;">
-                            <a href="#">
-                                <img id="logo-footer" width="150" class="footer-logo" src="../assets/img/logo-1a.gif" alt="ติดต่อพก." longdesc="../assets/img/logo-1a.gif">
+                            <a href="">
+                                <img id="logo-footer" width="150" class="footer-logo" src="/assets/img/logo-1a.gif" alt="ติดต่อพก." longdesc="/assets/img/logo-1a.gif">
                             </a>
-                            <p>กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ
- <br/>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</p>
+                            <p>กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ <br>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</p>
                         </div>
                         <div class="col-md-3 md-margin-bottom-40">
                             <div class="posts">
-                                <div class="headline"><h2> </h2></div>
+                                <div class="headline"><h2>อื่นๆ</h2></div>
                                 <ul class="list-unstyled latest-list">
                                     <li>
-                                       
+                                        <a href="/Content/View/1341/2" target="_blank">การรับคนพิการเข้าสถานคุ้มครอง</a>
                                     </li> 
                                     <li>
-                                       
+                                        <a href="/Content/View/1340/2" target="_blank">สิ่งอำนวยความสะดวก </a>
                                     </li>   
                                     <li>
-                                        
+                                        <a href="/Content/View/1340/2" target="_blank">คำถามที่พบบ่อย</a>
                                     </li>  
+                                    <li>
+                                        <a href="http://portal.dep.go.th" target="_blank">ร้องเรียน</a>
+                                    </li> 
                                 </ul>
                             </div>
                         </div>
                         <div class="col-md-3 md-margin-bottom-40">
-                            <div class="headline"><h2> </h2></div>
+                            <div class="headline"><h2>ข้อมูลอื่นๆ</h2></div>
                             <ul class="list-unstyled link-list">
                                 <li>
-                                    <a href="AnnounceList/69.html"> </a>
+                                    <a href="/Menu/GenSitemap">ผังเว็บไซต์</a>
                                 </li>
                                 <li>
-                                    
+                                    <a href="/Content/View/1349/2">ประวัติความเป็นมา</a>
                                 </li>
                                 <li>
-                                   
+                                    <a href="/Content/View/1350/2">ค่านิยม วิสัยทัศน์ พันธกิจ</a>
                                 </li>
                                 <li>
-                                    
+                                    <a href="/Content/View/1351/2">ภารกิจ อำนาจหน้าที่</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-md-3 map-img md-margin-bottom-40">
-                            <div class="headline"><h2>กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ
-กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</h2></div>
-                            <address class="md-margin-bottom-40"> 
-                                กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ<br />รมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ
-เลขที่ 255 อาคาร 60 ปี กรมประชาสงเคราะห์ ถนนราชวิถี เขตราชเทวี กรุงเทพฯ 10400<br>
-                               โทรศัพท์ : 0 2354 3388  <br>
-                              โทรสาร : 0 2354 5020<br>
-                                Email: <a href="mailto:webmaster@dep.go.th"  style="color:#FFF">webmaster@dep.go.th</a>
+                            <div class="headline"><h2>ติดต่อหน่วยงาน</h2></div>
+                            <address class="md-margin-bottom-40">
+                                กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ<br>
+                                เลขที่ 255 อาคาร 60 ปี กรมประชาสงเคราะห์ ถนนราชวิถี เขตราชเทวี กรุงเทพฯ 10400<br>
+                                โทรศัพท์ : 0 2354 3388  <br>
+                                โทรสาร : 0 2354 5020<br>
+                                Email : <a href="mailto:webmaster@dep.go.th" style="color:#FFF">webmaster@dep.go.th</a>
                             </address>
-
-                            <div style="width: 100%"><iframe width="100%" height="100" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="http://www.gps.ie/"> </a></div>
                         </div>
                     </div>
                 </div>
@@ -495,23 +1509,23 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                        
+                            <p> © สงวนลิขสิทธิ์ พ.ศ.2561 กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</p>
                         </div>
                         <div class="col-md-6">
                             <ul class="footer-socials list-inline">
                                 <li>
-                                    <a href="../Menu/GenSitemap.html" target="_blank" class="btn-u btn-u-aqua" style="color:white;">
+                                    <a href="/Menu/GenSitemap" target="_blank" class="btn-u btn-u-aqua" style="color:white;">
                                         <span aria-hidden="true" class="icon-book-open"></span> แผนผังเว็บไซต์
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://achecker.ca/checker/index.php?uri=referer&amp;gid=WCAG2-AA" target="_blank">
-                                        <img alt="WCAG 2.0 (Level AA)" height="32" src="../../achecker.ca/images/icon_W2_aa.jpg" width="102">
+                                        <img alt="WCAG 2.0 (Level AA)" height="32" src="http://achecker.ca/images/icon_W2_aa.jpg" width="102">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.facebook.com/dep.go.th/?rf=1673687142859123" title="กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ " target="_blank">
-                                        <img alt="facebook" height="32" src="../assets/img/facebook.jpg" width="102">
+                                        <img alt="facebook" height="32" src="/assets/img/facebook.jpg" width="102">
                                     </a>
                                 </li>
                             </ul>
@@ -523,62 +1537,59 @@
         <!--=== End Footer Version 1 ===-->
 
     </div>
-    
     <!-- JS Global Compulsory -->
-    
-    <script type="text/javascript" src="../assets/plugins/jquery/jquery.min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="../assets/plugins/jquery/jquery-migrate.min.js"></script>
-    <script type="text/javascript" src="../assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/datepicker.js"></script>
+    <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=005618469362329708485:gpnrsprjnto"></script><script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/datepicker.js"></script>
     <!-- JS Implementing Plugins -->
-    <script type="text/javascript" src="../assets/plugins/back-to-top.js"></script>
-    <script type="text/javascript" src="../assets/plugins/smoothScroll.js"></script>
-    <script type="text/javascript" src="../assets/plugins/jquery.parallax.js"></script>
-    <script type="text/javascript" src="../assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
-    <script type="text/javascript" src="../assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
-    <script type="text/javascript" src="../assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-    <script type="text/javascript" src="../assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-    <script type="text/javascript" src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-    <script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-    <script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
-    <script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+    <script type="text/javascript" src="/assets/plugins/smoothScroll.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.parallax.js"></script>
+    <script type="text/javascript" src="/assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+    <script type="text/javascript" src="/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+    <script src="/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+    <script src="/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+    <script src="/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
     <!-- JS Customization -->
-    <script type="text/javascript" src="../assets/js/custom.js"></script>
+    <script type="text/javascript" src="/assets/js/custom.js"></script>
     <!-- JS Page Level -->
-    <script type="text/javascript" src="../assets/js/app.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/fancy-box.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/revolution-slider.js"></script>
+    <script type="text/javascript" src="/assets/js/app.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/fancy-box.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/owl-carousel.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/revolution-slider.js"></script>
     <!--- cude portfolio-->
-    <script type="text/javascript" src="../assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/cube-portfolio/cube-portfolio-4.js"></script>
-    <!---------->
-    <script type="text/javascript" src="../assets/js/plugins/style-switcher.js"></script>
-    <script src="../assets/js/plugins/fancy-box.js"></script>
-    <script type="text/javascript" src="../assets/plugins/image-hover/js/modernizr.js"></script>
-    <script type="text/javascript" src="../assets/plugins/image-hover/js/touch.js"></script>
-    <script type="text/javascript" src="../assets/js/forms/login.js"></script>
-    <script type="text/javascript" src="../assets/js/forms/contact.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/fancy-box.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
-    <script type="text/javascript" src="../assets/js/plugins/style-switcher.js"></script>
-    <script src="../assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/cube-portfolio/cube-portfolio-4.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/style-switcher.js"></script>
+    <script src="/assets/js/plugins/fancy-box.js"></script>
+    <script type="text/javascript" src="/assets/plugins/image-hover/js/modernizr.js"></script>
+    <script type="text/javascript" src="/assets/plugins/image-hover/js/touch.js"></script>
+    <script type="text/javascript" src="assets/js/forms/login.js"></script>
+    <script type="text/javascript" src="assets/js/forms/contact.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/fancy-box.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/owl-carousel.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/style-switcher.js"></script>
+    <script src="/assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
     <!---Other plugins--->  
-    <script src="../assets/plugins/respond.js"></script>
-    <script src="../assets/plugins/html5shiv.js"></script>
-    <script src="../assets/plugins/placeholder-IE-fixes.js"></script>
+    <script src="/assets/plugins/respond.js"></script>
+    <script src="/assets/plugins/html5shiv.js"></script>
+    <script src="/assets/plugins/placeholder-IE-fixes.js"></script>
     <!-- PAGE RELATED PLUGIN(S) -->
-    <script src="../admin/js/plugin/bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
-
+    <script src="/admin/js/plugin/bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
     <script type="text/javascript">
         jQuery(document).ready(function () {
 
             App.init();
             App.initParallaxBg();
             FancyBox.initFancybox();
+            OwlCarousel.initOwlCarousel();
+            StyleSwitcher.initStyleSwitcher();
             App.initScrollBar();
-            
 
             $(document).ready(function () {
                 $.ajax(
@@ -602,7 +1613,8 @@
                         $("a").css('color', '#FFF');
                         $("li").css('color', '#FFF');
                     }
-                    else {
+                    else
+                    {
                         $("div").css('background-color', "#000");
                         $(".bg-color-light").css('background-color', "#000");
                         $("a").css('color', '#fec50c');
@@ -610,7 +1622,7 @@
                     }
                 })
             });
-           
+
             $("li").click(function () {
                 $("active").appendTo('li');
             })
@@ -631,7 +1643,6 @@
                     window.location.reload(true);
                 }
             });
-
         }
 
         function ShowQuestionModal() {
@@ -650,177 +1661,208 @@
                });
         }
 
-    </script>  
-    
-        <link rel="stylesheet" href="../assets/plugins/parallax-slider/css/parallax-slider.css">
-        <link href="../assets/css/vp2_html5_rightSidePlaylist.css" rel="stylesheet" />
-        <script src="../assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
-        <script src="../assets/plugins/parallax-slider/js/modernizr.js"></script>
-        <script type="text/javascript" src="../assets/plugins/jquery.parallax.js"></script>
-        <script type="text/javascript" src="../assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
-        <script type="text/javascript" src="../assets/plugins/wow-animations/js/wow.min.js"></script>
-        <script src="../assets/js/plugins/parallax-slider.js"></script>
-
-        <script type="text/javascript" src="../assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
-        <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
-       
-    <script type="text/javascript">
-        jQuery(document).ready(function () {
-
-            App.init();
-            App.initParallaxBg();
-            FancyBox.initFancybox();
-            App.initScrollBar();
-            
-
-            $(document).ready(function () {
-                $.ajax(
-                   {
-                       type: "GET",
-                       url: "/Menu/GetFrontendMenu",
-                       cache: false,
-                       success: function (results) {
-                           $("#menu").replaceWith(results);
-                       }
-                   });
-
-                $(".shoseStyle").click(function () {
-                    var style = $(this).attr("data-style");
-                    if (style == 1) {
-                        window.location.href = "";
-                    }
-                    else if (style == 2) {
-                        $("div").css('background-color', "#000");
-                        $(".bg-color-light").css('background-color', "#000");
-                        $("a").css('color', '#FFF');
-                        $("li").css('color', '#FFF');
-                    }
-                    else {
-                        $("div").css('background-color', "#000");
-                        $(".bg-color-light").css('background-color', "#000");
-                        $("a").css('color', '#fec50c');
-                        $("li").css('color', '#fec50c');
-                    }
-                })
-            });
-           
-            $("li").click(function () {
-                $("active").appendTo('li');
-            })
-        });
-
-        function upFont(size) {
-            if (!size) {
-                size = 14;
-            }
-
-            jQuery('body').css('font-size', size + 'px');
-        }
-
-        function Lang(language)
-        {
-            $.get("/Home/ChangeLanguage", { "Language": language },function(rs){
-                if(rs.valid == true){
-                    window.location.reload(true);
-                }
-            });
-
-        }
-
-        function ShowQuestionModal() {
-            $.ajax(
-               {
-                   type: "GET", //HTTP POST Method
-                   url: "/Question/ShowModal/", // Controller/View
-                   cache: false,
-                   success: function (data) {
-                       $('#QuestionModalContent').replaceWith(data);
-                       $('#QuestionModal').modal("show");
-                   },
-                   error: function (response) {
-                       Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
-                   }
-               });
-        }
 
     </script>  
     
-        <link rel="stylesheet" href="../assets/plugins/parallax-slider/css/parallax-slider.css">
-        <link href="../assets/css/vp2_html5_rightSidePlaylist.css" rel="stylesheet" />
-        <script src="../assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
-        <script src="../assets/plugins/parallax-slider/js/modernizr.js"></script>
-        <script type="text/javascript" src="../assets/plugins/jquery.parallax.js"></script>
-        <script type="text/javascript" src="../assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
-        <script type="text/javascript" src="../assets/plugins/wow-animations/js/wow.min.js"></script>
-        <script src="../assets/js/plugins/parallax-slider.js"></script>
-
-        <script type="text/javascript" src="../assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
-        <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
+        <link rel="stylesheet" href="/admin/css/jquery.ml-keyboard.css">
+        <link rel="stylesheet" href="/assets/plugins/parallax-slider/css/parallax-slider.css">
+        <link href="/assets/css/vp2_html5_rightSidePlaylist.css" rel="stylesheet">
+        <script src="/assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+        <script src="/assets/plugins/parallax-slider/js/modernizr.js"></script>
+        <script type="text/javascript" src="/assets/plugins/jquery.parallax.js"></script>
+        <script type="text/javascript" src="/assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script type="text/javascript" src="/assets/plugins/wow-animations/js/wow.min.js"></script>
+        <script src="/assets/js/plugins/parallax-slider.js"></script>
+        <script src="/admin/js/jquery.ml-keyboard.min.js"></script>
+        <script type="text/javascript" src="/assets/statasic/js/plugins/Chart.min.js"></script>
+        <script type="text/javascript" src="/assets/statasic/js/plugins/progress-bar.js"></script>
+        <script type="text/javascript" src="/assets/statasic/js/plugins/Chart.bundle.js"></script>
+        <script type="text/javascript" src="/assets/statasic/js/plugins/utils.js"></script>
         <script>
+
+                            $(function () {
+                                var url = "/Home/GetInformation";
+                                $("."+15).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +15).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                        
+                            $(function () {
+                                var url = "/Video/GetVideo";
+                                $("."+42).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +42).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                        
+                            $(function () {
+                                var url = "/Home/GetAnnounce";
+                                $("."+21).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +21).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                                    /* set video player */
+
             $(document).ready(function () {
-                App.init();
-                App.initParallaxBg();
-                FancyBox.initFancybox();
-                OwlCarousel.initOwlCarousel();
-                StyleSwitcher.initStyleSwitcher();
-                App.initScrollBar();
                 ParallaxSlider.initParallaxSlider();
                 new WOW().init();
                 LoadPopup();
-                CarouselInit();
 
                 // init slide
                 var revapi;
                 var width = screen.width;
                 var startheight = ((500 * width) / 1900);
-                revapi = $('.webportal-slider').revolution(
+                if (width <= 500)
                 {
-                    delay:5000,
-                    startwidth: 1170,
-                     startheight: Math.floor(startheight),
+                    revapi = $('.webportal-slider').revolution(
+                     {
+                         delay: 5000,
+                         startwidth: 320,
+                         startheight: Math.floor(startheight),
+                     });
+                }
+                else
+                {
+                    revapi = $('.webportal-slider').revolution(
+                    {
+                        delay: 5000,
+                        startwidth: 1170,
+                        startheight: Math.floor(startheight),
+                    });
+                }
+
+                $('#myTab a').click(function (e) {
+                    e.preventDefault()
+                    $(this).tab('show')
+                })
+                $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                    e.relatedTarget // previous tab
                 });
+            });
 
-
-                // manage layout
-
-                                $(function () {
-                                    var url = "/Home/GetAnnounce";
-                                    $("."+38).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
-                                    $.get(url, { "Get": "Get" }, function (rs) {
-                                        setTimeout(function(){
-                                            $("." +38).replaceWith(rs);
-                                            CarouselInit();
-                                        },500)
-                                        
-                                    })
-                                });
-                            
-                                $(function () {
-                                    var url = "/Home/GetDownloads";
-                                    $("."+41).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
-                                    $.get(url, { "Get": "Get" }, function (rs) {
-                                        setTimeout(function(){
-                                            $("." +41).replaceWith(rs);
-                                            CarouselInit();
-                                        },500)
-                                        
-                                    })
-                                });
-                            
-                                $(function () {
-                                    var url = "/Home/GetInfographic";
-                                    $("."+44).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
-                                    $.get(url, { "Get": "Get" }, function (rs) {
-                                        setTimeout(function(){
-                                            $("." +44).replaceWith(rs);
-                                            CarouselInit();
-                                        },500)
-                                        
-                                    })
-                                });
-                                           });
-            
-            function LoadPopup(){
+            function LoadPopup() {
                 $.get("/PopupManagment/GetPopup", { "popup": "popup" }, function (rs) {
                     if (rs.valid == false) {
                         //not do something
@@ -829,31 +1871,40 @@
                             $.cookie('modal_shown', 'yes', { expires: 0.1, path: '/' });
                             $("#showModel").replaceWith(rs);
                             $('.modal.fade.announce').modal();
-                        } 
+                        }
                     }
                 });
             }
 
-           
+            var video_count = 1;
+            var videoPlayer = document.getElementById("videobg");
+            function videorun() {
+                //video_count++;
+                if (video_count == 4) video_count = 1;
+                var nextVideo = "assets/video/background/" + video_count + ".mp4";
+                videoPlayer.src = nextVideo;
+                videoPlayer.play();
+
+            }
 
             (function () {
-                var cx = '010607368559754793872:hhlrg2fxh4q';
+                var cx = '005618469362329708485:gpnrsprjnto';
                 var gcse = document.createElement('script');
                 gcse.type = 'text/javascript';
                 gcse.async = true;
-                gcse.src = '../../cse.google.com/cse07b6.html?cx=' + cx;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
                 var s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(gcse, s);
             })();
 
-            function GetForm(){
+            function GetForm() {
                 var point = $("input[type='radio'][name='ratio']:checked").val();
                 if (!point) {
                     return false;
                 }
                 $.get("/Vote/Voting", { "score": point }, function (respond) {
                     if (respond.valid == true) {
-                        window.location = "Index.html";
+                        window.location = "/Home/Index";
                         return false;
                     } else {
                         alert("false");
@@ -862,29 +1913,41 @@
                 })
             }
 
-            function  CarouselInit(){
-                var owl = jQuery(".owl-recent-works-v1");
-                owl.owlCarousel({
-                    items: [3],
-                    itemsDesktop : [1000,4],
-                    itemsDesktopSmall : [900,3],
-                    itemsTablet: [600,2],
-                    itemsMobile : [479,1],
-                    slideSpeed: 1000
-                });
+            function getvideo(id) {
+                if (id != null) {
+                    $.ajax(
+                        {
+                            type: "GET",
+                            url: "/Video/GetVideo/" + id,
+                            cache: false,
+                            success: function (data) {
+                                $('#video').replaceWith(data);
+                            },
+                            error: function (response) {
+                                Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                            }
+                        });
 
-                jQuery(".next-v2").click(function(){
-                    owl.trigger('owl.next');
-                })
-                jQuery(".prev-v2").click(function(){
-                    owl.trigger('owl.prev');
-                })    
+                }
+                else {
+                    $.ajax(
+                        {
+                            type: "GET",
+                            url: "/Video/GetVideo",
+                            cache: false,
+                            success: function (data) {
+                                $('#video').replaceWith(data);
+                            },
+                            error: function (response) {
+                                Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                            }
+                        });
+                }
             }
-
         </script>
     
-     
-</body>
+
+<div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"></div></body>
 
 <!-- Mirrored from portal.dep.go.th/Home/Index by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 14:17:03 GMT -->
 </html>
