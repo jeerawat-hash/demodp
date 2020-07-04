@@ -706,7 +706,8 @@
                 // init slide
                 var revapi;
                 var width = screen.width;
-                var startheight = ((500 * width) / 1900);
+              //  var startheight = ((500 * width) / 1900);
+                var startheight = (2000);
                 revapi = $('.webportal-slider').revolution(
                 {
                     delay:5000,
@@ -716,7 +717,7 @@
 
 
                 // manage layout
-
+                 /*
                                 $(function () {
                                     var url = "/Home/GetAnnounce";
                                     $("."+38).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
@@ -729,7 +730,29 @@
                                     })
                                 });
                             
-                               
+                                $(function () {
+                                    var url = "/Home/GetDownloads";
+                                    $("."+41).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
+                                    $.get(url, { "Get": "Get" }, function (rs) {
+                                        setTimeout(function(){
+                                            $("." +41).replaceWith(rs);
+                                            CarouselInit();
+                                        },500)
+                                        
+                                    })
+                                });
+                            
+                                $(function () {
+                                    var url = "/Home/GetInfographic";
+                                    $("."+44).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
+                                    $.get(url, { "Get": "Get" }, function (rs) {
+                                        setTimeout(function(){
+                                            $("." +44).replaceWith(rs);
+                                            CarouselInit();
+                                        },500)
+                                        
+                                    })
+                                });  */
                                         });
             
             function LoadPopup(){
