@@ -59,9 +59,6 @@
     <link rel="stylesheet" type="text/css" media="screen" href="../admin/css/smartadmin-rtl.min.css">
     <!-- Demo purpose only: goes with demo.js, you can delete this css when designing your own WebApp -->
     <link rel="stylesheet" type="text/css" media="screen" href="../admin/css/demo.min.css">
-
-  
- <style> 
     <style>
         .circle {
             height: 20px;
@@ -202,7 +199,6 @@
     </div>
 </div>
 <!-- slide -->
-
 
 <div class="modal fade bs-example-modal-lg" tabindex="-1" id="ShowSearce" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -658,6 +654,99 @@
 
         <script type="text/javascript" src="../assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
         <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
+       
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+
+            App.init();
+            App.initParallaxBg();
+            FancyBox.initFancybox();
+            App.initScrollBar();
+            
+
+            $(document).ready(function () {
+                $.ajax(
+                   {
+                       type: "GET",
+                       url: "/Menu/GetFrontendMenu",
+                       cache: false,
+                       success: function (results) {
+                           $("#menu").replaceWith(results);
+                       }
+                   });
+
+                $(".shoseStyle").click(function () {
+                    var style = $(this).attr("data-style");
+                    if (style == 1) {
+                        window.location.href = "";
+                    }
+                    else if (style == 2) {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#FFF');
+                        $("li").css('color', '#FFF');
+                    }
+                    else {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#fec50c');
+                        $("li").css('color', '#fec50c');
+                    }
+                })
+            });
+           
+            $("li").click(function () {
+                $("active").appendTo('li');
+            })
+        });
+
+        function upFont(size) {
+            if (!size) {
+                size = 14;
+            }
+
+            jQuery('body').css('font-size', size + 'px');
+        }
+
+        function Lang(language)
+        {
+            $.get("/Home/ChangeLanguage", { "Language": language },function(rs){
+                if(rs.valid == true){
+                    window.location.reload(true);
+                }
+            });
+
+        }
+
+        function ShowQuestionModal() {
+            $.ajax(
+               {
+                   type: "GET", //HTTP POST Method
+                   url: "/Question/ShowModal/", // Controller/View
+                   cache: false,
+                   success: function (data) {
+                       $('#QuestionModalContent').replaceWith(data);
+                       $('#QuestionModal').modal("show");
+                   },
+                   error: function (response) {
+                       Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                   }
+               });
+        }
+
+    </script>  
+    
+        <link rel="stylesheet" href="../assets/plugins/parallax-slider/css/parallax-slider.css">
+        <link href="../assets/css/vp2_html5_rightSidePlaylist.css" rel="stylesheet" />
+        <script src="../assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+        <script src="../assets/plugins/parallax-slider/js/modernizr.js"></script>
+        <script type="text/javascript" src="../assets/plugins/jquery.parallax.js"></script>
+        <script type="text/javascript" src="../assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script type="text/javascript" src="../assets/plugins/wow-animations/js/wow.min.js"></script>
+        <script src="../assets/js/plugins/parallax-slider.js"></script>
+
+        <script type="text/javascript" src="../assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+        <script type="text/javascript" src="../assets/js/plugins/owl-carousel.js"></script>
         <script>
             $(document).ready(function () {
                 App.init();
@@ -784,6 +873,7 @@
             }
 
         </script>
+    
      
 </body>
 
