@@ -136,10 +136,6 @@
 
 
   <!-- ======= Services Section ======= -->
-    <div style="background-color:#ffffff;">
-            <div class="container  margin-top-20">
-                        <div class="col-sm-12  col-md-12 col-lg-12">
-
     <section id="services" class="services">
       <div class="container">
 
@@ -150,111 +146,42 @@
         <div class="row">
          
  
- 
-        <!-- End Heading -->
-        <div class="row" style="margin-left:15px;margin-right:15px;">
-            
-            <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
-                        <div class="RYPP-video">
-                            <iframe class="RYPP-video-player" id="video" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
-                        </div>
-                <div class="RYPP-playlist">
-                    <header>
-                        <h2 class="_h1 RYPP-title">รายการวิดีโอ</h2>
-                        
-                    </header>
-                    <div class="RYPP-items">
-                        <ol>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
 
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2070);">
-พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
-                                        <small class="author">
-                                            <br>01 กรกฎาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/8d90a5ca-082f-4392-b75f-45fe85995811.jpg" class="thumb" alt="">
+          <div class="col-lg-4 col-md-6">
 
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
 
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2072);">
-พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
-                                        <small class="author">
-                                            <br>01 กรกฎาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/727b3314-3bdb-493a-926e-c66173c8914c.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2071);">
-พก.สอนตัดผมออนไลน์                                        </a>
-                                        <small class="author">
-                                            <br>01 กรกฎาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/5ac85f97-284c-4236-9d2e-5ed7ab7cae12.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2069);">
-พม. พก. ตั้งโต๊ะสอนทำหน้ากากผ้าฟรี                                        </a>
-                                        <small class="author">
-                                            <br>20 มีนาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/d455f81d-5171-4221-b23c-135997a79f9f.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2067);">
-ขั้นตอนการผลิตหน้ากากอนามัยผ้าขาวม้า                                        </a>
-                                        <small class="author">
-                                            <br>19 มีนาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/88bf27de-3fb4-46a2-a844-15bfbac88cd8.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2065);">
-“ECHO LOCATION" เสียงสะท้อนนำทาง                                        </a>
-                                        <small class="author">
-                                            <br>27 กุมภาพันธ์ 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/831ee673-c4a1-4a55-a120-757ee05804c3.jpg" class="thumb" alt="">
-
-                                </li>
-                                
-                        </ol>
-                    </div>
+            <div class="container-player">
+        <div id="mediaPlayer">
+            <div class="lds-ring" id=preload><div></div><div></div><div></div><div></div></div>
+            <video id='media-video' preload>
+                <source  src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4" type='video/mp4'>
+                <source src='parrots.webm' type='video/webm'>
+            </video>
+            <div id="controls">
+                <button id=play><i class="fas fa-pause"></i></button>
+                <button id=audioVolume class="fas fa-volume-off"></button>
+                <div id="progressBar">
+                    <div id="progress"></div>
                 </div>
-            </div><br>
-            <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Video/AllVideo">+ ดูทั้งหมด</a>   
-      
-
+                <div id="timer">
+                    <span id="start"> 0 : 00</span>
+                </div>
+                <button id=expand><i class="fas fa-expand"></i></button>
+            </div>
+        </div>
+        <div id="playlist">  
+        </div>
     </div>
-<!--End Video Section -->
+
+
+
+            
+          </div>
           
       </div>
-    </div>
     </section><!-- End Services Section -->
 
-</div>
-    </div>
-  </div>
+
 
 
 
