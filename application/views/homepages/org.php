@@ -181,9 +181,7 @@
 
 
   <script type="text/javascript">
-      
-      $(function(){
-
+       
 
         $.ajax({
         dataType: "json",
@@ -191,9 +189,6 @@
           OrgTree.makeOrgTree($('#tree'), data);
         });
 
-
-
-      });
-
+ 
 
   </script>
