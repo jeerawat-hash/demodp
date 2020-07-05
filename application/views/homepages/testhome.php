@@ -136,6 +136,10 @@
 
 
   <!-- ======= Services Section ======= -->
+    <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                        <div class="col-sm-12  col-md-12 col-lg-12">
+
     <section id="services" class="services">
       <div class="container">
 
@@ -146,16 +150,10 @@
         <div class="row">
          
  
-
-                                      
-<!--Begin Video Section -->
-    <div class="container" id="video">
+ 
         <!-- End Heading -->
         <div class="row" style="margin-left:15px;margin-right:15px;">
-            <div class="headline">
-                    <h2><span aria-hidden="true"></span> คลิปวิดีโอ</h2>
-
-            </div>
+            
             <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
                         <div class="RYPP-video">
                             <iframe class="RYPP-video-player" id="video" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
@@ -239,60 +237,13 @@
                                     <img src="/uploads/video/831ee673-c4a1-4a55-a120-757ee05804c3.jpg" class="thumb" alt="">
 
                                 </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2064);">
-รักแท้มีอยู่จริง                                        </a>
-                                        <small class="author">
-                                            <br>18 กุมภาพันธ์ 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/30b0374f-5316-4e94-a9a8-6ba82ba44c71.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2062);">
- Valentine's Chocolate Box                                        </a>
-                                        <small class="author">
-                                            <br>13 กุมภาพันธ์ 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/6c168a34-db87-4526-a781-8689d7dab65b.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2060);">
-สัมผัสไม่ได้ด้วยตา...แต่สัมผัสได้ด้วยใจ                                        </a>
-                                        <small class="author">
-                                            <br>06 กุมภาพันธ์ 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/cb39a138-3103-437c-bb60-b5d6370b9ccd.jpg" class="thumb" alt="">
-
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2057);">
-มิคกี้ "มิคาเอล วอลเกอร์" เจ้าชายนอกเซอร์กิต                                        </a>
-                                        <small class="author">
-                                            <br>20 มิถุนายน 2562
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/d952f459-0d72-42e1-aabc-07f569b3ed99.jpg" class="thumb" alt="">
-
-                                </li>
+                                
                         </ol>
                     </div>
                 </div>
             </div><br>
             <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Video/AllVideo">+ ดูทั้งหมด</a>   
-        </div>
+      
 
     </div>
 <!--End Video Section -->
@@ -301,7 +252,9 @@
     </div>
     </section><!-- End Services Section -->
 
-
+</div>
+    </div>
+  </div>
 
 
 
