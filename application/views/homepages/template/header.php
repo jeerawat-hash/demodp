@@ -4,6 +4,7 @@
 
         $home = array("", array("","","","","","","","","","") );
         $story = array("", array("","","","","","","","","","") );
+        $org = array("", array("","","","","","","","","","") );
      
 
 
@@ -16,6 +17,12 @@
             case 'story':
                 
                 $story[0] = "active";
+ 
+                break;
+
+            case 'org':
+                
+                $org[0] = "active";
  
                 break;
              
@@ -81,7 +88,7 @@
         <ul>
           <li class="<?php echo $home[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/">หน้าหลัก</a></li>
           <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a></li>
-          <li><a href="services.html">โครงสร้าง</a></li>
+          <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้าง</a></li>
           <li><a href="portfolio.html">ประชาสัมพันธ์</a></li>
           <li><a href="testimonials.html">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
           <li><a href="pricing.html">ระเบียบกฏหมายวิชาการ</a></li>
