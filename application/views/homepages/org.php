@@ -1,3 +1,7 @@
+<script src="https://demo.jantra.co/AssetsHome/org/src/orgchart.js"></script>
+<link rel="stylesheet" href="https://demo.jantra.co/AssetsHome/org/src/orgchart.css" type="text/css" />
+
+
 
   <main id="main">
 
@@ -11,6 +15,12 @@
 
       </div>
     </section><!-- End Breadcrumbs -->
+
+
+    <div class="container-fluid">
+  <h2>Standard Tree</h2>
+  <div id="tree"></div>
+</div>
 
     <!-- ======= Our Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -165,3 +175,25 @@
     </section><!-- End Our Clients Section -->
 
   </main><!-- End #main -->
+
+
+
+
+
+  <script type="text/javascript">
+      
+      $(function(){
+
+
+        $.ajax({
+        dataType: "json",
+        url: "https://demo.jantra.co/AssetsHome/org/sample.json"}).done( function( data ) {
+          OrgTree.makeOrgTree($('#tree'), data);
+        });
+
+
+
+      });
+
+
+  </script>
