@@ -92,7 +92,7 @@
         //alert("scroll"); 
 
         //setTimeout(function(){ 
-              debounce(alert(), 500);
+              debounce($("#NewsContent").append(html), 1000);
 
           //$("#NewsContent").append(html);
  
