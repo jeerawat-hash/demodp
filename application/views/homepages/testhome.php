@@ -167,7 +167,7 @@
                                             </div>
                                     <div class="RYPP-playlist">
                                         <header>
-                                            <h2 class="_h1 RYPP-title">รายการวิดีโอ</h2>
+                                            <h2 class="_h1 RYPP-title">รายการ</h2>
                                             
                                         </header>
                                         <div class="RYPP-items">
