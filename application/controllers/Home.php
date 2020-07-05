@@ -23,10 +23,10 @@ class Home extends CI_Controller {
 	public function index()
 	{
 
-		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/template/header');
 		$this->load->view('homepages/home');
 		$this->load->view('homepages/template/footer');
-		 
+
 	}
 
 
