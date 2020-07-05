@@ -30,9 +30,9 @@
         </div>
 
         <div class="row">
-
+          <center>
           <div id="tree"></div>
-
+          </center>
         </div>
 
       </div>
