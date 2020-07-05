@@ -24,7 +24,7 @@ class Management_project extends CI_Controller {
 	public function index()
 	{
 		$header['page_name'] = 'โครงการ';
-		$header['page_focus'] = 'news';
+		$header['page_focus'] = 'project';
 		$header['page_menu'] = 1;
 
 		$this->load->view('management/template/header',$header);

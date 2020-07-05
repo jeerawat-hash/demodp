@@ -6,6 +6,7 @@
         $home = array("", array("","","","","","","","","","") );
         $news = array("", array("","","","","","","","","","") );
         $contact = array("", array("","","","","","","","","","") );
+        $project = array("", array("","","","","","","","","","") );
     
 
 
@@ -27,6 +28,13 @@
                 
                 $contact[0] = "active";
                 $contact[1][$page_menu] = "active";
+
+                break;
+
+            case 'project':
+                
+                $project[0] = "active";
+                $project[1][$page_menu] = "active";
 
                 break;
 
@@ -151,7 +159,7 @@
                                 <a href="https://demo.jantra.co/index.php/management_news">ประชาสัมพันธ์</a>
                             </li>
                             <li class="<?php echo $news[1][1]; ?> hide">
-                                <a href="https://demo.jantra.co/index.php/management_project">โครงการ</a>
+                                <a href="https://demo.jantra.co/index.php/management_project_all">โครงการ</a>
                             </li>
                             <li class="<?php echo $news[1][2]; ?>">
                                 <a href="https://demo.jantra.co/index.php/management_notice">ประกาศ</a>
@@ -172,17 +180,17 @@
                             </li> 
                         </ul>
                     </li>
-                    <li>
+                    <li class="<?php echo $project[0]; ?>">
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">view_list</i>
-                            <span>ผลงานโครงการที่ผ่านมา</span>
+                            <span>ผลงานโครงการ</span>
                         </a>
                         <ul class="ml-menu">
-                            <li>
-                                <a href="pages/tables/normal-tables.html">รายการโครงการประจำปี</a>
+                            <li class="<?php echo $project[1][0]; ?>">
+                                <a href="https://demo.jantra.co/index.php/management_project_all">รายการโครงการประจำปี</a>
                             </li>
-                            <li>
-                                <a href="pages/tables/jquery-datatable.html">โครงการ</a>
+                            <li class="<?php echo $project[1][1]; ?>">
+                                <a href="https://demo.jantra.co/index.php/management_project">โครงการ</a>
                             </li> 
                         </ul>
                     </li>
