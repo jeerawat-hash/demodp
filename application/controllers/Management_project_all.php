@@ -25,7 +25,7 @@ class Management_project_all extends CI_Controller {
 	{
 		$header['page_name'] = 'โครงการ';
 		$header['page_focus'] = 'project';
-		$header['page_menu'] = 1;
+		$header['page_menu'] = 0;
 
 		$this->load->view('management/template/header',$header);
 		$this->load->view('management/blank');
