@@ -1869,6 +1869,16 @@ body.header-fixed-space-default {
 
 
 
+    <style>
+        .circle {
+            height: 20px;
+            width: 20px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            text-align: center;
+        }
+    </style>
 
 <style type="text/css">
   /*!
