@@ -56,25 +56,28 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}
-	public function noticeNews()
+	public function noticeNews($page = 1)
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์';
 		$header['page_focus'] = 'notice';
 		$header['page_menu'] = 0;
 
+		$data['pageNum'] = $page;
+
 		$this->load->view('homepages/template/header',$header);
-		$this->load->view('homepages/noticenews');
+		$this->load->view('homepages/noticenews',$data);
 		$this->load->view('homepages/template/footer');
 
 	}
-	public function noticeProject()
+	public function noticeProject($page = 1)
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์โครงการ';
 		$header['page_focus'] = 'notice';
 		$header['page_menu'] = 1;
 
+		$data['pageNum'] = $page;
 		$this->load->view('homepages/template/header',$header);
-		$this->load->view('homepages/noticeproject');
+		$this->load->view('homepages/noticeproject',$data);
 		$this->load->view('homepages/template/footer');
 
 	}
