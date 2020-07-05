@@ -69,6 +69,17 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}
+	public function newsDetail()
+	{
+		$header['page_name'] = 'ประชาสัมพันธ์';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 0;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/newsdetail');
+		$this->load->view('homepages/template/footer');
+
+	}
 	public function noticeProject($page = 1)
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์โครงการ';
@@ -78,6 +89,17 @@ class Home extends CI_Controller {
 		$data['pageNum'] = $page;
 		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/noticeproject',$data);
+		$this->load->view('homepages/template/footer');
+
+	}
+	public function projectDetail()
+	{
+		$header['page_name'] = 'ประชาสัมพันธ์โครงการ';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 1;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/projectdetail');
 		$this->load->view('homepages/template/footer');
 
 	}
