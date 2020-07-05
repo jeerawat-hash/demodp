@@ -146,7 +146,7 @@
                                 <a href="https://demo.jantra.co/index.php/management_project">โครงการ</a>
                             </li>
                             <li class="<?php echo $news[1][2]; ?>">
-                                <a href="pages/ui/badges.html">ประกาศ</a>
+                                <a href="https://demo.jantra.co/index.php/management_notice">ประกาศ</a>
                             </li> 
                         </ul>
                     </li>
