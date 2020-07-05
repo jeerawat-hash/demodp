@@ -87,34 +87,24 @@
 
       $("#NewsContent").html(htmlall);
 
-      $(window).on("scroll",function(){
-
-        //alert("scroll"); 
-
-        //setTimeout(function(){ 
-              debounce($("#NewsContent").append(html), 1000);
-
-          //$("#NewsContent").append(html);
- 
 
 
-        //}, 1000);
+      var timer;
 
+      $(window).scroll(function() {
+        if(timer) {
+          window.clearTimeout(timer);
+        }
 
-        
-
-
+        timer = window.setTimeout(function() {
+          // actual callback
+          console.log( "Firing!" );
+        }, 1000);
       });
 
 
-      function debounce(method, delay) {
-          clearTimeout(method._tId);
-          method._tId= setTimeout(function(){
-              method();
-          }, delay);
-      }
 
-
+  
 
     });
 
