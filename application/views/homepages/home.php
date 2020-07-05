@@ -83,9 +83,12 @@
         </div>
 
         <div class="row">
-       <center>  
+       <center> 
+       <div class="col-lg-4 col-md-6"> 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>  </center>
+</iframe> 
+</div>
+ </center>
             
 
 
