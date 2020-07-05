@@ -5,11 +5,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Blog</h2>
-          <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Blog</li>
-          </ol>
+          <h2>ประชาสัมพันธ์โครงการ</h2>
         </div>
 
       </div>
@@ -26,7 +22,7 @@
             <article class="entry" data-aos="fade-up">
 
               <div class="entry-img">
-                <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="https://demo.jantra.co/AssetsHome/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -56,7 +52,7 @@
             <article class="entry" data-aos="fade-up">
 
               <div class="entry-img">
-                <img src="assets/img/blog-2.jpg" alt="" class="img-fluid">
+                <img src="https://demo.jantra.co/AssetsHome/img/blog-2.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -86,7 +82,7 @@
             <article class="entry" data-aos="fade-up">
 
               <div class="entry-img">
-                <img src="assets/img/blog-3.jpg" alt="" class="img-fluid">
+                <img src="https://demo.jantra.co/AssetsHome/img/blog-3.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -116,7 +112,7 @@
             <article class="entry" data-aos="fade-up">
 
               <div class="entry-img">
-                <img src="assets/img/blog-4.jpg" alt="" class="img-fluid">
+                <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -184,31 +180,31 @@
               <h3 class="sidebar-title">Recent Posts</h3>
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog-recent-posts-1.jpg" alt="">
+                  <img src="https://demo.jantra.co/AssetsHome/img/blog-recent-posts-1.jpg" alt="">
                   <h4><a href="blog-single.html">Nihil blanditiis at in nihil autem</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog-recent-posts-2.jpg" alt="">
+                  <img src="https://demo.jantra.co/AssetsHome/img/blog-recent-posts-2.jpg" alt="">
                   <h4><a href="blog-single.html">Quidem autem et impedit</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog-recent-posts-3.jpg" alt="">
+                  <img src="https://demo.jantra.co/AssetsHome/img/blog-recent-posts-3.jpg" alt="">
                   <h4><a href="blog-single.html">Id quia et et ut maxime similique occaecati ut</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog-recent-posts-4.jpg" alt="">
+                  <img src="https://demo.jantra.co/AssetsHome/img/blog-recent-posts-4.jpg" alt="">
                   <h4><a href="blog-single.html">Laborum corporis quo dara net para</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog-recent-posts-5.jpg" alt="">
+                  <img src="https://demo.jantra.co/AssetsHome/img/blog-recent-posts-5.jpg" alt="">
                   <h4><a href="blog-single.html">Et dolores corrupti quae illo quod dolor</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
