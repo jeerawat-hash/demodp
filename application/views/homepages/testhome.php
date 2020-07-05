@@ -144,7 +144,7 @@
         </div>
 
         <div class="row">
-           <div class="col-lg-4 col-md-6">
+           <div class="col-lg-12 col-md-12">
  
   <div style="background-color:#ffffff;">
             <div class="container  margin-top-20">
