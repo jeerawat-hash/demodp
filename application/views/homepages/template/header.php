@@ -67,7 +67,6 @@
   <link href="https://demo.jantra.co/AssetsHome/vendor/aos/aos.css" rel="stylesheet">
 
  <script src="https://code.jquery.com/jquery-3.5.1.js" ></script>
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
   <!-- Template Main CSS File -->
   <link href="https://demo.jantra.co/AssetsHome/css/style.css" rel="stylesheet">
