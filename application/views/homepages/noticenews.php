@@ -91,7 +91,17 @@
 
         //alert("scroll"); 
 
-        $("#NewsContent").append(html);
+        setTimeout(function(){ 
+
+
+          $("#NewsContent").append(html);
+ 
+
+
+        }, 1000);
+
+
+        
 
 
       })
