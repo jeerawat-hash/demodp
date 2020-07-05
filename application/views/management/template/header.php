@@ -1,3 +1,31 @@
+
+<?php 
+
+    
+
+        $home = array("", array("","","","","","","","","","") );
+        $news = array("", array("","","","","","","","","","") );
+    
+
+
+        switch ($page_focus) {
+            case 'home':
+                
+                $home[0] = "active";
+ 
+                break;
+            
+            case 'news':
+                
+                $news[0] = "active";
+                $news[1][$page_menu] = "active";
+
+                break;
+
+        }
+
+
+ ?>
 <!DOCTYPE html>
 <html>
 
@@ -99,25 +127,25 @@
             <div class="menu">
                 <ul class="list">
                     <li class="header">เมนูบริหารจัดการ</li>
-                    <li class="active">
+                    <li class="<?php echo $home[0]; ?>">
                         <a href="index.html">
                             <i class="material-icons">home</i>
                             <span>สถิติการใช้งาน</span>
                         </a>
                     </li> 
-                    <li>
+                    <li class="<?php echo $news[0]; ?>">
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">assignment</i>
                             <span>ข่าวสาร</span>
                         </a>
                         <ul class="ml-menu">
-                            <li>
+                            <li class="<?php echo $news[1][0]; ?>">
                                 <a href="pages/ui/alerts.html">ประชาสัมพันธ์</a>
                             </li>
-                            <li>
+                            <li class="<?php echo $news[1][1]; ?>">
                                 <a href="pages/ui/animations.html">โครงการ</a>
                             </li>
-                            <li>
+                            <li class="<?php echo $news[1][2]; ?>">
                                 <a href="pages/ui/badges.html">ประกาศ</a>
                             </li> 
                         </ul>

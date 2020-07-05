@@ -23,7 +23,11 @@ class Management extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('management/template/header');
+		$header['page_name'] = 'หน้าแรก';
+		$header['page_focus'] = 'home';
+		$header['page_menu'] = 1;
+
+		$this->load->view('management/template/header',$header);
 		$this->load->view('management/home');
 		$this->load->view('management/template/footer');
 	}
