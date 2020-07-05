@@ -60,24 +60,6 @@
 
 
 
-  <!-- Vendor JS Files -->
-  <!--<script src="https://demo.jantra.co/AssetsHome/vendor/jquery/jquery.min.js"></script> -->
-  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-
-  <script src="https://demo.jantra.co/AssetsHome/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/php-email-form/validate.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/venobox/venobox.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="https://demo.jantra.co/AssetsHome/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="https://demo.jantra.co/AssetsHome/js/main.js"></script>
-
-
   <!-- Template Main CSS File -->
   <link href="https://demo.jantra.co/AssetsHome/css/style.css" rel="stylesheet">
 

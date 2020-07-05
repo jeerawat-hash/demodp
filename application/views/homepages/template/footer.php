@@ -78,6 +78,20 @@ Email : webmaster@dep.go.th</p>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
+  <!-- Vendor JS Files -->
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery/jquery.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/php-email-form/validate.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/venobox/venobox.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://demo.jantra.co/AssetsHome/js/main.js"></script>
 
 </body>
 
