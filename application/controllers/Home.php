@@ -150,4 +150,18 @@ class Home extends CI_Controller {
 	}
 
 
+	public function indextest()
+	{
+
+		$header['page_name'] = 'หน้าแรก';
+		$header['page_focus'] = 'home';
+		$header['page_menu'] = 1;
+
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/testhome');
+		$this->load->view('homepages/template/footer');
+
+	}
+
 }
