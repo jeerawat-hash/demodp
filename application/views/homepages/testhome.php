@@ -1960,7 +1960,7 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
     <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/jquery.fancybox.pack.js"></script> 
     <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/app.js"></script>
     <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/fancy-box.js"></script>  
-    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/owl.carouseled.js"></script> 
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/owl-carouseled.js"></script> 
     <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/owl.carousel.js"></script> 
       
 
