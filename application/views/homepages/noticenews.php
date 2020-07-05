@@ -56,7 +56,7 @@
     $(function(){
 
 
-      $("#NewsContentID").on("click",".BTNNews",function(){
+      $(".BTNNews").on("click",function(){
 
         var data = $(this).attr("data-id");
 
@@ -90,7 +90,7 @@
                '  Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.'+
                 '  Quia sed sunt. Ea asperiores expedita et et delectus voluptates rerum. Id saepe ut itaque quod qui voluptas nobis porro rerum. Quam quia nesciunt qui aut est non omnis. Inventore occaecati et quaerat magni itaque nam voluptas. Voluptatem ducimus sint id earum ut nesciunt sed corrupti nemo.'+
                 '</p>'+
-                '<button class="read-more BTNNews" data-id="'+i+'">Read More</button>'+
+                '<button class="btn btn-info BTNNews" data-id="'+i+'">Read More</button>'+
               '</div>'+
             '</article>';
       }
