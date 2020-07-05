@@ -144,7 +144,7 @@
         </div>
 
         <div class="row">
-         
+           <div class="col-lg-4 col-md-6">
  
   <div style="background-color:#ffffff;">
             <div class="container  margin-top-20">
@@ -307,6 +307,7 @@
 
         
         </div>  
+</div>  
 
       </div>
     </section><!-- End Services Section -->
