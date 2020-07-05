@@ -99,10 +99,10 @@
           <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a></li>
           <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้าง</a></li>
           <li class="drop-down <?php echo $notice[0]; ?>" >
-              <a href="">ประชาสัมพันธ์</a>
+              <a href="javascript:void(0);">ประชาสัมพันธ์</a>
               <ul>
-              <li ><a href="https://demo.jantra.co/index.php/Home/notice">ข่าวสาร</a></li>
-              <li ><a href="https://demo.jantra.co/index.php/Home/notice">โครงการ</a></li>
+              <li ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร</a></li>
+              <li ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
             </ul>
             </li>
 
