@@ -1772,7 +1772,88 @@ body.header-fixed-space-default {
     }
 }
   </style>
+  <script type="text/javascript">
+        jQuery(document).ready(function () {
 
+            App.init();
+            App.initParallaxBg();
+            FancyBox.initFancybox();
+            OwlCarousel.initOwlCarousel();
+            StyleSwitcher.initStyleSwitcher();
+            App.initScrollBar();
+
+            $(document).ready(function () {
+                $.ajax(
+                   {
+                       type: "GET",
+                       url: "/Menu/GetFrontendMenu",
+                       cache: false,
+                       success: function (results) {
+                           $("#menu").replaceWith(results);
+                       }
+                   });
+
+                $(".shoseStyle").click(function () {
+                    var style = $(this).attr("data-style");
+                    if (style == 1) {
+                        window.location.href = "";
+                    }
+                    else if (style == 2) {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#FFF');
+                        $("li").css('color', '#FFF');
+                    }
+                    else
+                    {
+                        $("div").css('background-color', "#000");
+                        $(".bg-color-light").css('background-color', "#000");
+                        $("a").css('color', '#fec50c');
+                        $("li").css('color', '#fec50c');
+                    }
+                })
+            });
+
+            $("li").click(function () {
+                $("active").appendTo('li');
+            })
+        });
+
+        function upFont(size) {
+            if (!size) {
+                size = 14;
+            }
+
+            jQuery('body').css('font-size', size + 'px');
+        }
+
+        function Lang(language)
+        {
+            $.get("/Home/ChangeLanguage", { "Language": language },function(rs){
+                if(rs.valid == true){
+                    window.location.reload(true);
+                }
+            });
+        }
+
+        function ShowQuestionModal() {
+            $.ajax(
+               {
+                   type: "GET", //HTTP POST Method
+                   url: "/Question/ShowModal/", // Controller/View
+                   cache: false,
+                   success: function (data) {
+                       $('#QuestionModalContent').replaceWith(data);
+                       $('#QuestionModal').modal("show");
+                   },
+                   error: function (response) {
+                       Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                   }
+               });
+        }
+
+
+    </script>  
   <script>
 
                             $(function () {
