@@ -74,6 +74,99 @@
       </div>
     </section><!-- End Cta Section -->
 
+
+
+
+
+  <!-- ======= Services Section  youtube ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>วิดีโอ</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+ 
+         <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                 <div class="col-sm-12  col-md-12 col-lg-12"  data-aos="fade-up">
+                                                
+                    <!--Begin Video Section -->
+                        <div class="container" id="video">
+                            <!-- End Heading -->
+                            <div class="row" style="margin-left:15px;margin-right:15px;">
+                                <div class="headline">
+                                         
+
+                                </div>
+                                <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
+                                            <div class="RYPP-video">
+                                                <iframe class="RYPP-video-player" id="video" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
+                                            </div>
+                                    <div class="RYPP-playlist">
+                                        <header>
+                                            <h2 class="_h1 RYPP-title">รายการวิดีโอ</h2>
+                                            
+                                        </header>
+                                        <div class="RYPP-items">
+                                            <ol>
+                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" onclick="getvideo(2070);">
+                    พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+
+                                                    </li>
+                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" onclick="getvideo(2072);">
+                    พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+
+                                                    </li>
+                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" onclick="getvideo(2071);">
+                    พก.สอนตัดผมออนไลน์                                        </a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+
+                                                    </li>
+                                                     
+                                            </ol>
+                                        </div>
+                                    </div>
+                                  
+                             </div>
+                         </div>
+                      </div>
+                    <!--End Video Section -->
+ 
+                 </div> 
+             </div>  
+        </div>   
+      </div>
+      </div>
+      </div>
+    </section><!-- End Services Section  youtube-->
+
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -136,95 +229,7 @@
  
 
 
-
-
-  <!-- ======= Services Section  youtube ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>วิดีโอ</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12 col-md-12">
  
-         <div style="background-color:#ffffff;">
-            <div class="container  margin-top-20">
-                 <div class="col-sm-12  col-md-12 col-lg-12"  data-aos="fade-up">
-                                                
-                    <!--Begin Video Section -->
-                        <div class="container" id="video">
-                            <!-- End Heading -->
-                            <div class="row" style="margin-left:15px;margin-right:15px;">
-                                <div class="headline">
-                                         
-
-                                </div>
-                                <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
-                                            <div class="RYPP-video">
-                                                <iframe class="RYPP-video-player" id="video" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
-                                            </div>
-                                    <div class="RYPP-playlist">
-                                        <header>
-                                            <h2 class="_h1 RYPP-title">รายการ</h2>
-                                            
-                                        </header>
-                                        <div class="RYPP-items">
-                                            <ol>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                                        <p class="title">
-                                                            <a href="Javascript:void(0)" onclick="getvideo(2070);">
-                    พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
-                                                            <small class="author">
-                                                                <br>01 กรกฎาคม 2563
-                                                            </small>
-                                                        </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
-
-                                                    </li>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                                        <p class="title">
-                                                            <a href="Javascript:void(0)" onclick="getvideo(2072);">
-                    พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
-                                                            <small class="author">
-                                                                <br>01 กรกฎาคม 2563
-                                                            </small>
-                                                        </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
-
-                                                    </li>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
-
-                                                        <p class="title">
-                                                            <a href="Javascript:void(0)" onclick="getvideo(2071);">
-                    พก.สอนตัดผมออนไลน์                                        </a>
-                                                            <small class="author">
-                                                                <br>01 กรกฎาคม 2563
-                                                            </small>
-                                                        </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
-
-                                                    </li>
-                                                     
-                                            </ol>
-                                        </div>
-                                    </div>
-                                  
-                             </div>
-                         </div>
-                      </div>
-                    <!--End Video Section -->
- 
-                 </div> 
-             </div>  
-        </div>   
-      </div>
-      </div>
-      </div>
-    </section><!-- End Services Section  youtube-->
 
 
     <!-- ======= Portfolio Section ======= -->
