@@ -29,5 +29,14 @@ class Home extends CI_Controller {
 
 	}
 
+	public function about()
+	{
+
+		$this->load->view('homepages/template/header');
+		$this->load->view('homepages/about');
+		$this->load->view('homepages/template/footer');
+
+	}
+
 
 }
