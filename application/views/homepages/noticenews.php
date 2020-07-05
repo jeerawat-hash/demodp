@@ -98,7 +98,10 @@
 
         timer = window.setTimeout(function() {
           // actual callback
-          console.log( "Firing!" );
+          //console.log( "Firing!" );
+          $("#NewsContent").append(html);
+
+
         }, 1000);
       });
 
