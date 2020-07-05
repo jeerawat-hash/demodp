@@ -31,6 +31,7 @@ class Management extends CI_Controller {
 		$this->load->view('management/home');
 		$this->load->view('management/template/footer');
 	}
+	
 
 
 }

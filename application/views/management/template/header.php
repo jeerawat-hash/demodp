@@ -128,7 +128,7 @@
                 <ul class="list">
                     <li class="header">เมนูบริหารจัดการ</li>
                     <li class="<?php echo $home[0]; ?>">
-                        <a href="index.html">
+                        <a href="https://demo.jantra.co/index.php/management">
                             <i class="material-icons">home</i>
                             <span>สถิติการใช้งาน</span>
                         </a>
@@ -140,7 +140,7 @@
                         </a>
                         <ul class="ml-menu">
                             <li class="<?php echo $news[1][0]; ?>">
-                                <a href="pages/ui/alerts.html">ประชาสัมพันธ์</a>
+                                <a href="https://demo.jantra.co/index.php/management_news">ประชาสัมพันธ์</a>
                             </li>
                             <li class="<?php echo $news[1][1]; ?>">
                                 <a href="pages/ui/animations.html">โครงการ</a>
