@@ -84,36 +84,13 @@
 
         <div class="row">
          
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+            
 
-           <div class="RYPP-items">
-                        <ol>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
 
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2070);">
-พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
-                                        <small class="author">
-                                            <br>01 กรกฎาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/8d90a5ca-082f-4392-b75f-45fe85995811.jpg" class="thumb" alt="">
 
-                                </li>
-                                <li data-video-id="hWGUnrIiOoI" class="selected">
 
-                                    <p class="title">
-                                        <a href="Javascript:void(0)" onclick="getvideo(2072);">
-พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
-                                        <small class="author">
-                                            <br>01 กรกฎาคม 2563
-                                        </small>
-                                    </p>
-                                    <img src="/uploads/video/727b3314-3bdb-493a-926e-c66173c8914c.jpg" class="thumb" alt="">
-
-                                </li>
-                                
-                        </ol>
-                    </div>
                 </div>
             </div>
 
