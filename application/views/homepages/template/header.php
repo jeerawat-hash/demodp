@@ -66,7 +66,10 @@
   <link href="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/aos/aos.css" rel="stylesheet">
 
-
+ <script src="https://code.jquery.com/jquery-3.5.1.js" ></script>
+ <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+ <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
+ <main id="main">
 
   <!-- Template Main CSS File -->
   <link href="https://demo.jantra.co/AssetsHome/css/style.css" rel="stylesheet">
