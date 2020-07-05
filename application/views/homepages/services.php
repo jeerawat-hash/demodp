@@ -6,11 +6,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Services</h2>
-          <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Services</li>
-          </ol>
+          <h2>บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</h2>
         </div>
 
       </div>
@@ -110,22 +106,22 @@
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <figure>
-                  <img src="assets/img/features-1.png" alt="" class="img-fluid">
+                  <img src="https://demo.jantra.co/AssetsHome/img/features-1.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-2">
                 <figure>
-                  <img src="assets/img/features-2.png" alt="" class="img-fluid">
+                  <img src="https://demo.jantra.co/AssetsHome/img/features-2.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="assets/img/features-3.png" alt="" class="img-fluid">
+                  <img src="https://demo.jantra.co/AssetsHome/img/features-3.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-4">
                 <figure>
-                  <img src="assets/img/features-4.png" alt="" class="img-fluid">
+                  <img src="https://demo.jantra.co/AssetsHome/img/features-4.png" alt="" class="img-fluid">
                 </figure>
               </div>
             </div>
