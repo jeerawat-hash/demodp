@@ -31,7 +31,7 @@
                         <th>Salary</th>
                     </tr>
                 </thead>
-                <tfoot>
+                 
                     <tr>
                         <th>Name</th>
                         <th>Position</th>
@@ -40,7 +40,7 @@
                         <th>Start date</th>
                         <th>Salary</th>
                     </tr>
-                </tfoot>
+           
             </table>
             </div>
 
