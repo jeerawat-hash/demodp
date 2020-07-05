@@ -73,7 +73,7 @@
                ' <p>เนื่อหาโครงการ'+
                 '</p>'+
                 '<div class="read-more">'+
-                  '<a href="blog-single.html">รายละเอียด</a>'+
+                  '<a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>'+
                 '</div>'+
               '</div>'+
             '</article>';
