@@ -9,7 +9,7 @@
         <!--  <div class="col-lg-3 col-md-6 footer-contact"> -->
             <div class="col-md-3 md-margin-bottom-40 text-center footer-contact" style="font-size:12px;">
                             <a href="">
-                                <img  src="assets/img/logo-1a.gif"  width="150" class="footer-logo"   alt="ติดต่อพก." > <br>
+                                <img  src="https://demo.jantra.co/AssetsHome/img/logo-1a.gif"  width="150" class="footer-logo"   alt="ติดต่อพก." > <br>
                             </a>
                             <p class="bx"  style="font-size:11px;" >กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ <br>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</p>
                         </div>
@@ -79,19 +79,19 @@ Email : webmaster@dep.go.th</p>
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery/jquery.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/php-email-form/validate.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/venobox/venobox.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/vendor/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="https://demo.jantra.co/AssetsHome/js/main.js"></script>
 
 </body>
 
