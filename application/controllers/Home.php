@@ -82,5 +82,17 @@ class Home extends CI_Controller {
 
 	}
 
+	public function services()
+	{
+		$header['page_name'] = 'บริการ';
+		$header['page_focus'] = 'services';
+		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/services');
+		$this->load->view('homepages/template/footer');
+
+	}
+
 
 }

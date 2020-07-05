@@ -6,6 +6,7 @@
         $story = array("", array("","","","","","","","","","") );
         $org = array("", array("","","","","","","","","","") );
         $notice = array("", array("","","","","","","","","","") );
+        $services = array("", array("","","","","","","","","","") );
      
 
 
@@ -31,6 +32,12 @@
                 
                 $notice[0] = "active";
                 $notice[1][$page_menu] = "active";
+ 
+                break;
+
+            case 'services':
+                
+                $services[0] = "active"; 
  
                 break;
              
@@ -112,7 +119,7 @@
 
  
 
-          <li><a href="testimonials.html">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
+          <li class="<?php echo $services[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/services">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
           <li><a href="pricing.html">ระเบียบกฏหมายวิชาการ</a></li>
           <li><a href="blog.html">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
          <!-- <li class="drop-down"><a href="">ติดต่อ</a>
