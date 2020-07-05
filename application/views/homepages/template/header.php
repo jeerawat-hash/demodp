@@ -101,7 +101,7 @@
           <li class="<?php echo $notice[0]; ?>" >
               <a href="#">ประชาสัมพันธ์</a>
               <ul>
-              <li class="active"><a href="https://demo.jantra.co/index.php/Home/notice">ข่าวสาร</a></li>
+              <li ><a href="https://demo.jantra.co/index.php/Home/notice">ข่าวสาร</a></li>
               <li ><a href="https://demo.jantra.co/index.php/Home/notice">โครงการ</a></li>
             </ul>
             </li>
