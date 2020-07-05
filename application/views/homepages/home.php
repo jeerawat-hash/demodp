@@ -83,21 +83,10 @@
         </div>
 
         <div class="row">
-       <center> 
-       <div class="col-lg-4 col-md-6"> 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe> 
-</div>
- </center>
-            
+         
+ 
 
-
-
-
-                </div>
-            </div>
-
-         <!-- <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="icofont-computer"></i></div>
               <h4 class="title"><a href="">Lorem Ipsum</a></h4>
@@ -139,7 +128,7 @@
               <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
-        </div>  -->
+        </div>  
 
       </div>
     </section><!-- End Services Section -->
