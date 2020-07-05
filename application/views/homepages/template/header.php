@@ -37,24 +37,7 @@
 </head>
 
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-none d-lg-block">
-    <div class="container d-flex">
-      <div class="contact-info mr-auto">
-      
-      </div>
-      <div class="social-links">
-       <!-- <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-        <a href="#" class="skype"><i class="icofont-skype"></i></a> -->
-        <i class=""></i><a href="mailto:contact@example.com">สำหรับเจ้าหน้าที่</a>
-        <i class=""></i><a href="mailto:contact@example.com">ภาษา</a>
-        <i class=""></i><a href="mailto:contact@example.com">ค้นหา</a>
-      </div>
-    </div>
-  </section>
+ 
 
   <!-- ======= Header ======= -->
   <header id="header">
