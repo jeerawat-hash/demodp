@@ -178,7 +178,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="/uploads/video/8d90a5ca-082f-4392-b75f-45fe85995811.jpg" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
@@ -190,7 +190,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="/uploads/video/727b3314-3bdb-493a-926e-c66173c8914c.jpg" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
@@ -202,17 +202,14 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="/uploads/video/5ac85f97-284c-4236-9d2e-5ed7ab7cae12.jpg" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
 
                                                     </li>
                                                      
                                             </ol>
                                         </div>
                                     </div>
-                                 <div class="col-lg-3  ">
-                                <a class="cta-btn align-middle" href="#">ดูรายละเอียด</a>
-                              </div>
-
+                                  
                              </div>
                          </div>
                       </div>
