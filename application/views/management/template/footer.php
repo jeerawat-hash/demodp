@@ -27,6 +27,12 @@
     <!-- Sparkline Chart Plugin Js -->
     <script src="https://demo.jantra.co/AssetsManage/plugins/jquery-sparkline/jquery.sparkline.js"></script>
  
+    <!-- Custom Js -->
+    <script src="js/admin.js"></script>
+    <script src="js/pages/index.js"></script>
+
+    <!-- Demo Js -->
+    <script src="js/demo.js"></script>
 </body>
 
 </html>
