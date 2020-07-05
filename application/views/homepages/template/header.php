@@ -22,7 +22,7 @@
   <link href="https://demo.jantra.co/AssetsHome/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/owl.carousel.min.css" rel="stylesheet">
+  <link href="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
