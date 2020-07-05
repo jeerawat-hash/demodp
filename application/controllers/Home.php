@@ -28,7 +28,7 @@ class Home extends CI_Controller {
 		$header['page_menu'] = 1;
 
 
-		$this->load->view('homepages/template/header');
+		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/home');
 		$this->load->view('homepages/template/footer');
 
@@ -40,7 +40,7 @@ class Home extends CI_Controller {
 		$header['page_focus'] = 'story';
 		$header['page_menu'] = 1;
 
-		$this->load->view('homepages/template/header');
+		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/story');
 		$this->load->view('homepages/template/footer');
 
