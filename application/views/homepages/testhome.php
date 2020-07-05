@@ -178,7 +178,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
@@ -190,7 +190,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
@@ -202,7 +202,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jp" class="thumb" alt="">
+                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
 
                                                     </li>
                                                      
