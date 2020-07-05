@@ -209,7 +209,7 @@
                                             </ol>
                                         </div>
                                     </div>
-                                 <div class="col-lg-3 cta-btn-container text-center">
+                                 <div class="col-lg-3  ">
                                 <a class="cta-btn align-middle" href="#">ดูรายละเอียด</a>
                               </div>
 
