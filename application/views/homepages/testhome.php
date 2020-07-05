@@ -1,8 +1,3 @@
-  <link rel="stylesheet" href="./index.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-
-
-
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
@@ -151,42 +146,169 @@
         <div class="row">
          
  
+  <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                        <div class="col-sm-12  col-md-12 col-lg-12">
+                            
+<!--Begin Video Section -->
+    <div class="container" id="video">
+        <!-- End Heading -->
+        <div class="row" style="margin-left:15px;margin-right:15px;">
+            <div class="headline">
+                    <h2><span aria-hidden="true"></span> คลิปวิดีโอ</h2>
 
-          <div class="col-lg-4 col-md-6">
+            </div>
+            <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
+                        <div class="RYPP-video">
+                            <iframe class="RYPP-video-player" id="video" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
+                        </div>
+                <div class="RYPP-playlist">
+                    <header>
+                        <h2 class="_h1 RYPP-title">รายการวิดีโอ</h2>
+                        
+                    </header>
+                    <div class="RYPP-items">
+                        <ol>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
 
- 
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2070);">
+พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
+                                        <small class="author">
+                                            <br>01 กรกฎาคม 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/8d90a5ca-082f-4392-b75f-45fe85995811.jpg" class="thumb" alt="">
 
-            <div class="container-player">
-               <div id="mediaPlayer">
-                  <div class="lds-ring" id=preload><div></div><div></div><div></div><div></div></div>
-            <video id='media-video' preload>
-                <source  src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4" type='video/mp4'>
-                <source src='parrots.webm' type='video/webm'>
-            </video>
-                <div id="controls">
-                    <button id=play><i class="fas fa-pause"></i></button>
-                    <button id=audioVolume class="fas fa-volume-off"></button>
-                    <div id="progressBar">
-                        <div id="progress"></div>
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2072);">
+พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
+                                        <small class="author">
+                                            <br>01 กรกฎาคม 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/727b3314-3bdb-493a-926e-c66173c8914c.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2071);">
+พก.สอนตัดผมออนไลน์                                        </a>
+                                        <small class="author">
+                                            <br>01 กรกฎาคม 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/5ac85f97-284c-4236-9d2e-5ed7ab7cae12.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2069);">
+พม. พก. ตั้งโต๊ะสอนทำหน้ากากผ้าฟรี                                        </a>
+                                        <small class="author">
+                                            <br>20 มีนาคม 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/d455f81d-5171-4221-b23c-135997a79f9f.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2067);">
+ขั้นตอนการผลิตหน้ากากอนามัยผ้าขาวม้า                                        </a>
+                                        <small class="author">
+                                            <br>19 มีนาคม 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/88bf27de-3fb4-46a2-a844-15bfbac88cd8.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2065);">
+“ECHO LOCATION" เสียงสะท้อนนำทาง                                        </a>
+                                        <small class="author">
+                                            <br>27 กุมภาพันธ์ 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/831ee673-c4a1-4a55-a120-757ee05804c3.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2064);">
+รักแท้มีอยู่จริง                                        </a>
+                                        <small class="author">
+                                            <br>18 กุมภาพันธ์ 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/30b0374f-5316-4e94-a9a8-6ba82ba44c71.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2062);">
+ Valentine's Chocolate Box                                        </a>
+                                        <small class="author">
+                                            <br>13 กุมภาพันธ์ 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/6c168a34-db87-4526-a781-8689d7dab65b.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2060);">
+สัมผัสไม่ได้ด้วยตา...แต่สัมผัสได้ด้วยใจ                                        </a>
+                                        <small class="author">
+                                            <br>06 กุมภาพันธ์ 2563
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/cb39a138-3103-437c-bb60-b5d6370b9ccd.jpg" class="thumb" alt="">
+
+                                </li>
+                                <li data-video-id="hWGUnrIiOoI" class="selected">
+
+                                    <p class="title">
+                                        <a href="Javascript:void(0)" onclick="getvideo(2057);">
+มิคกี้ "มิคาเอล วอลเกอร์" เจ้าชายนอกเซอร์กิต                                        </a>
+                                        <small class="author">
+                                            <br>20 มิถุนายน 2562
+                                        </small>
+                                    </p>
+                                    <img src="/uploads/video/d952f459-0d72-42e1-aabc-07f569b3ed99.jpg" class="thumb" alt="">
+
+                                </li>
+                        </ol>
                     </div>
-                    <div id="timer">
-                        <span id="start"> 0 : 00</span>
-                    </div>
-                    <button id=expand><i class="fas fa-expand"></i></button>
                 </div>
-              </div>
-              <div id="playlist">  
-               </div>
-             </div>
-
-
-
-          </div>
-          
+            </div><br>
+            <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Video/AllVideo">+ ดูทั้งหมด</a>   
         </div>
+
+    </div>
+<!--End Video Section -->
+
+                        </div>
+            </div>
+        </div>
+
+
+
+        
+        </div>  
+
       </div>
-
-
     </section><!-- End Services Section -->
 
 
@@ -381,207 +503,3 @@
  
  <!-- END DEMO -->
 
-<script type="text/javascript">
-  var player = (function() {//Namespace todo lo que esta aqui dentro es privado
-    var play        = document.getElementById("play"),
-        fullscreen  = document.getElementById("expand"),
-        playlist    = document.getElementById("playlist"),
-        audioVolume = document.getElementById("audioVolume"),
-        progress    = document.getElementById('progress'),
-        start       = document.getElementById('start'),
-        finish      = document.getElementById('finish'),
-        preload     = document.getElementById('preload');
-
-    var mediaPlayer, // global para que los listener sepan el estado a modificar
-        currentTrack = "0", // que video se esta reproduciendo ahora.
-         videos, videoNodes;
-    
-    play.addEventListener("click", (e) => {
-        if (mediaPlayer.paused || mediaPlayer.ended)  {
-            e.target.setAttribute("class", "fas fa-pause");
-            mediaPlayer.play();
-        } else  {
-            mediaPlayer.pause();
-            e.target.setAttribute("class", "fas fa-play");
-        }
-    });
-
-    audioVolume.addEventListener("click", (e) => {
-        if(mediaPlayer.muted) {
-            e.target.setAttribute('class', 'fas fa-volume-up')
-            mediaPlayer.muted = !mediaPlayer.muted;
-        }else {
-            e.target.setAttribute('class', 'fas fa-volume-off')
-            mediaPlayer.muted = !mediaPlayer.muted;
-        }
-    });
-
-    fullscreen.addEventListener("click", () => {
-        if      (mediaPlayer.requestFullscreen)        mediaPlayer.requestFullscreen();
-        else if (mediaPlayer.webkitRequestFullscreen)  mediaPlayer.webkitRequestFullscreen();
-        else if (mediaPlayer.mozRequestFullScreen)     mediaPlayer.mozRequestFullScreen();
-        else if (mediaPlayer.msRequestFullscreen)      mediaPlayer.msRequestFullscreen();
-    });
-
-    playlist.addEventListener("click", function(e) {
-        var target = e.target;
-
-        if (target.id != "playlist") {
-            var id = target.closest(".video").id,
-                el = target.closest(".video");
-            
-            preload.classList.add('lds-ring');
-            higlight(id, currentTrack.toString());
-            set( videos[id].source)
-            mediaPlayer.addEventListener('canplay',videoIsReady)
-        }
-    });
-
-    function set(video) {
-        mediaPlayer.src = video;
-    }
-    /**
-     * @param {*} e
-     */
-    function handleProgress(e) {
-        var minutes = Math.floor(mediaPlayer.currentTime / 60),
-            seconds = Math.floor(mediaPlayer.currentTime - minutes * 60),
-            x  = minutes < 10 ? "0" + minutes : minutes,
-            y  = seconds < 10 ? "0" + seconds : seconds;
-    
-        progress.style.width = Number(this.currentTime / this.duration * 100) + "%";
-        start.textContent = x + " : " + y;
-    }
-  
-    /**
-     * 
-     * @param {*} event
-     */
-    function togglePlay(event){
-        event.preventDefault();
-        if (mediaPlayer.paused || mediaPlayer.ended)  mediaPlayer.play();
-        else  mediaPlayer.pause();
-    }
-
-    /**
-     * Create
-     * @param {object} itemList
-     * @returns un Nodo que representa el objeto siendo pasado
-     * Rturns a Node representation of the object 
-     */
-    function create(itemList) {
-        var div             = document.createElement("div"),
-            imageContainer  = document.createElement("div"),
-            videoIformation = document.createElement("idv"),
-            img             = document.createElement("img"),
-            title           = document.createElement('p'),
-            duration        = document.createElement("span");
-
-            div.setAttribute("id", itemList.id)
-            div.setAttribute("class", "video");
-
-            imageContainer.setAttribute("class", "video-imagen")
-                img.setAttribute("src", itemList.img);
-                imageContainer.appendChild(img);
-                div.appendChild(imageContainer);
-
-            videoIformation.setAttribute("class", "video-information");
-                title.textContent   = itemList.name;
-                duration.textContent = itemList.duration;
-                videoIformation.appendChild(title);
-                videoIformation.appendChild(duration);
-                
-         div.appendChild(videoIformation);
-
-        return div;
-    }
-
-    /**
-     * Recibe un array de objetos y devuelve su representacion en un Nodos HTML
-     * Returns an Node Collection
-     * @param {playlist : arreglo de objetos} 
-     */
-    function loadList(playlist) {
-        var domPlayList  = document.getElementById('playlist'),
-            fragmentList = document.createDocumentFragment();
-
-        for(let video of playlist) 
-            fragmentList.appendChild(create(video))
-    
-        domPlayList.appendChild(fragmentList)
-        videoNodes = document.querySelectorAll('.video'); /* Hace disponible los nodos para manipular Una vex cargados */
-    }
-
-    function videoIsReady(event) {
-        preload.classList.remove('lds-ring');
-        mediaPlayer.play();
-    }
-
-    function higlight(current, lastTrack) {
-        if( lastTrack) {
-            videoNodes[lastTrack].classList.remove("playing");
-            videoNodes[current].classList.add("playing");
-        } else {
-            videoNodes[current].classList.add("playing");
-        }        
-        currentTrack = current;
-    }
-
-    var getVideos = function(){
-        //carga los videos por primera vez
-        getJSON('../source/videos.json', function(response){
-            videos = response;
-            loadList(videos)
-            higlight(currentTrack);       
-        });
-    }
-    
-    /************************************
-     * xmlHtppRequest del json local
-    *************************************/
-    function getJSON(url, callback){
-        var request = new XMLHttpRequest();
-        request.open('GET', url, true);
-
-        request.onload = function() {
-            if (request.status >= 200 && request.status < 400) {
-                var data = JSON.parse(request.responseText);
-                callback(data);
-            }
-        };
-
-        request.onerror = function() {
-        // There was a connection error of some sort
-            console.error("there was an error")
-        };
-
-        request.send();
-    }
-    /**************************
-     * Public
-     *******************/
-    return {
-        init : function() {
-            //configura el reproductor por primera vez, previene algun cambio en el css
-            mediaPlayer          = document.getElementById("media-video");
-            mediaPlayer.controls = false;
-            mediaPlayer.muted    = true; 
-            getVideos();
-            //cuando el video pueda reproducirse elimina el preloader css
-            mediaPlayer.addEventListener('canplay', videoIsReady)
-            mediaPlayer.addEventListener('timeupdate', handleProgress)
-            mediaPlayer.addEventListener('click', togglePlay)
-        }
-    }
-})();
-
-
-document.addEventListener(
-    "DOMContentLoaded",
-    () =>  {
-        player.init();
-    },
-    false
-);
-
-</script>
