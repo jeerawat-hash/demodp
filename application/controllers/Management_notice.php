@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Management_news extends CI_Controller {
+class Management_notice extends CI_Controller {
  
 	function __construct()
 	{
@@ -23,9 +23,9 @@ class Management_news extends CI_Controller {
 
 	public function index()
 	{
-		$header['page_name'] = 'ข่าวสาร';
+		$header['page_name'] = 'ประกาศ';
 		$header['page_focus'] = 'news';
-		$header['page_menu'] = 0;
+		$header['page_menu'] = 2;
 
 		$this->load->view('management/template/header',$header);
 		$this->load->view('management/blank');
