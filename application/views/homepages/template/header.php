@@ -5,6 +5,7 @@
         $home = array("", array("","","","","","","","","","") );
         $story = array("", array("","","","","","","","","","") );
         $org = array("", array("","","","","","","","","","") );
+        $notice = array("", array("","","","","","","","","","") );
      
 
 
@@ -23,6 +24,12 @@
             case 'org':
                 
                 $org[0] = "active";
+ 
+                break;
+
+            case 'notice':
+                
+                $notice[0] = "active";
  
                 break;
              
@@ -91,7 +98,11 @@
           <li class="<?php echo $home[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/">หน้าหลัก</a></li>
           <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a></li>
           <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้าง</a></li>
-          <li><a href="portfolio.html">ประชาสัมพันธ์</a></li>
+          <li class="<?php echo $notice[0]; ?>" >
+              <a href="#">ประชาสัมพันธ์</a>
+              <li class="active"><a href="https://demo.jantra.co/index.php/Home/notice">ข่าวสาร</a></li>
+              <li ><a href="https://demo.jantra.co/index.php/Home/notice">โครงการ</a></li>
+            </li>
           <li><a href="testimonials.html">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
           <li><a href="pricing.html">ระเบียบกฏหมายวิชาการ</a></li>
           <li><a href="blog.html">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
