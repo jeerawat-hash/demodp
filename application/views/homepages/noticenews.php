@@ -80,7 +80,7 @@
               '</div>'+
             '</article>';
 
-      for (var i = 0; i < 3; i++) {
+      for (var i = 0; i < 1; i++) {
           htmlall += html;
       }
 
@@ -89,13 +89,9 @@
 
       $(window).on("scroll",function(){
 
-        //alert("scroll");
-        var htmlplus = "";
-        for (var i = 0; i < 1; i++) {
-          htmlplus += html;
-        }
+        //alert("scroll"); 
 
-        $("#NewsContent").append(htmlplus);
+        $("#NewsContent").append(html);
 
 
       })
