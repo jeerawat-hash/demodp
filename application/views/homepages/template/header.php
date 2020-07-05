@@ -9,6 +9,7 @@
         $services = array("", array("","","","","","","","","","") );
         $laws = array("", array("","","","","","","","","","") );
         $product = array("", array("","","","","","","","","","") );
+        $contact = array("", array("","","","","","","","","","") );
      
 
 
@@ -52,6 +53,11 @@
             case 'product':
                 
                 $product[0] = "active"; 
+ 
+                break;
+            case 'contact':
+                
+                $contact[0] = "active"; 
  
                 break;
              
@@ -153,7 +159,7 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li> -->
-          <li><a href="contact.html">ติดต่อ</a></li>
+          <li class="<?php echo $contact[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/contact">ติดต่อ</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->
