@@ -8,6 +8,7 @@
         $notice = array("", array("","","","","","","","","","") );
         $services = array("", array("","","","","","","","","","") );
         $laws = array("", array("","","","","","","","","","") );
+        $product = array("", array("","","","","","","","","","") );
      
 
 
@@ -45,6 +46,12 @@
             case 'laws':
                 
                 $laws[0] = "active"; 
+ 
+                break;
+
+            case 'product':
+                
+                $product[0] = "active"; 
  
                 break;
              
@@ -128,7 +135,7 @@
 
           <li class="<?php echo $services[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/services">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
           <li class="<?php echo $laws[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/laws">ระเบียบกฏหมายวิชาการ</a></li>
-          <li><a href="blog.html">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
+          <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
          <!-- <li class="drop-down"><a href="">ติดต่อ</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>

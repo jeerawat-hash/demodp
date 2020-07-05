@@ -104,6 +104,17 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}
+	public function product()
+	{
+		$header['page_name'] = 'ผลิตภัณฑ์ฝีมือคนพิการ';
+		$header['page_focus'] = 'product';
+		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/product');
+		$this->load->view('homepages/template/footer');
+
+	}
 
 
 }
