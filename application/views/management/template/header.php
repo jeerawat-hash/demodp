@@ -5,6 +5,7 @@
 
         $home = array("", array("","","","","","","","","","") );
         $news = array("", array("","","","","","","","","","") );
+        $contact = array("", array("","","","","","","","","","") );
     
 
 
@@ -19,6 +20,13 @@
                 
                 $news[0] = "active";
                 $news[1][$page_menu] = "active";
+
+                break;
+
+            case 'contact':
+                
+                $contact[0] = "active";
+                $contact[1][$page_menu] = "active";
 
                 break;
 
@@ -142,7 +150,7 @@
                             <li class="<?php echo $news[1][0]; ?>">
                                 <a href="https://demo.jantra.co/index.php/management_news">ประชาสัมพันธ์</a>
                             </li>
-                            <li class="<?php echo $news[1][1]; ?>">
+                            <li class="<?php echo $news[1][1]; ?> hide">
                                 <a href="https://demo.jantra.co/index.php/management_project">โครงการ</a>
                             </li>
                             <li class="<?php echo $news[1][2]; ?>">
@@ -150,24 +158,24 @@
                             </li> 
                         </ul>
                     </li>
-                    <li>
+                    <li class="<?php echo $contact[0]; ?>">
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">swap_calls</i>
                             <span>ผู้ติดต่อ</span>
                         </a>
                         <ul class="ml-menu">
-                            <li>
-                                <a href="pages/forms/basic-form-elements.html">ข้อความ ถาม-ตอบ</a>
+                            <li class="<?php echo $contact[1][0]; ?>">
+                                <a href="https://demo.jantra.co/index.php/management_message">ข้อความ ถาม-ตอบ</a>
                             </li> 
-                            <li>
-                                <a href="pages/forms/basic-form-elements.html">ข้อความ ติดต่อกลับ</a>
+                            <li class="<?php echo $contact[1][1]; ?>">
+                                <a href="https://demo.jantra.co/index.php/management_callback">ข้อความ ติดต่อกลับ</a>
                             </li> 
                         </ul>
                     </li>
                     <li>
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">view_list</i>
-                            <span>โครงการต่างๆ</span>
+                            <span>ผลงานโครงการที่ผ่านมา</span>
                         </a>
                         <ul class="ml-menu">
                             <li>
