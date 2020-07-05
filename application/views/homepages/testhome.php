@@ -413,6 +413,71 @@
       </div>
     </section><!-- End Our Clients Section -->
 
+
+
+  <!-- demo banner -->
+
+<!-- ======= Our Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>หน่วยงานที่เกี่ยวข้อง</h2>
+          <p>เนื้อหา.....</p>
+        </div>
+
+        <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
+
+
+          <div class="tab-v1 margin-top-20">
+    <div class="container margin-bottom-20">
+        <ul class="nav nav-tabs">
+                    <li class="active"><a href="#7" data-toggle="tab">หน่วยงาน พม.</a></li>
+                    <li class=""><a href="#8" data-toggle="tab">หน่วยงานภายในกรม</a></li>
+                    <li class=""><a href="#9" data-toggle="tab">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
+                    <li class=""><a href="#10" data-toggle="tab">Quick Links</a></li>
+        </ul>
+        <div class="tab-content">
+                    <div class="tab-pane fade in active" id="7">
+                        <div class="owl-clients-v1">
+                                    <a href="http://www.m-society.go.th/main.php?filename=index" target="_blank">
+                                      <img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"></a>
+                                    <a href="http://www.dop.go.th/th" target="_blank">
+                                      <img src="../uploads/Links/80199565-ec73-4094-971f-e4c95888f6e3e838bd14-3893-49a4-af27-bb165a92c427)InDwf-Edit-04.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/80199565-ec73-4094-971f-e4c95888f6e3e838bd14-3893-49a4-af27-bb165a92c427)InDwf-Edit-04.html"></a>
+                                    <a href="http://www.dsdw2016.dsdw.go.th/" target="_blank">
+                                      <img src="../uploads/Links/be260e71-c3b5-42cf-85b0-d1406b77a8c7d5ee3140-1b44-4abc-ad69-ddcf4fbf2d50)InDwf-Edit-05.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/be260e71-c3b5-42cf-85b0-d1406b77a8c7d5ee3140-1b44-4abc-ad69-ddcf4fbf2d50)InDwf-Edit-05.html"></a>
+                                    <a href="https://www.nha.co.th/view/1/Home" target="_blank">
+                                      <img src="../uploads/Links/1e281ba8-e523-404b-8b08-6ebcfc79feda1d87b566-3696-4429-8ba6-d060ac56093e)Other-Edit-04.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/1e281ba8-e523-404b-8b08-6ebcfc79feda1d87b566-3696-4429-8ba6-d060ac56093e)Other-Edit-04.html"></a>
+                                    <a href="http://www.pawn.co.th/" target="_blank">
+                                      <img src="../uploads/Links/5beb6b5b-8076-4e59-9d0f-8d9beb44d7765010bf75-ac9c-4b39-a5e2-21bed66dd9fc)Other-Edit-01.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/5beb6b5b-8076-4e59-9d0f-8d9beb44d7765010bf75-ac9c-4b39-a5e2-21bed66dd9fc)Other-Edit-01.html"></a>
+                                    <a href="http://www.codi.or.th/" target="_blank">
+                                      <img src="../uploads/Links/bf8da7b8-11af-4263-a0f0-a4a9aac918e366c958ae-43c3-4044-aea6-ad0c33230ebf)Other-Edit-02.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="../_/uploads/Links/bf8da7b8-11af-4263-a0f0-a4a9aac918e366c958ae-43c3-4044-aea6-ad0c33230ebf)Other-Edit-02.html"></a>
+                                    <a href="http://www.coopmsds.com/" target="_blank">
+                                      <img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png" alt="หน่วยงานที่เกี่ยวข้องกันพก." longdesc="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"></a>
+                        </div>
+                    </div>
+                  
+        </div>
+    </div>
+</div>
+
+          
+
+        </div>
+
+      </div>
+    </section><!-- End Our Clients Section -->
+
+
+
+  <!-- end demo banner -->
+
+
+
+
+
+
+
   </main><!-- End #main -->
 
 
