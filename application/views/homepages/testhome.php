@@ -1773,7 +1773,274 @@ body.header-fixed-space-default {
 }
   </style>
 
+  <script>
 
+                            $(function () {
+                                var url = "/Home/GetInformation";
+                                $("."+15).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +15).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                        
+                            $(function () {
+                                var url = "/Video/GetVideo";
+                                $("."+42).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +42).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                        
+                            $(function () {
+                                var url = "/Home/GetAnnounce";
+                                $("."+21).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='/admin/img/loading.gif'>");
+                                $.get(url, { "Get": "Get" }, function (rs) {
+                                    $("." +21).replaceWith(rs);
+                                });
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "TH"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+
+                                    //$.get("/Statistic/JasonStatistic", {"language" : "EN"}, function(JsonData){
+                                    //    var ctx = document.getElementById('myChart2').getContext('2d');
+                                    //    var chart = new Chart(ctx, {
+                                    //        // The type of chart we want to create
+                                    //        type: 'line',
+
+                                    //        // The data for our dataset
+                                    //        labels: 'View',
+                                    //        data: {
+                                    //            labels: JsonData.jsonData2,
+                                    //            datasets: JsonData.returnDataJson
+                                    //        },
+
+                                    //        // Configuration options go here
+                                    //        options: {
+                                    //            responsive: true
+                                    //        }
+                                    //    });
+                                    //});
+                                });
+                                    /* set video player */
+
+            $(document).ready(function () {
+                ParallaxSlider.initParallaxSlider();
+                new WOW().init();
+                LoadPopup();
+
+                // init slide
+                var revapi;
+                var width = screen.width;
+                var startheight = ((500 * width) / 1900);
+                if (width <= 500)
+                {
+                    revapi = $('.webportal-slider').revolution(
+                     {
+                         delay: 5000,
+                         startwidth: 320,
+                         startheight: Math.floor(startheight),
+                     });
+                }
+                else
+                {
+                    revapi = $('.webportal-slider').revolution(
+                    {
+                        delay: 5000,
+                        startwidth: 1170,
+                        startheight: Math.floor(startheight),
+                    });
+                }
+
+                $('#myTab a').click(function (e) {
+                    e.preventDefault()
+                    $(this).tab('show')
+                })
+                $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                    e.relatedTarget // previous tab
+                });
+            });
+
+            function LoadPopup() {
+                $.get("/PopupManagment/GetPopup", { "popup": "popup" }, function (rs) {
+                    if (rs.valid == false) {
+                        //not do something
+                    } else {
+                        if ($.cookie('modal_shown') == null) {
+                            $.cookie('modal_shown', 'yes', { expires: 0.1, path: '/' });
+                            $("#showModel").replaceWith(rs);
+                            $('.modal.fade.announce').modal();
+                        }
+                    }
+                });
+            }
+
+            var video_count = 1;
+            var videoPlayer = document.getElementById("videobg");
+            function videorun() {
+                //video_count++;
+                if (video_count == 4) video_count = 1;
+                var nextVideo = "assets/video/background/" + video_count + ".mp4";
+                videoPlayer.src = nextVideo;
+                videoPlayer.play();
+
+            }
+
+            (function () {
+                var cx = '005618469362329708485:gpnrsprjnto';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+            })();
+
+            function GetForm() {
+                var point = $("input[type='radio'][name='ratio']:checked").val();
+                if (!point) {
+                    return false;
+                }
+                $.get("/Vote/Voting", { "score": point }, function (respond) {
+                    if (respond.valid == true) {
+                        window.location = "/Home/Index";
+                        return false;
+                    } else {
+                        alert("false");
+                        return false;
+                    }
+                })
+            }
+
+            function getvideo(id) {
+                if (id != null) {
+                    $.ajax(
+                        {
+                            type: "GET",
+                            url: "/Video/GetVideo/" + id,
+                            cache: false,
+                            success: function (data) {
+                                $('#video').replaceWith(data);
+                            },
+                            error: function (response) {
+                                Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                            }
+                        });
+
+                }
+                else {
+                    $.ajax(
+                        {
+                            type: "GET",
+                            url: "/Video/GetVideo",
+                            cache: false,
+                            success: function (data) {
+                                $('#video').replaceWith(data);
+                            },
+                            error: function (response) {
+                                Notify('เกิดความผิดพลาด กรุณาตรวจสอบข้อมูล', 'top-right', '5000', 'danger', 'fa-desktop', true);
+                            }
+                        });
+                }
+            }
+        </script>
+    
 
 
  <!--End style demo  Youtube -->
