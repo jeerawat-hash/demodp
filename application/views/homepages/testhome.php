@@ -1884,6 +1884,83 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
  <!--End style demo  Youtube -->
 
 
+   <script>
+            $(document).ready(function () {
+                App.init();
+                App.initParallaxBg();
+                FancyBox.initFancybox();
+                OwlCarousel.initOwlCarousel();
+                StyleSwitcher.initStyleSwitcher();
+                App.initScrollBar();
+                ParallaxSlider.initParallaxSlider();
+                new WOW().init();
+                LoadPopup();
+                CarouselInit();
+
+                // init slide
+                var revapi;
+                var width = screen.width;
+                var startheight = ((500 * width) / 1900);
+                revapi = $('.webportal-slider').revolution(
+                {
+                    delay:5000,
+                    startwidth: 1170,
+                    startheight: Math.floor(startheight),
+                });
+
+
+                // manage layout
+
+                                $(function () {
+                                    var url = "/Home/GetAnnounce";
+                                    $("."+38).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
+                                    $.get(url, { "Get": "Get" }, function (rs) {
+                                        setTimeout(function(){
+                                            $("." +38).replaceWith(rs);
+                                            CarouselInit();
+                                        },500)
+                                        
+                                    })
+                                });
+                            
+                                $(function () {
+                                    var url = "/Home/GetDownloads";
+                                    $("."+41).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
+                                    $.get(url, { "Get": "Get" }, function (rs) {
+                                        setTimeout(function(){
+                                            $("." +41).replaceWith(rs);
+                                            CarouselInit();
+                                        },500)
+                                        
+                                    })
+                                });
+                            
+                                $(function () {
+                                    var url = "/Home/GetInfographic";
+                                    $("."+44).html("<img src='/admin/img/loading.gif' alt='loading' longdesc='../admin/img/loading.gif'>");
+                                    $.get(url, { "Get": "Get" }, function (rs) {
+                                        setTimeout(function(){
+                                            $("." +44).replaceWith(rs);
+                                            CarouselInit();
+                                        },500)
+                                        
+                                    })
+                                });
+                                        });
+            
+            
+
+        </script>
+
+
+
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/jquery.min.js"></script> 
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/bootstrap.min.js"></script>  
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/jquery.fancybox.pack.js"></script> 
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/app.js"></script>
+    <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/fancy-box.js"></script>  
+        <script type="text/javascript" src="https://demo.jantra.co/AssetsLogo/plugins/owl.carousel.js"></script> 
+
  <!-- LISIT  ADD  
 
   - youtube 
