@@ -60,7 +60,7 @@ class Home extends CI_Controller {
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์';
 		$header['page_focus'] = 'notice';
-		$header['page_menu'] = 1;
+		$header['page_menu'] = 0;
 
 		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/noticenews');

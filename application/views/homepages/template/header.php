@@ -30,6 +30,7 @@
             case 'notice':
                 
                 $notice[0] = "active";
+                $notice[1][$page_menu] = "active";
  
                 break;
              
@@ -101,8 +102,8 @@
           <li class="drop-down <?php echo $notice[0]; ?>" >
               <a href="javascript:void(0);">ประชาสัมพันธ์</a>
               <ul>
-              <li ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร</a></li>
-              <li ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
+              <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร</a></li>
+              <li class="<?php echo $notice[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
             </ul>
             </li>
 
