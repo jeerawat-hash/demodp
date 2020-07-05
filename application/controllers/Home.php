@@ -23,17 +23,25 @@ class Home extends CI_Controller {
 	public function index()
 	{
 
+		$header['page_name'] = 'หน้าแรก';
+		$header['page_focus'] = 'home';
+		$header['page_menu'] = 1;
+
+
 		$this->load->view('homepages/template/header');
 		$this->load->view('homepages/home');
 		$this->load->view('homepages/template/footer');
 
 	}
 
-	public function about()
+	public function story()
 	{
+		$header['page_name'] = 'ประวัติความเป็นมา';
+		$header['page_focus'] = 'story';
+		$header['page_menu'] = 1;
 
 		$this->load->view('homepages/template/header');
-		$this->load->view('homepages/about');
+		$this->load->view('homepages/story');
 		$this->load->view('homepages/template/footer');
 
 	}
