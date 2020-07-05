@@ -79,7 +79,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>บริการ</h2>
+          <h2>บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</h2>
         </div>
 
         <div class="row">
