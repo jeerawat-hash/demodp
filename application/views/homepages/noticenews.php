@@ -75,3 +75,14 @@
     </section><!-- End Blog Section -->
 
   </main><!-- End #main -->
+
+
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "order": [[ 3, "desc" ]]
+    } );
+} );
+    
+  </script>
