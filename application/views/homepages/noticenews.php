@@ -91,20 +91,29 @@
 
         //alert("scroll"); 
 
-        setTimeout(function(){ 
+        //setTimeout(function(){ 
+              debounce(alert(), 500);
 
-
-          $("#NewsContent").append(html);
+          //$("#NewsContent").append(html);
  
 
 
-        }, 1000);
+        //}, 1000);
 
 
         
 
 
-      })
+      });
+
+
+      function debounce(method, delay) {
+          clearTimeout(method._tId);
+          method._tId= setTimeout(function(){
+              method();
+          }, delay);
+      }
+
 
 
     });
