@@ -23,7 +23,9 @@ class Management extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->view('management/template/header');
 		$this->load->view('management/home');
+		$this->load->view('management/template/footer');
 	}
 
 
