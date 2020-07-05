@@ -57,22 +57,17 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <!-- Vendor CSS Files --> 
+  <!-- Vendor CSS Files -->
+  <link href="https://demo.jantra.co/AssetsHome/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/icofont/icofont.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="https://demo.jantra.co/AssetsHome/vendor/aos/aos.css" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
  <script src="https://code.jquery.com/jquery-3.5.1.js" ></script>
- <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
- <main id="main">
+ 
 
   <!-- Template Main CSS File -->
   <link href="https://demo.jantra.co/AssetsHome/css/style.css" rel="stylesheet">
