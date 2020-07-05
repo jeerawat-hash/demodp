@@ -102,7 +102,7 @@
         <div class="container-fluid">
             <div class="navbar-header"> 
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="index.html">SPDEMO - ระบบบริหารจัดการ</a>
+                <a class="navbar-brand" href="https://demo.jantra.co/index.php/management">SPDEMO - ระบบบริหารจัดการ</a>
             </div>
         </div>
     </nav>
