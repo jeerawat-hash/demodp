@@ -79,7 +79,9 @@ Email : webmaster@dep.go.th</p>
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="https://demo.jantra.co/AssetsHome/vendor/jquery/jquery.min.js"></script>
+  <!--<script src="https://demo.jantra.co/AssetsHome/vendor/jquery/jquery.min.js"></script> -->
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
   <script src="https://demo.jantra.co/AssetsHome/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="https://demo.jantra.co/AssetsHome/vendor/jquery.easing/jquery.easing.min.js"></script>
   <script src="https://demo.jantra.co/AssetsHome/vendor/php-email-form/validate.js"></script>
