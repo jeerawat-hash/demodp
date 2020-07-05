@@ -93,6 +93,17 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}
+	public function laws()
+	{
+		$header['page_name'] = 'กฏหมายวิชาการ';
+		$header['page_focus'] = 'laws';
+		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/laws');
+		$this->load->view('homepages/template/footer');
+
+	}
 
 
 }
