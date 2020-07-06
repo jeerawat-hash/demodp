@@ -808,10 +808,10 @@
         <div class="tab-v1 margin-top-20">
         <div class="container margin-bottom-20">
         <ul class="nav nav-tabs">
-                    <li class=""><a   data-toggle="tab" href="#zero">หน่วยงาน พม.</a></li>
-                    <li class=""><a   data-toggle="tab" href="#one">หน่วยงานภายในกรม</a></li>
-                    <li class=""><a   data-toggle="tab" href="#two">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
-                    <li class=""><a    data-toggle="tab" href="#twoo">Quick Links</a></li>
+                    <li class=""><a class=" econdary url"  data-toggle="tab" href="#zero">หน่วยงาน พม.</a></li>
+                    <li class=""><a  class=" econdary url"    data-toggle="tab" href="#one">หน่วยงานภายในกรม</a></li>
+                    <li class=""><a   class=" econdary url"   data-toggle="tab" href="#two">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
+                    <li class=""><a   class=" econdary url"    data-toggle="tab" href="#twoo">Quick Links</a></li>
         </ul>
         
 
