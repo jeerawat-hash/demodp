@@ -818,14 +818,14 @@
        <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
               <div class="large-12 columns"> 
                   <div class="owl-carousel owl-theme">
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-1.png"> <h4>1</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-2.png"><h4>2</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-3.png"><h4>3</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-4.png"><h4>4</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-5.png"><h4>5</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-6.png"><h4>6</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-7.png"><h4>7</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"><h4>8</h4></div> 
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"> <h4>1</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"><h4>2</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/3.png"><h4>3</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/4.png"><h4>4</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/5.png"><h4>5</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/6.png"><h4>6</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/7.png"><h4>7</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/8.png"><h4>8</h4></div> 
                   </div>
                </div>
         </div>           
