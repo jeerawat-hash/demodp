@@ -37,7 +37,7 @@
     <!-- Yeah i know js should not be in header. Its required for demos.-->
 
     <!-- javascript -->
-    <script src="https://demo.jantra.co/AssetsScroll/vendors/jquery.min.js"></script>
+    <script src="https://demo.jantra.co/AssetsScroll/js/jquery.min.js"></script>
     <script src="https://demo.jantra.co/AssetsScroll/owlcarousel/owl.carousel.js"></script>
 
 
@@ -798,14 +798,8 @@
 
 <!--  Demos -->
     <section id="demos">
-      <div class="row">
-    
-
-        <div class="large-12 columns">
-          <div class="owl-carousel owl-theme">
-
-
-           <div class="owl-carousel owl-theme">
+      <div class="row"> 
+        <div class="large-12 columns"> 
             <div class="owl-carousel owl-theme">
     <div class="item"><h4>1</h4></div>
     <div class="item"><h4>2</h4></div>
@@ -825,8 +819,7 @@
                
           </div>
       
-          </div>
-          </div>
+           
 
 
           <script>
