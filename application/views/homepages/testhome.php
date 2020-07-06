@@ -805,17 +805,13 @@
     <section id="demos">
       <div class="row">
          <hr>
+          <a class=" url" href="#zero">zero</a> 
+          <a class="  url" href="#three">three</a> 
+          <a class=" url" href="#five">five</a> 
+          <a class=" url" href="#seven">seven</a> 
+          <a class=" url" href="#ten">ten</a> 
           
-          <div class="row" data-aos="fade-up">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li class="button secondary url"  href="#zero">zero</a> 
-              <li class="button secondary url"  href="#three">three</a> 
-              <li class="button secondary url"  href="#five">five</a> 
-              <li class="button secondary url"    href="#ten">ten</a>
-            </ul>
-          </div>
-        </div>   
+          
 
         <div class="large-12 columns">
           <div class="owl-carousel owl-theme">
