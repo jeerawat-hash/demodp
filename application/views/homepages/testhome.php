@@ -815,20 +815,18 @@
         </ul>
         
 
-           <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
-              <div class="large-12 columns"  data-hash="zero"> 
+           <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" data-hash="zero">
+              <div class="large-12 columns"   > 
                   <div class="owl-carousel owl-theme" id="7" >
                     <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"> <h4>1</h4></div>
                     <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"><h4>2</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/3.png"><h4>3</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/4.png"><h4>4</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/5.png"><h4>5</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/6.png"><h4>6</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/7.png"><h4>7</h4></div> 
+                     
                   </div>
                </div>
-
-                <div class="large-12 columns"  data-hash="one"> 
+              </div> 
+              
+              <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" data-hash="one">    
+                <div class="large-12 columns"   > 
                    <div class="owl-carousel owl-theme" id="8" >
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/8.png"> <h4>8</h4></div>
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/9.png"><h4>9</h4></div>
@@ -836,16 +834,10 @@
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/11.png"><h4>11</h4></div> 
                   </div>
                 </div>
+              </div> 
 
-                 <div class="large-12 columns" data-hash="two"> 
-                  <div class="owl-carousel owl-theme" id="9"   >
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/12.png"> <h4>1</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/13.png"><h4>2</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/14.png"><h4>3</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/15.png"><h4>4</h4></div> 
-                  </div>
-               </div>
-        </div>           
+                 
+                 
 
 
 
