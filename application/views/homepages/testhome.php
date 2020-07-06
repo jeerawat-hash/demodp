@@ -804,16 +804,18 @@
           <h2>หน่วยงาน</h2>
         </div>
 
-        <div class="row"> 
-        <div class="tab-v1 margin-top-20">
-        <div class="container margin-bottom-20">
-        <ul class="nav nav-tabs">
-                    <li class=""><a class="   url"  data-toggle="tab" href="#zero">หน่วยงาน พม.</a></li>
-                    <li class=""><a  class="   url"    data-toggle="tab" href="#one">หน่วยงานภายในกรม</a></li>
-                    <li class=""><a   class="   url"   data-toggle="tab" href="#two">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
-                    <li class=""><a   class="   url"    data-toggle="tab" href="#twoo">Quick Links</a></li>
-        </ul>
-        
+    
+       <div class="row" data-aos="fade-up">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">หน่วยงาน พม.</li>
+              <li data-filter=".filter-card">หน่วยงานภายในกรม</li>
+              <li data-filter=".filter-web">หน่วยงานอื่นที่เกี่ยวข้อง</li>
+              <li data-filter=".filter-webed">Quick Links</li>
+            </ul>
+          </div>
+        </div>
 
            <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" >
               <div class="large-12 columns"   > 
@@ -826,7 +828,23 @@
               </div> 
               
              
-                 
+        <div class="row portfolio-container" data-aos="fade-up">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+           <div class="item"  data-hash="zero"><  <img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  class="img-fluid" alt=""> 
+          </div></div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Web 3</h4>
+              <p>Web</p>
+              <a href="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+        </div>    
                  
 
 
