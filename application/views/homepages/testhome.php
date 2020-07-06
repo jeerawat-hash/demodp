@@ -836,10 +836,10 @@
                   <div class="owl-carousel owl-theme" id="7" >
                       
 
-                    <div class="item"  style="width: 33px;"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"   ><h4>9w</h4></div>
-                      <div class="item"   style="width: 33px;"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px"   > <h4>10</h4></div>
+                    <div class="item"  style="width: 50px;"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"   ><h4>9w</h4></div>
+                      <div class="item"   style="width: 80px;"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px"   > <h4>10</h4></div>
 
-                    <div class="item"  style="width: 33px;"   data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px"   ><h4>11</h4></div>
+                    <div class="item"  style="width: 100px;"   data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px"   ><h4>11</h4></div>
                      
                   </div>
                
