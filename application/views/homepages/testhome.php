@@ -799,93 +799,56 @@
 <!--  Demos -->
     <section id="demos">
       <div class="row">
-         <hr>
-          <a class=" url" href="#zero">zero</a> 
-          <a class="  url" href="#three">three</a> 
-          <a class=" url" href="#five">five</a> 
-          <a class=" url" href="#seven">seven</a> 
-          <a class=" url" href="#ten">ten</a> 
-          
-          
+    
 
         <div class="large-12 columns">
           <div class="owl-carousel owl-theme">
 
 
            <div class="owl-carousel owl-theme">
-            <div class="item">
-              <h4>1</h4>
-            </div>
-            <div class="item">
-              <h4>2</h4>
-            </div>
-            <div class="item">
-              <h4>3</h4>
-            </div>
-            <div class="item">
-              <h4>4</h4>
-            </div>
-            <div class="item">
-              <h4>5</h4>
-            </div>
-            <div class="item">
-              <h4>6</h4>
-            </div>
-            <div class="item">
-              <h4>7</h4>
-            </div>
-            <div class="item">
-              <h4>8</h4>
-            </div>
-            <div class="item">
-              <h4>9</h4>
-            </div>
-            <div class="item">
-              <h4>10</h4>
-            </div>
-            <div class="item">
-              <h4>11</h4>
-            </div>
-            <div class="item">
-              <h4>12</h4>
-            </div>
+            <div class="owl-carousel owl-theme">
+    <div class="item"><h4>1</h4></div>
+    <div class="item"><h4>2</h4></div>
+    <div class="item"><h4>3</h4></div>
+    <div class="item"><h4>4</h4></div>
+    <div class="item"><h4>5</h4></div>
+    <div class="item"><h4>6</h4></div>
+    <div class="item"><h4>7</h4></div>
+    <div class="item"><h4>8</h4></div>
+    <div class="item"><h4>9</h4></div>
+    <div class="item"><h4>10</h4></div>
+    <div class="item"><h4>11</h4></div>
+    <div class="item"><h4>12</h4></div>
+</div>
          
           </div>
-            
+               
+          </div>
+      
+          </div>
+          </div>
+
+
           <script>
-            $(document).ready(function() {
-             var owl = $('.owl-carousel');
-owl.owlCarousel({
+            $(document).ready(function() {$('.owl-carousel').owlCarousel({
     loop:true,
-    nav:true,
     margin:10,
+    nav:true,
     responsive:{
         0:{
             items:1
         },
         600:{
             items:3
-        },            
-        960:{
-            items:5
         },
-        1200:{
-            items:6
+        1000:{
+            items:5
         }
     }
-});
-owl.on('mousewheel', '.owl-stage', function (e) {
-    if (e.deltaY>0) {
-        owl.trigger('next.owl');
-    } else {
-        owl.trigger('prev.owl');
-    }
-    e.preventDefault();
-});
+})
             })
           </script>
-        </div>
-      </div>
+       
     </section>
 
 
