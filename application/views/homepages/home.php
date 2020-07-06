@@ -201,6 +201,10 @@
 
 
 
+
+
+
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -216,9 +220,12 @@
 
 
 <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
-                            <div>
+       <div>
    
     <div class="row">
+
+      
+<!--- SUB NEWS ONE ---> 
                     <div class="col-md-3">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
@@ -292,8 +299,235 @@
 </div>
     </div>
 
+<!--- SUB NEWS ONE ---> 
 
 
+
+
+
+
+<!--- SUB NEWS TWO ---> 
+        <div style="background-color:#ffffff;">
+            <div class="container  margin-top-20">
+                        <div class="col-sm-12  col-md-12 col-lg-12">
+                            
+<div class="tab-v1 margin-bottom-20">
+    <ul class="nav nav-tabs">
+        <li class="active">
+            <a href="#home" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+              จัดซื้อจัดจ้าง
+            </a>
+        </li>
+        <li>
+            <a href="#announce" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                ประกาศราคากลาง
+            </a>
+        </li> 
+        <li>    
+            <a href="#job" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                สมัครงาน           </a>
+        </li>
+        <li>
+            <a href="#general" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
+                ทั่วไป
+            </a>
+        </li>
+    </ul>
+    <div class="tab-content ">
+        <div class="tab-pane fade in active" id="home">
+
+                            <a href="/Content/View/6220/1"> ประกาศผู้ชนะการเสนอราคาประกวดซื้อหมึกพิมพ์บัตรประจำตัวคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6160/1"> ประกาศ เรื่อง ประกาศผู้ชนะการเสนอราคา จ้างที่ปรึกษาติดตามผลแผนพัฒนาคุณภาพชีวิตคนพิการจังหวัด ฉบับที่ ๓ พ.ศ. ๒๔๖๐ - ๒๕๖๔  (ระยะครึ่งแผน) </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6088/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างโครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6045/1"> ประกาศและเอกสารประกวดราคาจ้างโครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ﻿</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6044/1"> ประกาศ เรื่อง ประกวดราคาจ้างเหมาเอกชนทำความสะอาดสำนักงาน ประจำปีงบประมาณ 2563 จำนวน 5 เดือน (เดือนพฤษภาคม - กันยายน 2563) </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6003/1"> ประกาศประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์ด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/6002/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์กรเพื่อต่ออายุมาตรฐานองค์กรด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5931/1"> ประกาศ เรื่อง ประกาศผู้ชนะการเสนอราคา จ้างโครงการพัฒนาบุคลากรเชิงยุทธสาสตร์ โดยวิธีคัดเลือก</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5917/1"> ประกาศผู้ชนะการเสนอราคา ประกวดราคาจ้างเหมาเอกชนดำเนินงานดูแล บำรุงรักษา พัฒนาและซ่อมแซม แก้ไขคุรภัณฑ์ คอมพิวเตอร์พร้อมอุปกรณ์และระบบงานของ พก. ประจำปี 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                        
+                            <a href="/Content/View/5906/1"> ประกาศประกวดราคาจ้างเอกชนตรวจประเมินมาตรฐานองค์กรเพื่อต่ออายุมาตรฐานองค์กรด้านคนพิการหรือองค์กรอื่นใดที่ให้บริการแก่คนพิการ ประจำปี ๒๕๖๓</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 10px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/46">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="announce">
+
+                            <a href="/Content/View/6175/1"> ราคากลางจัดซื้อหมึกพิมพ์บัตรประจำตัวคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6048/1"> ราคากลางจัดซื้อเครื่องคอมพิวเตอร์และอุปกรณ์เพื่อทดแทนเครื่องเดิมที่มีอายุการใช้งานเกิน ๗ ปี และเพิ่มประสิทธิภาพ (ส่วนกลาง) กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6028/1"> ราคากลาง โครงการระบบการติดตามและดำเนินคดีของกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5850/1"> ราคากลาง จ้างปรับปรุงและบำรุงรักษาระบบงานกองทุนส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ ประจำปีงบประมาณ 2563 </a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5795/1"> ราคากลางจ้างเหมาดำเนินงานดูแล บำรุงรักษา พัฒนาและซ่อมแซมแก้ไข ครุภัณฑ์ คอมพิวเตอร์พร้อมอุปกรณ์และระบบงานของ พก. ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5789/1"> ราคากลาง จ้างเจ้าหน้าที่รักษาความปลอดภัยของกองกองทุนและส่งเสริมความเสมอภาคคนพิการ ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5787/1"> ราคากลาง เช่าอาคารกองกองทุนและส่งเสริมความเสมอภาคคนพิการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5698/1"> ราคากลาง เช่าบริการอินเตอร์เน็ตของกองกองทุนและส่งเสริมความเสมอภาคคนพิการ ประจำปีงบประมาณ พ.ศ. 2563</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/5689/1"> ราคากลาง เช่าบริการสื่อสารและโทรคมนาคม ประจำปี ๒๕๖๓</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/4646/1"> ราคากลางการจ้างเหมาพนักงานรักษาความปลอดภัย จำนวน 6 คน</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/48">+ ดูทั้งหมด</a>
+        </div>
+        
+        <div class="tab-pane fade in" id="job">
+
+                            <a href="/Content/View/6338/1"> กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ รับสมัครบุคคลเพื่อสรรหาและเลือกสรรเป็นพนักงานราชการทั่วไป (ส่วนกลาง)</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6301/1"> การรับสมัครคนพิการเพื่อเลือกสรรเป็นพนักงานราชการทั่วไปในตำแหน่งเจ้าพนักงานธุรการ และตำแหน่งเจ้าหน้าที่ธุรการ ของสำนักงานนโยบายและแผนการขนส่งและจราจร</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6283/1"> ประกาศกรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ เรื่อง กำหนดวัน เวลา เพื่อวัดความเหมาะสมกับตำแหน่ง ในการสอบแข่งขันเพื่อบรรจุและแต่งตั้งบุคคลเข้ารับราชการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6274/1"> ประกาศ กระทรวงการคลัง มีความประสงค์รับสมัครคัดเลือกข้าราชการพลเรือนสามัญ เพื่อรับโอนมาปฏิบัติราชการ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6235/1"> กรมกิจการผู้สูงอายุ มีความประสงค์จะรับโอนข้าราชการหลายอัตรา</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6234/1"> คณะสังคมสงเคราะห์ศาสตร์ มหาวิทยาลัยธรรมศาสตร์ เปิดรับสมัครเข้าศึกษาต่อระดับปริญญาโทภาคพิเศษ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6233/1"> สถาบันการศึกษาทางไกล เปิดรับสมัครนักศึกษาใหม่</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6231/1"> ประกาศ กรมการขนส่งทางราง รับโอนข้าราชการพลเรือนสามัญ</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6221/1"> รับสมัครงานตำแหน่ง Chief Finance Officer ของสำนักงานเลขาธิการคณะกรรมาธิการแม่น้ำโขง</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                            <a href="/Content/View/6200/1"> กรมสรรพากรรับสมัครคนพิการเพื่อการสรรหาและการเลือกสรรเป็นพนักงานราชการทั่วไป</a>
+                            <br>
+                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/50">+ ดูทั้งหมด</a>
+        </div>
+        <div class="tab-pane fade in" id="general">
+
+                        <a href="/Content/View/6335/1"> ประกาศรับสมัครบุคคลเพื่อสอบคัดเลือกบรรจุและแต่งตั้งเป็นพนักงานตำแหน่งนิติกร งานนิติกร สำนักผู้อำนวยการ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6334/1"> ขอความอนุเคราะห์ประชาสัมพันธ์กองทุนอสังหาริมทรัพย์ของรัฐ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6332/1"> ประกาศ ยกเลิกระเบียบแสดงผลการเรียนหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน (ปพ.1)</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6330/1"> ประกาศ ซ้อมความเข้าใจการตรวจสอบและปรับปรุง แก้ไข หรือเพิ่มเติมข้อมูลในฐานข้อมูลบุคลากรภาครัฐ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6300/1"> ขอความร่วมมือตอบแบบสำรวจเกี่ยวกับการปฏิบัติงานนอกสถานที่ตั้งของส่วนราชการ</a>
+                            <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6275/1"> ประกาศผลการสอบคัดเลือกพนักงานสำนักงานธนานุเคราะห์และบุคคลภายนอกเพื่อบรรจุเป็นพนักงานตำแหน่งนักบริหารทรัพยากรบุคคล งานบริหารทรัพยากรบุคคล ฝ่ายบริหารทั่วไป สำนักงานธนานุเคราะห์</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6232/1"> สถาบันบัณฑิตพัฒนบริหารศาสตร์ขอประชาสัมพันธ์โครงการฝึกอบรมผู้สูงอายุหลักสูตร "เสริมสร้างทักษะที่หลากหลายของผู้สูงอายุ (Senior Empowerment Program:SEP)"</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6225/1"> การเปลี่ยนชื่อจากสสว. 4 เป็นสสว. 3 และเปลี่ยนแปลงที่ตั้งสำนักงาน</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6202/1"> ประกาศแจ้งรายชื่อและเลขประจำตัวผู้มีสิทธิสอบคัดเลือกบุคคลภายนอกเพื่อยรรจุเป็นพนักงานธนานุเคราะห์ตำแหน่งนักวิเคราะห์และวางแผน งานพัฒนาธุรกิจและผลิตภัณฑ์(งานพัฒนาธุรกิจและนวัตกรรม)</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                        
+                        <a href="/Content/View/6178/1"> การรับสมัครคนพิการเพื่อการสรรหาและเลือกสรรเป็นพนักงานราชการทั่วไป</a>
+                        <br>
+                        <hr style="padding:0px;margin:5px 0px 5px 0px;">
+                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/1155">+ ดูทั้งหมด</a>
+         </div>
+
+       </div>
+     </div>
+
+
+
+
+                  </div>
+            </div>
+        </div>
+
+
+
+  <!-- END SUB NEWS TWO -->
  
         </div>  
 

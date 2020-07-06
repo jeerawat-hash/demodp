@@ -220,9 +220,12 @@
 
 
 <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
-                            <div>
+       <div>
    
     <div class="row">
+
+      
+<!--- SUB NEWS ONE ---> 
                     <div class="col-md-3">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
@@ -296,10 +299,14 @@
 </div>
     </div>
 
-   <!--- SUB NEWS --->
+<!--- SUB NEWS ONE ---> 
 
 
 
+
+
+
+<!--- SUB NEWS TWO ---> 
         <div style="background-color:#ffffff;">
             <div class="container  margin-top-20">
                         <div class="col-sm-12  col-md-12 col-lg-12">
@@ -315,16 +322,10 @@
             <a href="#announce" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
                 ประกาศราคากลาง
             </a>
-        </li>
-        <li>
-            <a href="#conclude" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
-                สรุปผลการจัดซื้อจัดจ้าง พก.
-            </a>
-        </li>
+        </li> 
         <li>    
             <a href="#job" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
-                สมัครงาน
-(รายการใหม่ 1 รายการ)            </a>
+                สมัครงาน           </a>
         </li>
         <li>
             <a href="#general" data-toggle="tab" style="font-weight:bold; font-size:1.1em">
@@ -419,49 +420,7 @@
                             <hr style="padding:0px;margin:5px 0px 5px 0px;">
                                     <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/48">+ ดูทั้งหมด</a>
         </div>
-        <div class="tab-pane fade in" id="conclude">
-
-                            <a href="/Content/View/6273/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนพฤษภาคม 2563</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/6182/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนเมษายน 2563</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/6066/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนมีนาคม 2563</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/5981/1"> สรุปผลการจัดซื้อจัดจ้างประจำเดือนกุมภาพันธ์ 2563</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/5884/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนมกราคม 2563</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/5817/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนธันวาคม 2562 </a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/5774/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนพฤศจิกายน 2562</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/5710/1"> รายงานผลการจัดซื้อจัดจ้างประจำเดือนตุลาคม 2562</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/2080/1"> สรุปผลการดำเนินการจัดซื้อจัดจ้างประจำเดือนเมษายน - มิถุนายน 2561 ไตรมาส 3</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                        
-                            <a href="/Content/View/1540/1"> ประกาศ เอกสารประกวดราคาจ้าง และข้อกำหนดและขอบเขตงานจ้างจัดงาน Thailand Social Expo ๒๐๑๘</a>
-                            <br>
-                            <hr style="padding:0px;margin:5px 0px 5px 0px;">
-                                    <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/49">+ ดูทั้งหมด</a>
-        </div>
+        
         <div class="tab-pane fade in" id="job">
 
                             <a href="/Content/View/6338/1"> กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ รับสมัครบุคคลเพื่อสรรหาและเลือกสรรเป็นพนักงานราชการทั่วไป (ส่วนกลาง)</a>
@@ -554,21 +513,21 @@
                         <br>
                         <hr style="padding:0px;margin:5px 0px 5px 0px;">
                                     <a class="btn-u btn-u-sm rounded btn-default pull-right" href="/Home/AnnounceList/1155">+ ดูทั้งหมด</a>
+         </div>
+
+       </div>
+     </div>
+
+
+
+
+                  </div>
+            </div>
         </div>
 
-    </div>
-</div>
 
 
-
-
-                        </div>
-            </div>
-        </d
-
-
-
-  <!-- END SUB NEWS -->
+  <!-- END SUB NEWS TWO -->
  
         </div>  
 
