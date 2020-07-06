@@ -116,7 +116,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>วิดีโอ</h2>
+          <h2>คลิปวิดีโอ</h2>
         </div>
 
         <div class="row">
