@@ -809,10 +809,10 @@
           <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li class="button secondary url" data-filter="*" href="#zero">zero</a> 
-              <li class="button secondary url"data-filter=".filter-app" href="#three">three</a> 
-              <li class="button secondary url"data-filter=".filter-card" href="#five">five</a> 
-              <li class="button secondary url" data-filter=".filter-web"  href="#ten">ten</a>
+              <li class="button secondary url"  href="#zero">zero</a> 
+              <li class="button secondary url"  href="#three">three</a> 
+              <li class="button secondary url"  href="#five">five</a> 
+              <li class="button secondary url"    href="#ten">ten</a>
             </ul>
           </div>
         </div>   
