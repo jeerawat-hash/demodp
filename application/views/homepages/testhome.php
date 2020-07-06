@@ -179,12 +179,7 @@
         <div class="row">
          
  
-
-          <div class="col-lg-4 col-md-6">
-           
-
-
-
+ 
 
 
 <div class="col-sm-12  col-md-12 col-lg-12">
@@ -266,11 +261,9 @@
 </div>
     </div>
 
-    
 
 
-          </div>
-         
+ 
         </div>  
 
       </div>
