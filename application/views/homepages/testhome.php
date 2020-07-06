@@ -797,25 +797,24 @@
 
 
 <!--  Demos --> 
-<section id="services" class="services">
+ <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
           <h2>หน่วยงาน</h2>
         </div>
 
-    
-       <div class="row" data-aos="fade-up">
+        <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">หน่วยงาน พม.</li>
-              <li data-filter=".filter-card">หน่วยงานภายในกรม</li>
-              <li data-filter=".filter-web">หน่วยงานอื่นที่เกี่ยวข้อง</li>
-              <li data-filter=".filter-webed">Quick Links</li>
+              <li data-filter="*" class="filter-active">หน่วยงานทั้งหมด</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
+
 
            <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" >
               <div class="large-12 columns"   > 
