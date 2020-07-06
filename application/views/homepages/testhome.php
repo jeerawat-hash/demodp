@@ -309,7 +309,7 @@
 <!--- SUB NEWS TWO ---> 
         <div style="background-color:#ffffff;">
             <div class="container  margin-top-20">
-                        <div class="col-sm-12  col-md-12 col-lg-12">
+                        <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up"  >
                             
 <div class="tab-v1 margin-bottom-20">
     <ul class="nav nav-tabs">
