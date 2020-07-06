@@ -863,5 +863,5 @@
 
 
     <!-- vendors -->
-    <script src="assets/vendors/highlight.js"></script>
-    <script src="assets/js/app.js"></script>
+    <script src="https://demo.jantra.co/AssetsScroll/vendors/highlight.js"></script>
+    <script src="https://demo.jantra.co/AssetsScroll/js/app.js"></script>
