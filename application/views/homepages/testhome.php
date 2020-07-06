@@ -820,9 +820,9 @@
             <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-app"  >
             
                   <div class="owl-carousel owl-theme" id="7" >
-                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" class="img-fluid "  height="36px" > <h4>1</h4></div>
+                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" class="img-fluid "  height="1000px"  width="10px" > <h4>1</h4></div>
 
-                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  class="img-fluid" height="36px" ><h4>2</h4></div>
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  class="img-fluid" height="1000px"  width="10px" ><h4>2</h4></div>
                      
                   </div>
                 
@@ -833,13 +833,13 @@
                <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-web"  >
               
                   <div class="owl-carousel owl-theme" id="7" >
-                    <div class="item  "  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="36px"     > <h4>3</h4></div>
+                    <div class="item  "  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="1000px"  width="10px"   > <h4>3</h4></div>
 
                     <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="36px"   ><h4>4</h4></div>
-                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="36px"  > <h4>5</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="1000px"  width="10px"  > <h4>5</h4></div>
 
                     <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="36px"   ><h4>4</h4></div>
-                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="36px"  > <h4>6</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="1000px"    > <h4>6</h4></div>
 
                     <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="36px"   ><h4>4</h4></div>
                       <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" height="36px"  > <h4>7</h4></div>
