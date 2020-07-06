@@ -796,9 +796,17 @@
 
 
 
-<!--  Demos -->
-    <section id="demos">
-      <div class="row"> 
+<!--  Demos --> 
+<section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>ข่าวสาร/กิจกรรม</h2>
+        </div>
+
+        <div class="row"> 
+        
+             <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
         <div class="large-12 columns"> 
             <div class="owl-carousel owl-theme">
     <div class="item"><h4>1</h4></div>
@@ -818,7 +826,9 @@
           </div>
                
           </div>
-      
+        
+      </div>
+    </div>
            
 
 
