@@ -815,27 +815,17 @@
         </ul>
         
 
-           <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" data-hash="zero">
+           <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" >
               <div class="large-12 columns"   > 
                   <div class="owl-carousel owl-theme" id="7" >
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"> <h4>1</h4></div>
-                    <div class="item" ><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"><h4>2</h4></div>
+                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"> <h4>1</h4></div>
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"><h4>2</h4></div>
                      
                   </div>
                </div>
               </div> 
               
-              <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" data-hash="one">    
-                <div class="large-12 columns"   > 
-                   <div class="owl-carousel owl-theme" id="8" >
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/8.png"> <h4>8</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/9.png"><h4>9</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/10.png"><h4>10</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/11.png"><h4>11</h4></div> 
-                  </div>
-                </div>
-              </div> 
-
+             
                  
                  
 
