@@ -167,6 +167,119 @@
     </section><!-- End Services Section  youtube-->
 
 
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</h2>
+        </div>
+
+        <div class="row">
+         
+ 
+
+          <div class="col-lg-4 col-md-6">
+           
+
+
+
+
+
+<div class="col-sm-12  col-md-12 col-lg-12">
+                            <div>
+    <div class="headline">
+        <h3>  ข่าว สาร/กิจกกรม. </h3>
+    </div>
+    <div class="row">
+                    <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/a640a264-2fbc-49fa-8c5c-202ab015bc1f1.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน.." href="/Content/View/6336/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6336/2" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d36de48e-6fa9-4aab-a0d6-af72d9cfcc533.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส.." href="/Content/View/6337/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6337/2" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/9a4eb25e-a17f-4456-8fcd-4deb2a7a3d1b17.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN.." href="/Content/View/6328/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6328/2" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d8ddccd8-6269-4d4d-8c8d-5b48465b21ae1.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู.." href="/Content/View/6329/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6329/2" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="/Home/AnnounceList/1">+ ดูทั้งหมด</a>
+</div>
+    </div>
+
+    
+
+
+          </div>
+         
+        </div>  
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+
+
+
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -224,7 +337,8 @@
         </div>  
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
 
  
 
