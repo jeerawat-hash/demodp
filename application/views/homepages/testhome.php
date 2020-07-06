@@ -820,10 +820,10 @@
             <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-app"  >
             
                   <div class="owl-carousel owl-theme" id="7" >
-                      <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="150px" width="30px"   ><h4>9</h4></div>
-                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px" width="30px" > <h4>10</h4></div>
+                      <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="150px"   ><h4>9</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px"  > <h4>10</h4></div>
 
-                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px" width="30px"   ><h4>11</h4></div>
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px"   ><h4>11</h4></div>
                      
                   </div>
                 
@@ -837,10 +837,10 @@
                      
 
 
-                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="150px" width="10px"   ><h4>9</h4></div>
-                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px" width="15px" > <h4>10</h4></div>
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png" height="150px"   ><h4>9</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  height="150px"  > <h4>10</h4></div>
 
-                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px" width="20px"   ><h4>11</h4></div>
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  height="150px"    ><h4>11</h4></div>
                      
                   </div>
                
