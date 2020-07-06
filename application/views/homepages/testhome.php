@@ -801,42 +801,46 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>ข่าวสาร/กิจกรรม</h2>
+          <h2>หน่วยงาน</h2>
         </div>
 
         <div class="row"> 
         <div class="tab-v1 margin-top-20">
-    <div class="container margin-bottom-20">
+        <div class="container margin-bottom-20">
         <ul class="nav nav-tabs">
                     <li class="active"><a href="#7" data-toggle="tab">หน่วยงาน พม.</a></li>
                     <li class=""><a href="#8" data-toggle="tab">หน่วยงานภายในกรม</a></li>
                     <li class=""><a href="#9" data-toggle="tab">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
                     <li class=""><a href="#10" data-toggle="tab">Quick Links</a></li>
         </ul>
-             <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
-        <div class="large-12 columns"> 
-            <div class="owl-carousel owl-theme">
-    <div class="item"><h4>1</h4></div>
-    <div class="item"><h4>2</h4></div>
-    <div class="item"><h4>3</h4></div>
-    <div class="item"><h4>4</h4></div>
-    <div class="item"><h4>5</h4></div>
-    <div class="item"><h4>6</h4></div>
-    <div class="item"><h4>7</h4></div>
-    <div class="item"><h4>8</h4></div>
-    <div class="item"><h4>9</h4></div>
-    <div class="item"><h4>10</h4></div>
-    <div class="item"><h4>11</h4></div>
-    <div class="item"><h4>12</h4></div>
-</div>
-         
-          </div>
-               
-          </div>
         
-      </div>
-    </div>
-           
+
+       <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
+              <div class="large-12 columns"> 
+                  <div class="owl-carousel owl-theme">
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-1.png"> <h4>1</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-2.png"><h4>2</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-3.png"><h4>3</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-4.png"><h4>4</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-5.png"><h4>5</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-6.png"><h4>6</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-7.png"><h4>7</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"><h4>8</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-9.png"><h4>9</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-10.png"><h4>10</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-11.png"><h4>11</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-12.png"><h4>12</h4></div>
+                  </div>
+               </div>
+        </div>           
+
+
+
+
+        </div>
+        </div>
+        </div>
+    </div> 
 
 
           <script>
