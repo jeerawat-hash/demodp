@@ -31,14 +31,9 @@
     <!-- CSS style-switcher -->
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css"> 
 
-    <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/css/docs.theme.min.css">
     <!-- Owl Stylesheets -->
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.theme.default.min.css">
-
-    
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://demo.jantra.co/AssetsScroll/ico/apple-touch-icon-144-precomposed.png"> 
-
     <!-- Yeah i know js should not be in header. Its required for demos.-->
 
     <!-- javascript -->
@@ -837,16 +832,34 @@
             
           <script>
             $(document).ready(function() {
-              $('.owl-carousel').owlCarousel({
-                items: 4,
-                loop: false,
-                center: true,
-                margin: 10,
-                callbacks: true,
-                URLhashListener: true,
-                autoplayHoverPause: true,
-                startPosition: 'URLHash'
-              });
+             var owl = $('.owl-carousel');
+owl.owlCarousel({
+    loop:true,
+    nav:true,
+    margin:10,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },            
+        960:{
+            items:5
+        },
+        1200:{
+            items:6
+        }
+    }
+});
+owl.on('mousewheel', '.owl-stage', function (e) {
+    if (e.deltaY>0) {
+        owl.trigger('next.owl');
+    } else {
+        owl.trigger('prev.owl');
+    }
+    e.preventDefault();
+});
             })
           </script>
         </div>
