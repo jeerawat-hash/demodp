@@ -808,7 +808,7 @@
         <div class="tab-v1 margin-top-20">
         <div class="container margin-bottom-20">
         <ul class="nav nav-tabs">
-                    <li class="active"><a href="#7" data-toggle="tab">หน่วยงาน พม.</a></li>
+                    <li class=""><a href="#7" data-toggle="tab">หน่วยงาน พม.</a></li>
                     <li class=""><a href="#8" data-toggle="tab">หน่วยงานภายในกรม</a></li>
                     <li class=""><a href="#9" data-toggle="tab">หน่วยงานอื่นที่เกี่ยวข้อง</a></li>
                     <li class=""><a href="#10" data-toggle="tab">Quick Links</a></li>
