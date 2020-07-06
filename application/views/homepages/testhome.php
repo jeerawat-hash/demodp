@@ -30,7 +30,8 @@
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/custom.css">
     <!-- CSS style-switcher -->
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css"> 
- 
+
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/css/docs.theme.min.css">
     <!-- Owl Stylesheets -->
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.theme.default.min.css">
