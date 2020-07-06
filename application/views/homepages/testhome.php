@@ -1,4 +1,7 @@
  <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/youtustyle.css"> 
+ <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
+
+ 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -173,7 +176,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</h2>
+          <h2>ประชาสัมพันธ์</h2>
         </div>
 
         <div class="row">
@@ -182,11 +185,9 @@
  
 
 
-<div class="col-sm-12  col-md-12 col-lg-12">
+<div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
                             <div>
-    <div class="headline">
-        <h3>  ข่าว สาร/กิจกกรม. </h3>
-    </div>
+   
     <div class="row">
                     <div class="col-md-3">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
