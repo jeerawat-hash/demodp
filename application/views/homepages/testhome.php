@@ -816,33 +816,20 @@
         </div>
 
 
-           <div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up" >
+          <div class="row portfolio-container" data-aos="fade-up">
+            <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-app"  >
               <div class="large-12 columns"   > 
                   <div class="owl-carousel owl-theme" id="7" >
-                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"> <h4>1</h4></div>
-                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"><h4>2</h4></div>
+                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png" class="img-fluid"  > <h4>1</h4></div>
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"  class="img-fluid" ><h4>2</h4></div>
                      
                   </div>
                </div>
               </div> 
-              
-             
-        <div class="row portfolio-container" data-aos="fade-up">
+               
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-           <div class="item"  data-hash="zero"><  <img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  class="img-fluid" alt=""> 
-          </div></div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
+         
         </div>    
                  
 
