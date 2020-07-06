@@ -825,11 +825,7 @@
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-5.png"><h4>5</h4></div>
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-6.png"><h4>6</h4></div>
                     <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-7.png"><h4>7</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"><h4>8</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-9.png"><h4>9</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-10.png"><h4>10</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-11.png"><h4>11</h4></div>
-                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-12.png"><h4>12</h4></div>
+                    <div class="item"><img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png"><h4>8</h4></div> 
                   </div>
                </div>
         </div>           
