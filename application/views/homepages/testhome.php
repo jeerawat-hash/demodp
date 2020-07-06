@@ -836,6 +836,21 @@
                     <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>3</h4></div>
 
                     <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>4</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>5</h4></div>
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>4</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>6</h4></div>
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>4</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>7</h4></div>
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>8</h4></div>
+
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>9</h4></div>
+                      <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>10</h4></div>
+
+                    <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>11</h4></div>
                      
                   </div>
                
