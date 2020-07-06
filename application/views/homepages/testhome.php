@@ -826,6 +826,7 @@
                     <div class="item"  style="width: 100px;  "   data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"     ><h4>2</h4></div>
                      
                   </div>
+                </div>
 
                    <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-card"  >
             
