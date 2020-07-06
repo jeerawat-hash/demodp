@@ -818,7 +818,7 @@
 
           <div class="row portfolio-container" data-aos="fade-up">
                 
-                 <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-app"  >
+                 <div class="col-sm-12  col-md-12 col-lg-12  filter-app"  >
             
                   <div class="owl-carousel owl-theme" id="7" >
                    <div class="item"  style="width: 100px;  "  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"   ><h4>1</h4></div> 
@@ -828,7 +828,7 @@
                   </div>
                 </div>
 
-                   <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-card"  >
+                   <div class="col-sm-12  col-md-12 col-lg-12   filter-card"  >
             
                   <div class="owl-carousel owl-theme" id="7" >
                    <div class="item"  style="width: 100px;  "  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"   ><h4>1</h4></div> 
