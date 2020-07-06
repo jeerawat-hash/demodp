@@ -29,7 +29,21 @@
     <!-- CSS Customization -->
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/custom.css">
     <!-- CSS style-switcher -->
-    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css"> 
+
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/css/docs.theme.min.css">
+    <!-- Owl Stylesheets -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsScroll/owlcarousel/assets/owl.theme.default.min.css">
+
+    
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://demo.jantra.co/AssetsScroll/ico/apple-touch-icon-144-precomposed.png"> 
+
+    <!-- Yeah i know js should not be in header. Its required for demos.-->
+
+    <!-- javascript -->
+    <script src="https://demo.jantra.co/AssetsScroll/vendors/jquery.min.js"></script>
+    <script src="https://demo.jantra.co/AssetsScroll/owlcarousel/owl.carousel.js"></script>
 
 
   <!-- ======= Hero Section ======= -->
@@ -784,23 +798,70 @@
       </div>
     </section><!-- End Our Clients Section -->
 
+
+
+
+<!--  Demos -->
+    <section id="demos">
+      <div class="row">
+         <hr>
+          <a class="button secondary url" href="#zero">zero</a> 
+          <a class="button secondary url" href="#three">three</a> 
+          <a class="button secondary url" href="#five">five</a> 
+          <a class="button secondary url" href="#seven">seven</a> 
+          <a class="button secondary url" href="#ten">ten</a> 
+          
+          
+
+        <div class="large-12 columns">
+          <div class="owl-carousel owl-theme">
+
+
+            <div class="item" data-hash="zero">
+              <h4>0</h4>
+            </div>
+            <div class="item" data-hash="one">
+              <h4>1</h4>
+            </div>
+            <div class="item" data-hash="two">
+              <h4>2</h4>
+            </div>
+            <div class="item" data-hash="three">
+              <h4>3</h4>
+            </div>
+            <div class="item" data-hash="four">
+              <h4>4</h4>
+            </div>
+         
+          </div>
+            
+          <script>
+            $(document).ready(function() {
+              $('.owl-carousel').owlCarousel({
+                items: 4,
+                loop: false,
+                center: true,
+                margin: 10,
+                callbacks: true,
+                URLhashListener: true,
+                autoplayHoverPause: true,
+                startPosition: 'URLHash'
+              });
+            })
+          </script>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
   </main><!-- End #main -->
 
 
 
 
-
- <!-- style demo  Youtube -->
- 
-
-
-
- <!--End style demo  Youtube -->
-
-
- <!-- LISIT  ADD  
-
-  - youtube 
-
-
-  !-->
+    <!-- vendors -->
+    <script src="assets/vendors/highlight.js"></script>
+    <script src="assets/js/app.js"></script>
