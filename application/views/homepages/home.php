@@ -1,4 +1,37 @@
  <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/youtustyle.css"> 
+
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/style.css"> 
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/headers/header-default.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/footers/footer-v1.css"> 
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/animate.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/fancybox/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/image-hover/css/img-hover.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/profile.css">
+    <!-- CSS Page Style -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/page_search.css">
+    <!-- CSS Page Style -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/shortcode_timeline1.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/shortcode_timeline2.css">
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/theme-colors/color-default.css" id="style_color">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/theme-skins/dark.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/scrollbar/css/jquery.mCustomScrollbar.css">
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/custom.css">
+    <!-- CSS style-switcher -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css">
+
+
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -167,6 +200,110 @@
     </section><!-- End Services Section  youtube-->
 
 
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>ประชาสัมพันธ์</h2>
+        </div>
+
+        <div class="row">
+         
+ 
+ 
+
+
+<div class="col-sm-12  col-md-12 col-lg-12" data-aos="fade-up">
+                            <div>
+   
+    <div class="row">
+                    <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/a640a264-2fbc-49fa-8c5c-202ab015bc1f1.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน.." href="/Content/View/6336/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6336/2" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d36de48e-6fa9-4aab-a0d6-af72d9cfcc533.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส.." href="/Content/View/6337/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6337/2" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/9a4eb25e-a17f-4456-8fcd-4deb2a7a3d1b17.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN.." href="/Content/View/6328/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6328/2" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                    <div class="thumbnail-img">
+                        <div class="overflow-hidden">
+                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d8ddccd8-6269-4d4d-8c8d-5b48465b21ae1.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                        </div>
+                        <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู.." href="/Content/View/6329/2">+ อ่านต่อ</a>
+                    </div>
+                    <div class="caption">
+                        <p>
+                            <a href="/Content/View/6329/2" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="/Home/AnnounceList/1">+ ดูทั้งหมด</a>
+</div>
+    </div>
+
+
+
+ 
+        </div>  
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+
+
+
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -224,7 +361,8 @@
         </div>  
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
 
  
 
