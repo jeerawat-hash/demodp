@@ -1,7 +1,37 @@
  <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/youtustyle.css"> 
- <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
 
- 
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/style.css"> 
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/headers/header-default.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/footers/footer-v1.css"> 
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/animate.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/fancybox/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/image-hover/css/img-hover.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/profile.css">
+    <!-- CSS Page Style -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/page_search.css">
+    <!-- CSS Page Style -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/shortcode_timeline1.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/pages/shortcode_timeline2.css">
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/theme-colors/color-default.css" id="style_color">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/theme-skins/dark.css">
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/plugins/scrollbar/css/jquery.mCustomScrollbar.css">
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/custom.css">
+    <!-- CSS style-switcher -->
+    <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css">
+
+
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
