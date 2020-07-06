@@ -833,7 +833,7 @@
                <div class="col-sm-12  col-md-12 col-lg-12 portfolio-item filter-web"  >
               
                   <div class="owl-carousel owl-theme" id="7" >
-                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  width="10px" height="20px"  > <h4>3</h4></div>
+                    <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"  width="5%" height="30%"  > <h4>3</h4></div>
 
                     <div class="item"  data-hash="two"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/2.png"    ><h4>4</h4></div>
                       <div class="item"  data-hash="zero"><img src="https://demo.jantra.co/AssetsHome/img/slidehome/1.png"   > <h4>5</h4></div>
