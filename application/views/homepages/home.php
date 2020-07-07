@@ -148,13 +148,13 @@
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
 
                                                         <p class="title">
-                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/UMzkrj24WBU?autoplay=0">
-                    พก. แนะคนพิการที่ยังไม่รับ 1,000 บาท สามารถเช็คสิทธิผ่านเว็บไซต์ พก.                                        </a>
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
                                                             <small class="author">
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+                                                        <img src="http://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
