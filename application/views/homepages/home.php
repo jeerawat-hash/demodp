@@ -145,7 +145,9 @@
                                         </header>
                                         <div class="RYPP-items">
                                             <ol>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+
+
+                                                    <li >
 
                                                         <p class="title">
                                                             <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
@@ -156,31 +158,184 @@
                                                         </p>
                                                         <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
 
-                                                    </li>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+                                                    </li> 
+
+                                                    <li >
 
                                                         <p class="title">
-                                                            <a href="Javascript:void(0)" onclick="getvideo(2072);">
-                    พก. ลงพื้นที่เยี่ยมผู้ประสบปัญหาชุมชนเฟื่องฟ้า                                        </a>
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
                                                             <small class="author">
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
 
-                                                    </li>
-                                                    <li data-video-id="hWGUnrIiOoI" class="selected">
+                                                    </li> 
+
+
+                                                    <li >
 
                                                         <p class="title">
-                                                            <a href="Javascript:void(0)" onclick="getvideo(2071);">
-                    พก.สอนตัดผมออนไลน์                                        </a>
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
                                                             <small class="author">
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="thumb" alt="">
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
 
-                                                    </li>
+                                                    </li> 
+
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+                                                    <li >
+
+                                                        <p class="title">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/AvTeMWSvG-o?autoplay=0">
+                    รวมฮาแจ๊ส ในตลก 6 ฉาก ฮากันแบบ วัวตายควายล้ม !!!</a>
+                                                            <small class="author">
+                                                                <br>01 กรกฎาคม 2563
+                                                            </small>
+                                                        </p>
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+
+                                                    </li> 
+
+
+
+
+
                                                      
                                             </ol>
                                         </div>
