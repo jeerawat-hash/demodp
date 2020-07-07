@@ -226,7 +226,7 @@
 
       
 <!--- SUB NEWS ONE ---> 
-                    <div class="col-md-3">
+            <div class="col-md-3">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
@@ -236,7 +236,7 @@
                     </div>
                     <div class="caption">
                         <p>
-                            <a href="#" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                            <a href="https://demo.jantra.co/index.php/Home/projectdetail" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
 พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
                             </a>
                         </p>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="caption">
                         <p>
-                            <a href="#" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                            <a href="https://demo.jantra.co/index.php/Home/projectdetail" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
 พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
                             </a>
                         </p>
@@ -270,7 +270,7 @@
                     </div>
                     <div class="caption">
                         <p>
-                            <a href="#" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                            <a href="https://demo.jantra.co/index.php/Home/projectdetail" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
 พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
                             </a>
                         </p>
@@ -287,7 +287,7 @@
                     </div>
                     <div class="caption">
                         <p>
-                            <a href="#" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                            <a href="https://demo.jantra.co/index.php/Home/projectdetail" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
 พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..                                        <span style="font-size:12px;color:red;font:bold;">NEW</span>
                             </a>
                         </p>
@@ -295,7 +295,7 @@
                 </div>
             </div>
     </div>
-    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="#">+ ดูทั้งหมด</a>
+    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="https://demo.jantra.co/index.php/Home/noticenews">+ ดูทั้งหมด</a>
 </div>
     </div>
 
