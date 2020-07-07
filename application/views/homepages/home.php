@@ -230,7 +230,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/a640a264-2fbc-49fa-8c5c-202ab015bc1f1.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                            <img class="img-responsive" src="https://dep.go.th/uploads/contents/a640a264-2fbc-49fa-8c5c-202ab015bc1f1.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน.." href="#https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -247,7 +247,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d36de48e-6fa9-4aab-a0d6-af72d9cfcc533.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                            <img class="img-responsive" src="https://dep.go.th/uploads/contents/d36de48e-6fa9-4aab-a0d6-af72d9cfcc533.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -264,7 +264,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/9a4eb25e-a17f-4456-8fcd-4deb2a7a3d1b17.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                            <img class="img-responsive" src="https://dep.go.th/uploads/contents/9a4eb25e-a17f-4456-8fcd-4deb2a7a3d1b17.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -281,7 +281,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="http://dep.go.th/uploads/contents/d8ddccd8-6269-4d4d-8c8d-5b48465b21ae1.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                            <img class="img-responsive" src="https://dep.go.th/uploads/contents/d8ddccd8-6269-4d4d-8c8d-5b48465b21ae1.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
