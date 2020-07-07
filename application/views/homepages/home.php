@@ -154,7 +154,7 @@
                                                                 <br>01 กรกฎาคม 2563
                                                             </small>
                                                         </p>
-                                                        <img src="http://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
+                                                        <img src="https://i3.ytimg.com/vi/AvTeMWSvG-o/hqdefault.jpg" class="thumb" alt="">
 
                                                     </li>
                                                     <li data-video-id="hWGUnrIiOoI" class="selected">
