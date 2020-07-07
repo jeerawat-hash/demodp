@@ -60,7 +60,7 @@
                 '<img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">'+
               '</div>'+
               '<h2 class="entry-title">'+
-              '<a href="blog-single.html">หัวข้อโครงการ.</a>'+
+              '<a href="blog-single.html">หัวข้อข่าวสารกิจกรรม.</a>'+
               '</h2>'+
               '<div class="entry-meta">'+
                 '<ul>'+

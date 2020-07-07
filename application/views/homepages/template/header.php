@@ -132,7 +132,7 @@
           <li class="drop-down <?php echo $notice[0]; ?>" >
               <a href="javascript:void(0);">ประชาสัมพันธ์</a>
               <ul>
-              <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร</a></li>
+              <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร/กิจกรรม</a></li>
               <li class="<?php echo $notice[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
             </ul>
             </li>
