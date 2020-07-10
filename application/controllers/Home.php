@@ -163,5 +163,13 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}
+	public function upload()
+	{
+
+		print_r($_POST);
+		print_r($_FILES);
+
+
+	}	
 
 }
