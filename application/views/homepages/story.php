@@ -62,7 +62,7 @@
         <div class="row">
   
 
-          <div class="col-lg-12 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-12 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="https://demo.jantra.co/AssetsHome/img/org.png" class="img-fluid" alt="">
