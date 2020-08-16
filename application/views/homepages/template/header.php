@@ -121,7 +121,7 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <h1 class="text-light">   <img src="https://demo.jantra.co/AssetsHome/img/logo101.png"  alt=""   >   </h1>
+        <h1 class="text-light">  <a href="https://demo.jantra.co/index.php/Home/"><img src="https://demo.jantra.co/AssetsHome/img/logo101.png"  alt=""   ></a>    </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="https://demo.jantra.co/AssetsHome/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
