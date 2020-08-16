@@ -110,7 +110,7 @@
 
 
     <!-- ======= Our Team Section ======= -->
-    <section id="clients" class="clients">
+    <section id="clients" class="clients section-bg">
       <div class="container">
 
         
@@ -153,7 +153,7 @@
  
  
 
- 
+
 
     <!-- ======= Our Clients Section ======= -->
     <section id="clients" class="clients">
