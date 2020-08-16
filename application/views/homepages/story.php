@@ -104,6 +104,57 @@
       </div>
     </section><!-- End Our Team Section -->
  
+
+
+
+
+
+    <!-- ======= Our Team Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+
+        
+
+        <div class="row">
+  
+
+          <div class="col-lg-12 col-md-6 align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="https://demo.jantra.co/AssetsHome/img/orgsp.png" class="img-fluid" alt="">
+               <!-- <div class="social">
+                  
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+
+                </div>-->
+              </div>
+              <div class="member-info">
+                <h4>ตรา ศพอ.พระประแดง</h4>
+                <!--<span>CTO</span> -->
+              </div>
+            </div>
+          </div>
+ 
+
+        </div>
+
+        <div style="text-align: left;" class="section-title" data-aos="fade-up">
+          <h2><strong>ความหมาย</strong></h2>
+          <p> หลังคาทรงจั่วแบบของชาวมอญ ซึ่งชาวมอญนิยมปลูกสร้างบ้านเรือนอยู่ริมแม่น้ำ สอดคล้องกับพื้นที่ตั้งของ ศพอ.พระประแดง ที่ตั้งอยู่บริเวณริมแม่น้ำเจ้าพระยาและล้อมรอบด้วยชุมชนชาวมอญ </p>
+        </div>
+
+
+
+      </div>
+    </section><!-- End Our Team Section -->
+ 
+ 
+
+ 
+
     <!-- ======= Our Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container">
