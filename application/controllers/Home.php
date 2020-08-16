@@ -90,6 +90,7 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/template/footer');
 
 	}*/
+	/*
 	public function noticeNews($page = 1)
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์';
@@ -102,7 +103,59 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/noticenews',$data);
 		$this->load->view('homepages/template/footer');
 
+	}*/
+	public function noticeNewsa($page = 1)
+	{
+		$header['page_name'] = 'ข่าวสารทั่วไป';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 0;
+
+		$data['pageNum'] = $page;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/noticenews',$data);
+		$this->load->view('homepages/template/footer');
+
 	}
+	public function noticeNewsb($page = 1)
+	{
+		$header['page_name'] = 'ปฏิทินกิจกรรม';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 1;
+
+		$data['pageNum'] = $page;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/noticenews',$data);
+		$this->load->view('homepages/template/footer');
+
+	}
+	public function noticeNewsc($page = 1)
+	{
+		$header['page_name'] = 'จัดซื้อจัดจ้าง/ประกาศราคา';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 2;
+
+		$data['pageNum'] = $page;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/noticenews',$data);
+		$this->load->view('homepages/template/footer');
+
+	} 
+	public function noticeNewsd($page = 1)
+	{
+		$header['page_name'] = 'สมัครงาน';
+		$header['page_focus'] = 'notice';
+		$header['page_menu'] = 3;
+
+		$data['pageNum'] = $page;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/noticenews',$data);
+		$this->load->view('homepages/template/footer');
+
+	} 
 	public function newsDetail()
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์';
@@ -138,7 +191,7 @@ class Home extends CI_Controller {
 
 	}
 
-	public function services()
+	/*public function services()
 	{
 		$header['page_name'] = 'บริการ';
 		$header['page_focus'] = 'services';
@@ -148,12 +201,80 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/services');
 		$this->load->view('homepages/template/footer');
 
+	}*/
+	public function servicesa()
+	{
+		$header['page_name'] = 'บริการฝึกอาชีพ';
+		$header['page_focus'] = 'services';
+		$header['page_menu'] = 0;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/services');
+		$this->load->view('homepages/template/footer');
+
 	}
+	public function servicesb()
+	{
+		$header['page_name'] = 'ศูนย์บริการคนพิการสาขา';
+		$header['page_focus'] = 'services';
+		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/services');
+		$this->load->view('homepages/template/footer');
+
+	}
+	public function servicesc()
+	{
+		$header['page_name'] = 'กายบำบัด';
+		$header['page_focus'] = 'services';
+		$header['page_menu'] = 2;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/services');
+		$this->load->view('homepages/template/footer');
+
+	}
+	/*
 	public function laws()
 	{
 		$header['page_name'] = 'กฏหมายวิชาการ';
 		$header['page_focus'] = 'laws';
 		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/laws');
+		$this->load->view('homepages/template/footer');
+
+	}
+	*/
+	public function lawsa()
+	{
+		$header['page_name'] = 'กฏหมาย/พ.ร.บ.';
+		$header['page_focus'] = 'laws';
+		$header['page_menu'] = 0;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/laws');
+		$this->load->view('homepages/template/footer');
+
+	}
+	public function lawsb()
+	{
+		$header['page_name'] = 'ระเบียบ/ข้อบังคับ';
+		$header['page_focus'] = 'laws';
+		$header['page_menu'] = 1;
+
+ 		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/laws');
+		$this->load->view('homepages/template/footer');
+
+	}
+	public function lawsc()
+	{
+		$header['page_name'] = 'เอกสารวิชาการ';
+		$header['page_focus'] = 'laws';
+		$header['page_menu'] = 2;
 
  		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/laws');

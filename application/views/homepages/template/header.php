@@ -43,6 +43,7 @@
             case 'services':
                 
                 $services[0] = "active"; 
+                $services[1][$page_menu] = "active";
  
                 break;
 
@@ -161,9 +162,51 @@
 
           </li>
 
+ 
+
+          <li class="drop-down <?php echo $services[0]; ?>" >
+
+              <a href="javascript:void(0);">การให้บริการ</a>
+
+            <ul>
+              <li class="<?php echo $services[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/servicesa">บริการฝึกอาชีพ</a></li>
+              <li class="<?php echo $services[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/servicesb">ศูนย์บริการคนพิการสาขา</a></li>
+              <li class="<?php echo $services[1][2]; ?>" ><a href="https://demo.jantra.co/index.php/Home/servicesc">กายบำบัด</a></li>
+            </ul>
+
+          </li>
 
 
 
+          
+
+ 
+<!--
+          <li class="<?php echo $services[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/services">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
+  -->
+
+
+
+
+          <li class="drop-down <?php echo $laws[0]; ?>" >
+
+              <a href="javascript:void(0);">กฏหมาย/ระเบียบ/เอกสารวิชาการ</a>
+
+            <ul>
+              <li class="<?php echo $laws[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/lawsa">กฏหมาย/พ.ร.บ.</a></li>
+              <li class="<?php echo $laws[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/lawsb">ระเบียบ/ข้อบังคับ</a></li>
+              <li class="<?php echo $laws[1][2]; ?>" ><a href="https://demo.jantra.co/index.php/Home/lawsc">เอกสารวิชาการ</a></li>
+            </ul>
+
+          </li>
+
+
+
+
+
+          <!--
+          <li class="<?php echo $laws[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/laws">ระเบียบกฏหมายวิชาการ</a></li>
+          -->
 
 
 
@@ -174,17 +217,34 @@
               <a href="javascript:void(0);">ประชาสัมพันธ์</a>
 
             <ul>
-              <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร/กิจกรรม</a></li>
-              <li class="<?php echo $notice[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
+              <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenewsa">ข่าวสารทั่วไป</a></li>
+              <li class="<?php echo $notice[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenewsb">ปฏิทินกิจกรรม</a></li>
+              <li class="<?php echo $notice[1][2]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenewsc">จัดซื้อจัดจ้าง/ประกาศราคา</a></li>
+              <li class="<?php echo $notice[1][3]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenewsd">สมัครงาน</a></li>
             </ul>
 
           </li>
 
- 
 
-          <li class="<?php echo $services[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/services">บริการฝึกอาชีพ/สวัสดิการ/สิทธิ</a></li>
-          <li class="<?php echo $laws[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/laws">ระเบียบกฏหมายวิชาการ</a></li>
+
+
           <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          <!-- <li class="drop-down"><a href="">ติดต่อ</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
