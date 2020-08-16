@@ -130,8 +130,9 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
+          <!--
           <li class="<?php echo $home[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/">หน้าหลัก</a></li>
-          
+          -->
           <!--
           <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a>
           </li>
