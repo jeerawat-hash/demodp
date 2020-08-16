@@ -97,10 +97,10 @@
       <div class="container">
 
         <div class="row">
-          <!--<div class="col-lg-9 text-center text-lg-left">
+          <div class="col-lg-9 text-center text-lg-left">
             <h3>วิสัยทัศน์ </h3>
             <p> “เป็นองค์กรหลักในการขับเคลื่อนและส่งเสริมให้คนพิการเข้าถึงสิทธิ สวัสดิการ อย่างทั่วถึงและเท่าเทียม สู่ระดับสากล” </p>
-          </div> -->
+          </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="about.html">ดูรายละเอียด</a>
           </div>
