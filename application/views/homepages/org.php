@@ -29,15 +29,28 @@
 
         
 
-        <div class="row portfolio-container" data-aos="fade-up">
+        <div class="row">
+  
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+          <div class="col-lg-12 col-md-6 align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <a href="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                
+                <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png" class="img-fluid" alt="">
+               <!-- <div class="social">
+                  
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+
+                </div>-->
+              </div>
+              <div class="member-info">
+                <h4>ทำเนียบ ศพอ.พระประแดง</h4>
+                <!--<span>CTO</span> -->
+              </div>
             </div>
           </div>
  
