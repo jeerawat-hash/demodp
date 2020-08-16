@@ -13,7 +13,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>โครงสร้างองค์กร</h2>
+          <h2>ทำเนียบ ศพอ.พระประแดง</h2>
         </div>
 
       </div>
