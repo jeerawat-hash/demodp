@@ -29,6 +29,7 @@
             case 'org':
                 
                 $org[0] = "active";
+                $org[1][$page_menu] = "active";
  
                 break;
 
@@ -145,13 +146,28 @@
             </ul>
 
           </li>
+ 
+          <!--
+          <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้างการบริหาร</a></li> -->
+
+          <li class="drop-down <?php echo $org[0]; ?>" >
+
+              <a href="javascript:void(0);">โครงสร้างการบริหาร</a>
+
+            <ul>
+              <li class="<?php echo $org[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/orga">วิสัยทัศน์/ภารกิจ/หน้าที่รับผิดชอบ</a></li>
+              <li class="<?php echo $org[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/orgb">โครงสร้างหน่วยงาน</a></li>
+            </ul>
+
+          </li>
 
 
 
 
 
 
-          <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้างการบริหาร</a></li>
+
+
 
           <li class="drop-down <?php echo $notice[0]; ?>" >
 
