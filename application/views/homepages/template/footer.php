@@ -9,7 +9,7 @@
         <!--  <div class="col-lg-3 col-md-6 footer-contact"> -->
             <div class="col-md-3 md-margin-bottom-40 text-center footer-contact" style="font-size:12px;">
                             <a href="">
-                                <img  src="https://demo.jantra.co/AssetsHome/img/logo-1a.gif"  width="150" class="footer-logo"   alt="ติดต่อพก." > <br>
+                                <img  src="https://demo.jantra.co/AssetsHome/img/logo-1a.png"  width="150" class="footer-logo"   alt="ติดต่อพก." > <br>
                             </a>
                             <p class="bx"  style="font-size:11px;" >กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ <br>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</p>
                         </div>
