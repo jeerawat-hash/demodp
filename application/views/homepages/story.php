@@ -62,7 +62,7 @@
         <div class="row">
   
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-12 col-md-6  align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="https://demo.jantra.co/AssetsHome/img/team/team-3.jpg" class="img-fluid" alt="">
@@ -88,7 +88,7 @@
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
-        
+
 
       </div>
     </section><!-- End Our Team Section -->
