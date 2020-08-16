@@ -62,7 +62,7 @@ Email : webmaster@dep.go.th</p>
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          © สงวนลิขสิทธิ์ พ.ศ.2561 กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ
+          © สงวนลิขสิทธิ์ พ.ศ.2563 ศูนย์พัฒนาศักยภาพเเละอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ
         </div>
         <div class="credits"> 
         </div>
