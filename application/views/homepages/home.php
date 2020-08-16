@@ -32,29 +32,6 @@
     <link rel="stylesheet" href="https://demo.jantra.co/AssetsThird/css/plugins/style-switcher.css">
 
 
-
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-left">
-            <h3>วิสัยทัศน์ </h3>
-            <p> “เป็นองค์กรหลักในการขับเคลื่อนและส่งเสริมให้คนพิการเข้าถึงสิทธิ สวัสดิการ อย่างทั่วถึงและเท่าเทียม สู่ระดับสากล” </p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="about.html">ดูรายละเอียด</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
-
-
-    
-
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -114,6 +91,25 @@
   <main id="main">
 
 
+
+    <!-- ======= Cta Section ======= -->
+<!--
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3>วิสัยทัศน์ </h3>
+            <p> “เป็นองค์กรหลักในการขับเคลื่อนและส่งเสริมให้คนพิการเข้าถึงสิทธิ สวัสดิการ อย่างทั่วถึงและเท่าเทียม สู่ระดับสากล” </p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="about.html">ดูรายละเอียด</a>
+          </div>
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Cta Section -->
 
 
 
