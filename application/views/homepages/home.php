@@ -97,14 +97,14 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-9 text-center text-lg-left">
+          <div class="col-lg-12 text-center text-lg-left">
             <h3>วิสัยทัศน์ </h3>
             <center>
             <p> <h4>“เป็นองค์กรพัฒนาศักยภาพและอาชีพคนพิการให้สามารถดำรงชีวิตในสังคมได้ เป็นศุนย์เรียนรู้และทำงานร่วมกันกับภาคเครือข่าย”</h4>  </p></center>
           </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <!--<a class="cta-btn align-middle" href="about.html">ดูรายละเอียด</a> -->
-          </div>
+          <!--<div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="about.html">ดูรายละเอียด</a> 
+          </div> -->
         </div>
 
       </div>
