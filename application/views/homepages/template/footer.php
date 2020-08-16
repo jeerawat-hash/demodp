@@ -38,13 +38,15 @@
             </ul>
           </div>
 
+ 
+
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>ติดต่อหน่วยงาน</h4>
-            <p class="bx"  style="color:white;font-size:12px;"    >กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ <br>
-เลขที่ 255 อาคาร 60 ปี กรมประชาสงเคราะห์ ถนนราชวิถี เขตราชเทวี กรุงเทพฯ 10400
-โทรศัพท์ : 0 2354 3388 <br>
-โทรสาร : 0 2354 5020 <br>
-Email : webmaster@dep.go.th</p>
+            <p class="bx"  style="color:white;font-size:12px;"    >ศูนย์พัฒนาศักยภาพเเละอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ <br>
+50 หมู่ 7 ซ.เพชรหึงษ์ 6 ต.ทรงคนอง อ.พระประแดง จ.สมุทรปราการ 10130
+โทรศัพท์ : 0 2462 5008 <br>
+โทรสาร : 0 2462 6636 <br>
+Email : rehab-ppd@dep.go.th</p>
            <!--  <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
 
