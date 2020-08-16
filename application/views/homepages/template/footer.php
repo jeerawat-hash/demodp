@@ -11,7 +11,8 @@
                             <a href="">
                                 <img  src="https://demo.jantra.co/AssetsHome/img/logo-1a.png"  width="150" class="footer-logo"   alt="ติดต่อพก." > <br>
                             </a>
-                            <p class="bx"  style="font-size:11px;" >กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ <br>กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</p>
+                            <p class="bx"  style="font-size:11px;" >ศูนย์พัฒนาศักยภาพเเละอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ <br>Pheapradaeng Center for Empawerment and Vocational Development
+           for  Pareone with Dieabilibies, Samutprakarn Pravince.</p>
                         </div>
          <!--  </div> -->
 
