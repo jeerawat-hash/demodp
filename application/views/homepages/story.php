@@ -20,11 +20,11 @@
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right"></div>
           <div class="col-xl-7 pl-0 pl-lg-5 pr-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center">
-              <h3 data-aos="fade-up">Voluptatem dignissimos provident quasi</h3>
+              <h3 data-aos="fade-up">ศูนย์พัฒนาศักยภาพและอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ</h3>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                ศูนย์พัฒนาศักยภาพและอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ สังกัดกองส่งเสริมสิทธิและสวัสดิการคนพิการ กรมส่งเสริมสิทธิและพัฒนาคุณภาพชีวิตคนพิการ กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ เป็นศูนย์ฝึกอาชีพคนพิการแห่งแรกในประเทศไทย จัดตั้งขึ้นเมื่อปีพ.ศ.2511 เพื่อจัดบริการฝึกอาชีพและฟื้นฟูสมรรถภาพร่างการให้กับคนพิการ และในปี 2559 ได้เปลี่ยนชื่อหน่วยงานจากเดิมคือ “ศูนย์ฟื้นฟูอาชีพคนพิการพระประแดง” เป็น “ศูนย์พัฒนาศักยภาพและอาชีพคนพิการพระประแดง จังหวัดสมุทรปราการ”
               </p>
-              <div class="row">
+             <!-- <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <i class="bx bx-receipt"></i>
                   <h4>Corporis voluptates sit</h4>
@@ -45,7 +45,7 @@
                   <h4>Beatae veritatis</h4>
                   <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                 </div>
-              </div>
+              </div> -->
             </div><!-- End .content-->
           </div>
         </div>
