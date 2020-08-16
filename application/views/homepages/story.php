@@ -110,7 +110,7 @@
 
 
     <!-- ======= Our Team Section ======= -->
-    <section id="clients" class="clients section-bg">
+    <section id="team" class="team">
       <div class="container">
 
         
