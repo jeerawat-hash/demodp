@@ -30,14 +30,15 @@
         
 
         <div class="row">
-  
 
           <div class="col-lg-12 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <a href="https://demo.jantra.co/AssetsHome/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                
+
+                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="App 1">
                 <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png" class="img-fluid" alt="">
+
+                </a>
                <!-- <div class="social">
                   
                   <a href=""><i class="icofont-twitter"></i></a>
