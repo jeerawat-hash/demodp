@@ -50,6 +50,7 @@
             case 'laws':
                 
                 $laws[0] = "active"; 
+                $laws[1][$page_menu] = "active";
  
                 break;
 
