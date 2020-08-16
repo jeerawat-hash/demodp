@@ -65,12 +65,14 @@
           <div class="col-lg-12 col-md-6  align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="https://demo.jantra.co/AssetsHome/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="https://demo.jantra.co/AssetsHome/img/org.png" class="img-fluid" alt="">
                 <div class="social">
+                  <!--
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
                   <a href=""><i class="icofont-linkedin"></i></a>
+                -->
                 </div>
               </div>
               <div class="member-info">
