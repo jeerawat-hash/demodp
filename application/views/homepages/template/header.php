@@ -22,6 +22,7 @@
             case 'story':
                 
                 $story[0] = "active";
+                $story[1][$page_menu] = "active";
  
                 break;
 
@@ -127,15 +128,41 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="<?php echo $home[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/">หน้าหลัก</a></li>
-          <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a></li>
-          <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้าง</a></li>
+          
+          <!--
+          <li class="<?php echo $story[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a>
+          </li>
+          -->
+
+
+          <li class="drop-down <?php echo $story[0]; ?>" >
+
+              <a href="javascript:void(0);">ประวัติความเป็นมา</a>
+
+            <ul>
+              <li class="<?php echo $story[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/story">ประวัติ</a></li>
+              <li class="<?php echo $story[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/org">ทำเนียบผู้บริหาร</a></li>
+            </ul>
+
+          </li>
+
+
+
+
+
+
+          <li class="<?php echo $org[0]; ?>"><a href="https://demo.jantra.co/index.php/Home/org">โครงสร้างการบริหาร</a></li>
+
           <li class="drop-down <?php echo $notice[0]; ?>" >
+
               <a href="javascript:void(0);">ประชาสัมพันธ์</a>
-              <ul>
+
+            <ul>
               <li class="<?php echo $notice[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticenews">ข่าวสาร/กิจกรรม</a></li>
               <li class="<?php echo $notice[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/noticeproject">โครงการ</a></li>
             </ul>
-            </li>
+
+          </li>
 
  
 

@@ -38,13 +38,24 @@ class Home extends CI_Controller {
 	{
 		$header['page_name'] = 'ประวัติความเป็นมา';
 		$header['page_focus'] = 'story';
-		$header['page_menu'] = 1;
+		$header['page_menu'] = 0;
 
 		$this->load->view('homepages/template/header',$header);
 		$this->load->view('homepages/story');
 		$this->load->view('homepages/template/footer');
 
 	}
+	public function org()
+	{
+		$header['page_name'] = 'ทำเนียบผู้บริหาร';
+		$header['page_focus'] = 'story';
+		$header['page_menu'] = 1;
+
+		$this->load->view('homepages/template/header',$header);
+		$this->load->view('homepages/org');
+		$this->load->view('homepages/template/footer');
+
+	}/*
 	public function org()
 	{
 		$header['page_name'] = 'โครงสร้างองค์กร';
@@ -55,7 +66,7 @@ class Home extends CI_Controller {
 		$this->load->view('homepages/org');
 		$this->load->view('homepages/template/footer');
 
-	}
+	}*/
 	public function noticeNews($page = 1)
 	{
 		$header['page_name'] = 'ประชาสัมพันธ์';
