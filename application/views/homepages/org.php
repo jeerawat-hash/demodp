@@ -35,7 +35,7 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
 
-                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="App 1">
+                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพทำเนียบ">
                 <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png" class="img-fluid" alt="">
 
                 </a>
