@@ -54,7 +54,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <section id="team" class="team">
       <div class="container">
 
         
