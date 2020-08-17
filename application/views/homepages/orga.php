@@ -12,19 +12,29 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="row">
+           
+          </div>
+          
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2><strong>วิสัยทัศน์</strong></h2>
-          <p>เป็นองค์กรพัฒนาศักยภาพและอาชีพคนพิการให้สามารถดำรงชีวิตในสังคมได้ เป็นศูนย์เรียนรู้
-และทำงานร่วมกันกับภาคีเครือข่าย</p>
+          <h2>Some <strong>Features</strong> we do provide</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
-          <h2><strong>ภารกิจ</strong></h2>
           <div class="col-lg-4 mb-5 mb-lg-0" data-aos="fade-right">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
