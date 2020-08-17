@@ -488,22 +488,22 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="">บริการฝึกอาชีพ</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="https://demo.jantra.co/index.php/Home/servicesa">บริการฝึกอาชีพ</a></h4>
+              <p class="description">บริการฝึกอาชีพ คอมพิวเตอร์,เย็บหนัง,อิเล็กทรอนิกส์</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">ศูนย์บริการคนพิการสาขา</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="https://demo.jantra.co/index.php/Home/servicesb">ศูนย์บริการคนพิการสาขา</a></h4>
+              <p class="description">ข้อมูลและบริการ ศูนย์บริการคนพิการจังหวัดสมุทรปราการ</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="">กายภาพบำบัด</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="https://demo.jantra.co/index.php/Home/servicesc">กายภาพบำบัด</a></h4>
+              <p class="description">บริการ การฟื้นฟูสมรรถนะทางด้านร่างกายให้กับผู้รับการฝึกอาชีพทุกวัน และบริการกายภาพบำบัดให้กับประชาชนทั่วไปในชุมชน ได้แก่ คนพิการ ผู้สูงอายุ และผู้ดูแลคนพิการ</p>
             </div>
         </div>  
 
