@@ -35,8 +35,8 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
 
-                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพทำเนียบ">
-                <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png"  class="img-fluid" alt="">
+                <a href="https://demo.jantra.co/AssetsHome/img/orgb1.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพทำเนียบ">
+                <img src="https://demo.jantra.co/AssetsHome/img/orgb1.png"  class="img-fluid" alt="">
 
                 </a>
                
@@ -53,8 +53,8 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
 
-                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพแผนภูมิ">
-                <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png"  class="img-fluid" alt="">
+                <a href="https://demo.jantra.co/AssetsHome/img/orgb2.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพแผนภูมิ">
+                <img src="https://demo.jantra.co/AssetsHome/img/orgb2.png"  class="img-fluid" alt="">
 
                 </a>
                
