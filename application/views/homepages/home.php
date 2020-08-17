@@ -691,6 +691,7 @@
             </div>
           </div>
 
+<!--
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/client-7.png" class="img-fluid" alt="">
@@ -702,6 +703,7 @@
               <img src="https://demo.jantra.co/AssetsHome/img/clients/client-8.png" class="img-fluid" alt="">
             </div>
           </div>
+      -->
 
         </div>
 
