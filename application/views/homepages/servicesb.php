@@ -47,15 +47,29 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">เอกสารที่ใช้ในการขอมีบัตรประจำตัวคนพิการ.</a>
+              <a href="blog-single.html">เอกสารที่ใช้ในการขอมีบัตรประจำตัวคนพิการ</a>
               </h2>
-              <div class="entry-meta">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="blog-single.html">ระบบ</a></li>
-                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="blog-single.html"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
-                  <li class="d-flex align-items-center">
-                </ul>
+              <div class="entry-content">
+                <p>
+                  <br>1.บัตรประชาชน หรือบัตรประจำตัวข้าราชการ หรือสูติบัตรสำหรับบุคคลอายุต่ำกว่า 7 ปี หรือหนังสือรับรองการเกิดตามแบบที่กรมการปกครองกำหนด
+                  <br>2.ทะเบียนบ้านของคนพิการ
+                  <br>3.รูปถ่ายขนาด 1 นิ้ว ถ่ายไว้ไม่เกิน 6 เดือน จำนวน 2 รูป
+                  <br>4.เอกสารรับรองความพิการ โดยผู้ประกอบวิชาชีพเวชกรรมของสถานพยาบาลของรัฐ
+                </p>
+                <div class="read-more">
+                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                </div>
               </div>
+            </article>
+
+
+            <article class="entry" data-aos="fade-up">
+              <div class="entry-img">
+                <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
+              </div>
+              <h2 class="entry-title">
+              <a href="blog-single.html">เอกสารที่ใช้ในการขอมีบัตรประจำตัวคนพิการ</a>
+              </h2>
               <div class="entry-content">
                 <p>
                   <br>1.บัตรประชาชน หรือบัตรประจำตัวข้าราชการ หรือสูติบัตรสำหรับบุคคลอายุต่ำกว่า 7 ปี หรือหนังสือรับรองการเกิดตามแบบที่กรมการปกครองกำหนด
