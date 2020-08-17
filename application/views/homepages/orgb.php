@@ -30,7 +30,7 @@
         
         <div class="row">
 
-          <div class="col-lg-6 col-md-6 align-items-stretch">
+          <div class="col-lg-12 col-md-6 align-items-stretch">
             
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
@@ -42,7 +42,7 @@
                
               </div>
               <div class="member-info">
-                <h4>ทำเนียบ ศพอ.พระประแดง</h4>
+                <h4>ทำเนียบเจ้าหน้าที่</h4>
                 <!--<span>CTO</span> -->
               </div>
             </div>
@@ -53,14 +53,14 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
 
-                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพทำเนียบ">
+                <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพแผนภูมิ">
                 <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png"  class="img-fluid" alt="">
 
                 </a>
                
               </div>
               <div class="member-info">
-                <h4>ทำเนียบ ศพอ.พระประแดง</h4>
+                <h4>แผนภูมิ</h4>
                 <!--<span>CTO</span> -->
               </div>
             </div>
