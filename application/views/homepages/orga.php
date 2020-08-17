@@ -15,11 +15,7 @@
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
-
-        <div class="row">
-           
-          </div>
-          
+ 
         </div>
 
       </div>
@@ -30,8 +26,9 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Some <strong>Features</strong> we do provide</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2><strong>วิสัยทัศน์ </strong> และ <strong> ภารกิจ</strong></h2>
+          <p>เป็นองค์กรพัฒนาศักยภาพและอาชีพคนพิการให้สามารถดำรงชีวิตในสังคมได้ เป็นศูนย์เรียนรู้
+และทำงานร่วมกันกับภาคีเครือข่าย</p>
         </div>
 
         <div class="row">
@@ -39,28 +36,23 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-toggle="tab" href="#tab-1">
-                  <h4>Modi sit est</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <h4>ภารกิจที่ 1</h4>
+                  <p>เตรียมความพร้อมทักษะอาชีพและทักษะทางสังคมตามศักยภาพของคนพิการ</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-2">
-                  <h4>Unde praesentium sed</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <h4>ภารกิจที่ 2</h4>
+                  <p>พัฒนาศักยภาพบุคลากรและรวบรวมองค์ความรู้เพื่อเป็นแหล่งเรียนรู้ด้านคนพิการ</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-3">
-                  <h4>Pariatur explicabo vel</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
+                  <h4>ภารกิจที่ 3</h4>
+                  <p>ประสานและให้ความร่วมมือในการสนับสนุนการทำงานร่วมกันกับภาคีเครือข่าย</p>
                 </a>
-              </li>
-              <li class="nav-item mt-2">
-                <a class="nav-link" data-toggle="tab" href="#tab-4">
-                  <h4>Nostrum qui quasi</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
-                </a>
-              </li>
+              </li> 
+
             </ul>
           </div>
           <div class="col-lg-7 ml-auto" data-aos="fade-left" data-aos-delay="100">
@@ -79,12 +71,7 @@
                 <figure>
                   <img src="https://demo.jantra.co/AssetsHome/img/features-3.png" alt="" class="img-fluid">
                 </figure>
-              </div>
-              <div class="tab-pane" id="tab-4">
-                <figure>
-                  <img src="https://demo.jantra.co/AssetsHome/img/features-4.png" alt="" class="img-fluid">
-                </figure>
-              </div>
+              </div> 
             </div>
           </div>
         </div>
