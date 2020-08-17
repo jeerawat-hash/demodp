@@ -25,6 +25,7 @@
 
 
           <div class="section-title" data-aos="fade-up">
+                <img src="https://demo.jantra.co/AssetsHome/img/service1.png" alt="" class="img-fluid">
           <h2>Some <strong>Features</strong> we do provide</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
