@@ -15,8 +15,6 @@
  
 
 
-
-
     <!-- ======= Blog Section ======= -->
     <section id="blog" class="blog">
       <div class="container">
@@ -47,7 +45,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">เอกสารที่ใช้ในการขอมีบัตรประจำตัวคนพิการ</a>
+              <a href="#">เอกสารที่ใช้ในการขอมีบัตรประจำตัวคนพิการ</a>
               </h2>
               <div class="entry-content">
                 <p>
@@ -57,7 +55,7 @@
                   <br>4.เอกสารรับรองความพิการ โดยผู้ประกอบวิชาชีพเวชกรรมของสถานพยาบาลของรัฐ
                 </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -68,7 +66,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">กรณีบัตรหมดอายุ</a>
+              <a href="#">กรณีบัตรหมดอายุ</a>
               </h2>
               <div class="entry-content">
                 <p> <br>1.บัตรประจำตัวคนพิการ (บัตรเดิมที่หมดอายุ)
@@ -79,7 +77,7 @@
                     <br>6.สำเนาบัตรประชาชน และสำเนาทะเบียนบ้านของผู้ดูแล (ถ้ามี)
                     </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -90,7 +88,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">กรณีบัตรชำรุด หรือสูญหาย</a>
+              <a href="#">กรณีบัตรชำรุด หรือสูญหาย</a>
               </h2>
               <div class="entry-content">
                 <p> <br>1.บัตรประจำตัวคนพิการ (บัตรเดิมที่หมดอายุ)
@@ -101,7 +99,7 @@
 
                     </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -112,7 +110,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">กรณีขอมีบัตรประตัวแทนคนพิการ</a>
+              <a href="#">กรณีขอมีบัตรประตัวแทนคนพิการ</a>
               </h2>
               <div class="entry-content">
                 <p> <br>1.เอกสารขอมีบัตรประจำตัวคนพิการ
@@ -121,7 +119,7 @@
 
                     </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -132,7 +130,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">กรณีลงชื่อผู้ดูแลคนพิการต้องมีคุณสมบัติ ดังนี้</a>
+              <a href="#">กรณีลงชื่อผู้ดูแลคนพิการต้องมีคุณสมบัติ ดังนี้</a>
               </h2>
               <div class="entry-content">
                 <p> <br>1.เป็นญาติโดยสายเลือด อยู่ทะเบียนบ้านเดียวกัน
@@ -142,7 +140,7 @@
 
                     </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -154,13 +152,13 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">การให้บริการรับยื่นเอกสารการกู้ยืมเงินเพื่อเป็นทุนประกอบอาชีพของคนพิการ</a>
+              <a href="#">การให้บริการรับยื่นเอกสารการกู้ยืมเงินเพื่อเป็นทุนประกอบอาชีพของคนพิการ</a>
               </h2>
               <div class="entry-content">
                 <p> การกู้ยืมเงินเพื่อเป็นทุนประกอบอาชีพของคนพิการ โดยวงเงินกู้ รายละไม่เกิน 60,000บาท ทั้งนี้หากประสงค์จะขอกู้ยืมเงินเกินกว่าวงเงินที่กำหนด ให้มีการพิจารณาเป็นรายๆ ไป รายละไม่เกิน 120,000 บาท
                     </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -172,7 +170,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">เอกสารประกอบการกู้ยืมเงิน</a>
+              <a href="#">เอกสารประกอบการกู้ยืมเงิน</a>
               </h2>
               <div class="entry-content">
                 <p>
@@ -189,7 +187,7 @@
 
                 </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>
@@ -200,7 +198,7 @@
                 <img src="https://demo.jantra.co/AssetsHome/img/blog-4.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">
-              <a href="blog-single.html">คุณสมบัติผู้กู้ยืมเงินเพื่อประกอบอาชีพรายบุคคล</a>
+              <a href="#">คุณสมบัติผู้กู้ยืมเงินเพื่อประกอบอาชีพรายบุคคล</a>
               </h2>
               <div class="entry-content">
                 <p>
@@ -214,7 +212,7 @@
                   <br>8.มีความสามารถชำระคืนเงินกู้ยืมได้ และมีบุคคลที่น่าเชื่อถือได้เป็นผู้ค้ำประกัน
                 </p>
                 <div class="read-more">
-                  <a href="https://demo.jantra.co/index.php/Home/projectdetail">รายละเอียด</a>
+                  <a href="#">รายละเอียด</a>
                 </div>
               </div>
             </article>

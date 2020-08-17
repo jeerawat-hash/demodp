@@ -231,7 +231,7 @@ class Home extends CI_Controller {
 		$header['page_menu'] = 2;
 
  		$this->load->view('homepages/template/header',$header);
-		$this->load->view('homepages/services');
+		$this->load->view('homepages/servicesc');
 		$this->load->view('homepages/template/footer');
 
 	}
