@@ -220,7 +220,7 @@ class Home extends CI_Controller {
 		$header['page_menu'] = 1;
 
  		$this->load->view('homepages/template/header',$header);
-		$this->load->view('homepages/services');
+		$this->load->view('homepages/servicesb');
 		$this->load->view('homepages/template/footer');
 
 	}
