@@ -36,7 +36,7 @@
               <div class="member-img">
 
                 <a href="https://demo.jantra.co/AssetsHome/img/orgemp.png" data-gall="portfolioGallery" class="venobox preview-link" title="ภาพทำเนียบ">
-                <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png" class="img-fluid" alt="">
+                <img src="https://demo.jantra.co/AssetsHome/img/orgemp.png" width="50%" class="img-fluid" alt="">
 
                 </a>
                <!-- <div class="social">
