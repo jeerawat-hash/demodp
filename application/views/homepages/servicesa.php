@@ -44,7 +44,7 @@
               <h4>แผนกคอมพิวเตอร์ ภาพที่ 1</h4>
               <p>แผนกคอมพิวเตอร์</p>
               <a href="https://demo.jantra.co/AssetsHome/img/servicecom1.png" data-gall="portfolioGallery" class="venobox preview-link" title="แผนกคอมพิวเตอร์ ภาพที่ 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -56,9 +56,12 @@
               <h4>แผนกเย็บหนัง ภาพที่ 1</h4>
               <p>แผนกเย็บหนัง</p>
               <a href="https://demo.jantra.co/AssetsHome/img/servicelat1.png" data-gall="portfolioGallery" class="venobox preview-link" title="แผนกเย็บหนัง ภาพที่ 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
+
+
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-lat">
             <img src="https://demo.jantra.co/AssetsHome/img/servicelat2.png" class="img-fluid" alt="">
@@ -66,7 +69,7 @@
               <h4>แผนกเย็บหนัง ภาพที่ 2</h4>
               <p>แผนกเย็บหนัง</p>
               <a href="https://demo.jantra.co/AssetsHome/img/servicelat2.png" data-gall="portfolioGallery" class="venobox preview-link" title="แผนกเย็บหนัง ภาพที่ 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
  
@@ -78,7 +81,7 @@
               <h4>แผนกอิเล็กทรอนิกส์ ภาพที่ 1</h4>
               <p>แผนกอิเล็กทรอนิกส์</p>
               <a href="https://demo.jantra.co/AssetsHome/img/serviceec1.png" data-gall="portfolioGallery" class="venobox preview-link" title="แผนกอิเล็กทรอนิกส์ ภาพที่ 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
  
