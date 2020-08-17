@@ -284,7 +284,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="https://i3.ytimg.com/vi/VOmIadFDSvE/hqdefault.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
+                            <img class="img-responsive" src="https://i3.ytimg.com/vi/fJudCxQnZOM/hqdefault.jpg" alt="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมเปิดร้านกาแฟ Cafe Amazon for Chance สาขา สำนักงาน ก.ล.ต. ส่งเสริมอาชีพคนพิการอย่างยั่งยืน.." href="#https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -301,7 +301,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="https://i3.ytimg.com/vi/VOmIadFDSvE/hqdefault.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
+                            <img class="img-responsive" src="https://i3.ytimg.com/vi/fJudCxQnZOM/hqdefault.jpg" alt="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. ร่วมการประชุม Intersessional Meetings ของอนุสัญญาห้ามทุ่นระเบิดสังหารบุคคลฯ โดย UN สมาพันธรัฐสวิส.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -318,7 +318,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="https://i3.ytimg.com/vi/VOmIadFDSvE/hqdefault.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
+                            <img class="img-responsive" src="https://i3.ytimg.com/vi/fJudCxQnZOM/hqdefault.jpg" alt="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พม. พก. ร่วมยินดี พร้อมชื่นชม MISSTER DEAF GAY THAILAND และนางงามผู้บกพร่องทางด้านสายตาโครงการ I CAN.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
@@ -335,7 +335,7 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="https://i3.ytimg.com/vi/VOmIadFDSvE/hqdefault.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
+                            <img class="img-responsive" src="https://i3.ytimg.com/vi/fJudCxQnZOM/hqdefault.jpg" alt="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู..">
                         </div>
                         <a class="btn-more btn-u btn-u-sm rounded btn-default hover-effect" title="พก. เข้าร่วมโครงการอบรมหลักสูตรพัฒนาบุคลากรครูแนะแนวการศึกษาพิเศษ และพัฒนาผู้ปกครองให้เป็นครู.." href="https://demo.jantra.co/index.php/Home/projectdetail">+ อ่านต่อ</a>
                     </div>
