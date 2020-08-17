@@ -139,7 +139,7 @@
                                 </div>
                                 <div id="rypp-demo-1" class="RYPP r16-9" data-playlist="PL2591DC20C4BB4D78" data-rypp="d1d75757">
                                             <div class="RYPP-video">
-                                                <iframe class="RYPP-video-player" id="video-RYPP" src="https://www.youtube.com/embed/VOmIadFDSvE?autoplay=0"></iframe>
+                                                <iframe class="RYPP-video-player" id="video-RYPP" src="https://www.youtube.com/embed/cjwfYXd_8kM?autoplay=0"></iframe>
                                             </div>
                                     <div class="RYPP-playlist">
                                         <header>
@@ -153,7 +153,7 @@
                                                     <li >
 
                                                         <p class="title">
-                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/fJudCxQnZOM?autoplay=0">
+                                                            <a href="Javascript:void(0)" class="VideoList" data-url="https://www.youtube.com/embed/cjwfYXd_8kM?autoplay=0">
                     EP 1/6 การใช้งานโปรแกรม Microsoft Word เบื้องต้น</a>
                                                             <small class="author">
                                                                 <br>18 พ.ค. 2020
