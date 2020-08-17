@@ -453,7 +453,7 @@
                 </div>
             </div>
     </div>
-    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="https://demo.jantra.co/index.php/Home/noticenews">+ ดูทั้งหมด</a>
+    <a class="btn-u btn-u-sm rounded btn-default pull-right" title="ดูทั้งหมด" style="font-size:12px;" href="https://demo.jantra.co/index.php/Home/noticenewsa">+ ดูทั้งหมด</a>
 </div>
     </div>
 
