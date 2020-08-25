@@ -520,7 +520,6 @@
 
       </div>
     </section><!-- End Portfolio Section -->
-
     <!-- ======= Our Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container">
