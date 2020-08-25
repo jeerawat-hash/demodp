@@ -231,7 +231,7 @@
 
 
 
-          <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์/a></li>
+          <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์</a></li>
 
 
 
