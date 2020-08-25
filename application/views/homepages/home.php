@@ -531,37 +531,37 @@
 
         <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban1.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban2.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban3.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban4.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban5.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="col-lg-3 col-md-3 col-xs-6">
             <div class="client-logo">
               <img src="https://demo.jantra.co/AssetsHome/img/clients/ban6.png" class="img-fluid" alt="">
             </div>
