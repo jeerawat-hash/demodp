@@ -142,10 +142,10 @@
 
           <li class="drop-down <?php echo $story[0]; ?>" >
 
-              <a href="javascript:void(0);">ประวัติความเป็นมา</a>
+              <a href="javascript:void(0);">ประวัติ</a>
 
             <ul>
-              <li class="<?php echo $story[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/story">ประวัติ</a></li>
+              <li class="<?php echo $story[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/story">ประวัติความเป็นมา</a></li>
               <li class="<?php echo $story[1][1]; ?>" ><a href="https://demo.jantra.co/index.php/Home/org">ทำเนียบผู้บริหาร</a></li>
             </ul>
 
@@ -156,7 +156,7 @@
 
           <li class="drop-down <?php echo $org[0]; ?>" >
 
-              <a href="javascript:void(0);">โครงสร้างการบริหาร</a>
+              <a href="javascript:void(0);">โครงสร้าง</a>
 
             <ul>
               <li class="<?php echo $org[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/orga">วิสัยทัศน์/ภารกิจ/หน้าที่รับผิดชอบ</a></li>
@@ -169,7 +169,7 @@
 
           <li class="drop-down <?php echo $services[0]; ?>" >
 
-              <a href="javascript:void(0);">การให้บริการ</a>
+              <a href="javascript:void(0);">บริการ</a>
 
             <ul>
               <li class="<?php echo $services[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/servicesa">บริการฝึกอาชีพ</a></li>
@@ -193,7 +193,7 @@
 
           <li class="drop-down <?php echo $laws[0]; ?>" >
 
-              <a href="javascript:void(0);">กฏหมาย/ระเบียบ/เอกสารวิชาการ</a>
+              <a href="javascript:void(0);">เอกสารวิชาการ</a>
 
             <ul>
               <li class="<?php echo $laws[1][0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/lawsa">กฏหมาย/พ.ร.บ.</a></li>
@@ -231,7 +231,7 @@
 
 
 
-          <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์ฝีมือคนพิการ</a></li>
+          <li class="<?php echo $product[0]; ?>" ><a href="https://demo.jantra.co/index.php/Home/product">ผลิตภัณฑ์/a></li>
 
 
 
